@@ -1,0 +1,21 @@
+Sector,Sector ID
+Non-Energy Minerals,1100
+Producer Manufacturing,1200
+Electronic Technology,1300
+Consumer Durables,1400
+Energy Minerals,2100
+Process Industries,2200
+Health Technology,2300
+Consumer Non-Durables,2400
+Industrial Services,3100
+Commercial Services,3200
+Distribution Services,3250
+Technology Services,3300
+Health Services,3350
+Consumer Services,3400
+Retail Trade,3500
+Transportation,4600
+Utilities,4700
+Finance,4800
+Communications,4900
+Miscellaneous,6000

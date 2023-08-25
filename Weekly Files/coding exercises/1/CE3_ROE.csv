@@ -1,0 +1,3665 @@
+Symbol,Name,Country,Sector ID,ROE
+*ABX,Barrick Gold Corporation,Canada,1100,6
+*AEM,Agnico Eagle Mines Limited,Canada,1100,5
+*ATD,Alimentation Couche-Tard Inc.,Canada,3500,22.8
+*BCE,BCE Inc.,Canada,4900,15
+*BMO,Bank of Montreal,Canada,4800,13.2
+*BN,Brookfield Corporation,Canada,4800,11.1
+*BNS,Bank of Nova Scotia,Canada,4800,14
+*CM,Canadian Imperial Bank of Commerce,Canada,4800,12.9
+*CNQ,Canadian Natural Resources Limited,Canada,2100,32.5
+*CNR,Canadian National Railway Company,Canada,4600,25
+*CP,Canadian Pacific Railway Limited,Canada,4600,10
+*CTC.A,"Canadian Tire Corporation, Limited Class A",Canada,3500,15.6
+*CU,Canadian Utilities Limited Class A,Canada,4700,12.7
+*CVE,Cenovus Energy Inc.,Canada,2100,19.8
+*DOL,Dollarama Inc.,Canada,3500,1863.6
+*ENB,Enbridge Inc.,Canada,3100,10.4
+*FFH,Fairfax Financial Holdings Limited,Canada,4800,13.7
+*FNV,Franco-Nevada Corporation,Canada,1100,10.9
+*FTS,Fortis Inc.,Canada,4700,7.3
+*GIB.A,CGI Inc. Class A,Canada,3200,20.8
+*GWO,Great-West Lifeco Inc.,Canada,4800,13.9
+*H,Hydro One Limited,Canada,4700,9.1
+*IFC,Intact Financial Corporation,Canada,4800,14.3
+*IGM,IGM Financial Inc.,Canada,4800,13.5
+*IMO,Imperial Oil Limited,Canada,2100,20.2
+*MFC,Manulife Financial Corporation,Canada,4800,12.3
+*MG,Magna International Inc.,Canada,1200,10.6
+*MRU,Metro Inc.,Canada,3500,14.6
+*NA,National Bank of Canada,Canada,4800,16
+*NTR,Nutrien Ltd.,Canada,2200,17.8
+*POW,Power Corporation of Canada,Canada,4800,9
+*PPL,Pembina Pipeline Corporation,Canada,3100,16.6
+*QSR,Restaurant Brands International Inc,Canada,3400,47.7
+*RY,Royal Bank of Canada,Canada,4800,15
+*SAP,Saputo Inc.,Canada,2400,10.1
+*SHOP,"Shopify, Inc. Class A",Canada,3300,1
+*SJR.B,Shaw Communications Inc. Class B,Canada,4900,11.2
+*SLF,Sun Life Financial Inc.,Canada,4800,15.1
+*SU,Suncor Energy Inc.,Canada,2100,20.7
+*T,TELUS Corporation,Canada,4900,7.9
+*TD,Toronto-Dominion Bank,Canada,4800,15.4
+*TECK.B,Teck Resources Limited Class B,Canada,2100,11.8
+*TRI,Thomson Reuters Corporation,Canada,3300,13.4
+*TRP,TC Energy Corporation,Canada,3100,12.3
+*WCN,"Waste Connections, Inc.",Canada,4600,14.6
+*WN,George Weston Limited,Canada,3500,18.4
+*WPM,Wheaton Precious Metals Corp,Canada,1100,8.2
+4561,Antofagasta plc,United Kingdom,1100,8.5
+5367,Ashtead Group plc,United Kingdom,4800,31.9
+8118,Barratt Developments PLC,United Kingdom,1400,11.9
+9049,Bellway p.l.c.,United Kingdom,1400,11.2
+13670,British Land Company PLC,United Kingdom,4800,4.4
+18270,CRH Plc,Ireland,1100,12.2
+23740,Diageo plc,United Kingdom,2400,46.3
+24249,DCC Plc,Ireland,4700,14.4
+26349,BAE Systems plc,United Kingdom,1300,19
+26527,Derwent London plc,United Kingdom,4800,3
+28758,British American Tobacco p.l.c.,United Kingdom,2400,11.4
+30964,RS Group PLC,United Kingdom,3250,22.6
+40520,Halma plc,United Kingdom,1300,18.6
+40828,Standard Chartered PLC,United Kingdom,4800,7.6
+45449,Imperial Brands PLC,United Kingdom,2400,38.7
+54052,HSBC Holdings Plc,United Kingdom,4800,11
+55768,Howden Joinery Group PLC,United Kingdom,1400,33.6
+56039,Legal & General Group Plc,United Kingdom,4800,17.2
+67312,Associated British Foods plc,United Kingdom,2400,8.3
+67760,Pearson PLC,United Kingdom,3400,8.9
+68253,Persimmon Plc,United Kingdom,1400,22.2
+69286,UNITE Group plc,United Kingdom,4800,4.4
+70995,Prudential plc,United Kingdom,4800,12.2
+71887,Rio Tinto plc,United Kingdom,1100,27.3
+73235,Renishaw plc,United Kingdom,1200,15.5
+76693,St. James's Place Plc,United Kingdom,4800,32.3
+79087,SSE plc,United Kingdom,4700,15.1
+79805,BP p.l.c.,United Kingdom,2100,25.6
+82201,DS Smith Plc,United Kingdom,2200,12.5
+87061,Lloyds Banking Group plc,United Kingdom,4800,11.8
+87823,Taylor Wimpey plc,United Kingdom,1400,15.4
+92232,Smith & Nephew plc,United Kingdom,2300,13.2
+94658,Weir Group PLC,United Kingdom,1200,16.3
+96331,Dechra Pharmaceuticals PLC,United Kingdom,2300,15.5
+98952,AstraZeneca PLC,United Kingdom,2300,28.4
+1414,"SHO BOND Holdings Co., Ltd.",Japan,3100,12.9
+1605,Inpex Corporation,Japan,2100,1900
+1721,COMSYS Holdings Corporation,Japan,3100,7.2
+1801,TAISEI CORP,Japan,3100,8.1
+1802,Obayashi Corporation,Japan,1400,7.4
+1803,Shimizu Corporation,Japan,3100,6.1
+1808,Haseko Corporation,Japan,1400,12.8
+1812,Kajima Corporation,Japan,3100,10.3
+1860,Toda Corporation,Japan,3100,4.6
+1878,"Daito Trust Construction Co., Ltd.",Japan,4800,17.8
+1893,"Penta-Ocean Construction Co., Ltd.",Japan,3100,7.9
+1911,"Sumitomo Forestry Co., Ltd.",Japan,1400,11.8
+1925,"Daiwa House Industry Co., Ltd.",Japan,1400,10.8
+1928,"Sekisui House, Ltd.",Japan,4800,11.5
+1942,"Kandenko Co., Ltd.",Japan,3100,7.3
+1944,Kinden Corporation,Japan,3100,4.7
+1951,"EXEO Group, Inc.",Japan,3100,7.3
+1959,Kyudenko Corporation,Japan,3100,10.2
+1963,JGC Holdings Corporation,Japan,3100,7.3
+1973,NEC Networks & System Integration Corporation,Japan,3300,9.4
+200025,Banco Santander-Chile,Chile,4800,16.3
+2002,Nisshin Seifun Group Inc.,Japan,2200,-3
+203699,BRF SA,Brazil,2400,-16.9
+204342,"Alfa, S.A.B. de C.V. Class A",Mexico,2200,19.9
+206935,Banco de Credito e Inversiones,Chile,4800,11.5
+210084,Banco de Chile,Chile,4800,19.6
+2127,Nihon M&A Center Holdings Inc.,Japan,4800,21.4
+217431,CAP S.A.,Chile,1100,11.8
+2175,"SMS Co., Ltd.",Japan,3200,17.5
+2181,PERSOL HOLDINGS CO. LTD.,Japan,3200,15.8
+219283,Companhia Paranaense de Energia,Brazil,4700,4.7
+219369,Usinas Siderurgicas de Minas Gerais SA-Usiminas,Brazil,1100,3.3
+219601,Empresas CMPC S.A.,Chile,2200,7.4
+219602,Empresas Copec S.A.,Chile,2100,1050
+219618,Compania Cervecerias Unidas S.A.,Chile,2400,6.3
+219628,Vale S.A.,Brazil,1100,29.3
+219633,Compania Sud Americana de Vapores S.A.,Chile,4600,48.2
+220015,Companhia Paranaense de Energia - COPEL Pfd Registered B,Brazil,4700,4.7
+2201,"Morinaga & Co., Ltd.",Japan,2400,6.6
+220570,Interconexion Electrica SA ESP,Colombia,4700,13.4
+2206,"Ezaki Glico Co., Ltd.",Japan,2400,4.6
+2212,"Yamazaki Baking Co., Ltd.",Japan,2400,3.5
+2222,"Kotobuki Spirits Co., Ltd.",Japan,2400,23.3
+2229,"CALBEE, Inc.",Japan,2400,9
+224205,Fomento Economico Mexicano SAB de CV Units Cons. Of 1 ShsB And 4 ShsD,Mexico,2400,10.2
+2264,"Morinaga Milk Industry Co., Ltd.",Japan,2400,7.3
+2267,"Yakult Honsha Co., Ltd.",Japan,2400,10.9
+2269,"Meiji Holdings Co., Ltd.",Japan,2400,8.2
+2282,NH Foods Limited,Japan,2400,4.6
+2296,"Itoham Yonekyu Holdings, Inc.",Japan,2400,5.9
+229945,Enel Americas S.A.,Chile,4700,2.7
+230681,El Puerto de Liverpool SAB de CV,Mexico,3500,12.1
+230844,Centrais Eletricas Brasileiras SA-Eletrobras Pfd  B,Brazil,4700,4.8
+230925,Colbun S.A.,Chile,4700,7.7
+231112,Centrais Eletricas Brasileiras SA-Eletrobras,Brazil,4700,5.2
+231145,Embotelladora Andina SA Pfd  B,Chile,2400,15.3
+2327,NS Solutions Corp,Japan,3300,10.3
+232859,Banco do Brasil S.A.,Brazil,4800,18.8
+2331,"Sohgo Security Services Co., Ltd.",Japan,3200,7.7
+2371,"Kakaku.com, Inc.",Japan,3400,34.3
+238010,"Grupo Televisa, S.A.B.",Mexico,4900,2.7
+238600,Usinas Siderurgicas de Minas Gerais SA-Usiminas Pfd  A,Brazil,1100,3.4
+239247,Grupo Bimbo SAB de CV Class A,Mexico,2400,18.4
+239254,Gruma SAB de CV Class B,Mexico,2400,20.6
+239338,Promotora y Operadora de Infraestructura SA,Mexico,4600,10.4
+240645,Cemex SAB de CV Cert Part Ord Repr 2 ShsA & 1 ShsB,Mexico,1100,7.2
+2412,Benefit One Inc.,Japan,4800,29.3
+2413,"M3, Inc.",Japan,3300,17.4
+242104,Grupo Financiero Banorte SAB de CV Class O,Mexico,4800,20.3
+2432,"DeNA Co., Ltd.",Japan,3300,4.7
+2433,Hakuhodo Dy Holdings Incorporated,Japan,3200,8.1
+244097,Compania de Transmissao de Energia Eletrica Paulista Pfd,Brazil,4700,10.8
+244820,Industrias Penoles SAB de CV,Mexico,1100,3.5
+245877,Itausa - Investimentos Itau SA Pfd,Brazil,4800,17.6
+249191,Kimberly-Clark de Mexico SAB de CV Class A,Mexico,2400,100.2
+2501,Sapporo Holdings Limited,Japan,2400,4.9
+2502,"Asahi Group Holdings,Ltd.",Japan,2400,8.8
+2503,"Kirin Holdings Company, Limited",Japan,2400,11.8
+2579,Coca-Cola Bottlers Japan Holdings Inc.,Japan,2400,-1.1
+2587,Suntory Beverage & Food Ltd.,Japan,2400,8
+2593,"ITO EN,Ltd.",Japan,2400,7.2
+2607,"Fuji Oil Holdings, Inc.",Japan,2400,4.8
+263934,Grupo Aeroportuario del Sureste SAB de CV Class B,Mexico,4600,22.2
+264367,Grupo Mexico S.A.B. de C.V. Class B,Mexico,1100,18.2
+264551,Gerdau S.A. Pfd,Brazil,1100,25.8
+2651,"Lawson, Inc.",Japan,3500,8.1
+266747,America Movil SAB de CV Class L,Mexico,4900,22.2
+2670,"ABC-MART, INC.",Japan,3250,8.7
+2678,ASKUL Corporation,Japan,3500,13.9
+268236,Petroleo Brasileiro SA,Brazil,2100,46.9
+268453,Petroleo Brasileiro SA Pfd,Brazil,2100,46.9
+271830,Sociedad Quimica y Minera de Chile SA Pfd Series B,Chile,2200,85.1
+2768,Sojitz Corp.,Japan,1100,13.9
+277167,Falabella S.A.,Chile,3500,3.2
+2784,Alfresa Holdings Corporation,Japan,3250,4.4
+2801,Kikkoman Corporation,Japan,2400,10.7
+2802,"Ajinomoto Co., Inc.",Japan,2400,11.8
+2809,Kewpie Corporation,Japan,2400,4.9
+2810,House Foods Group Inc.,Japan,2400,4.4
+2811,"Kagome Co., Ltd.",Japan,2400,5.8
+2815,"ARIAKE JAPAN Co., Ltd.",Japan,2400,6
+281960,Sociedad Quimica y Minera de Chile SA Pfd  Series A,Chile,2200,85.1
+282239,Grupo Financiero Inbursa SAB de CV Class O,Mexico,4800,12.3
+282388,Arca Continental SAB de CV,Mexico,2400,13.2
+284097,CCR S.A.,Brazil,4600,10.2
+2871,Nichirei Corporation,Japan,2200,9.3
+2875,"Toyo Suisan Kaisha, Ltd.",Japan,2400,7.9
+2897,"Nissin Foods Holdings Co., Ltd.",Japan,2400,9.1
+2914,Japan Tobacco Inc.,Japan,2400,14.9
+294542,WEG S.A.,Brazil,1200,29
+294666,GCC SAB de CV,Mexico,1100,12.5
+3003,"Hulic Co., Ltd.",Japan,4800,11.8
+3038,"Kobe Bussan Co., Ltd.",Japan,3500,20.6
+3048,BIC Cameras Inc.,Japan,3500,7.1
+3064,"MonotaRO Co., Ltd.",Japan,3250,25.9
+3086,"J. FRONT RETAILING Co., Ltd.",Japan,3500,4.9
+3088,MatsukiyoCocokara & Co.,Japan,3500,8
+309135,BT Group plc,United Kingdom,4900,13
+3092,"ZOZO, Inc.",Japan,3500,50.4
+3099,Isetan Mitsukoshi Holdings Ltd.,Japan,3500,4.8
+3116,Toyota Boshoku Corp.,Japan,1200,6.1
+313486,Barclays PLC,United Kingdom,4800,8.7
+3141,"Welcia Holdings Co., Ltd.",Japan,3500,12.9
+316383,Intertek Group plc,United Kingdom,3200,28.7
+317430,Burberry Group plc,United Kingdom,2400,29.2
+3197,"Skylark Holdings Co., Ltd.",Japan,3400,0.2
+320898,Next plc,United Kingdom,3500,57.9
+3231,"Nomura Real Estate Holdings, Inc.",Japan,4800,9.1
+3249,Industrial & Infrastructure Fund Investment Corporation,Japan,4800,6
+3269,Advance Residence Investment Corporation,Japan,4800,6.7
+3279,"Activia Properties, Inc.",Japan,4800,4.4
+3281,GLP J-REIT,Japan,4800,5.9
+3283,"Nippon Prologis REIT, Inc.",Japan,4800,4.9
+3288,Open House Group Co. Ltd,Japan,1400,20.8
+3289,Tokyu Fudosan Holdings Corp.,Japan,4800,6.3
+3291,"Iida Group Holdings Co., Ltd.",Japan,1400,9.5
+3309,Sekisui House Reit. Inc.,Japan,4800,4.5
+331952,Kingfisher Plc,United Kingdom,3500,8.7
+3349,COSMOS Pharmaceutical Corporation,Japan,3500,11.2
+3360,"Ship Healthcare Holdings, Inc.",Japan,3250,10.2
+3382,"Seven & I Holdings Co., Ltd.",Japan,3500,8.6
+3391,"TSURUHA Holdings, Inc.",Japan,3500,8.7
+339864,ITV PLC,United Kingdom,3400,32.2
+3401,Teijin Limited,Japan,2200,1.9
+3402,"Toray Industries, Inc.",Japan,2200,6
+3405,"Kuraray Co., Ltd.",Japan,2200,6.3
+3407,Asahi Kasei Corporation,Japan,2200,5.9
+3436,SUMCO Corporation,Japan,1200,13.2
+3462,"Nomura Real Estate Master Fund, Inc.",Japan,4800,4.5
+3471,"Mitsui Fudosan Logistics Park, Inc.",Japan,4800,4.1
+3549,"KUSURI NO AOKI HOLDINGS CO.,LTD.",Japan,3500,13.4
+3563,FOOD & LIFE COMPANIES LTD.,Japan,3400,10.2
+3626,TIS Inc.,Japan,3300,15.2
+3635,"Koei Tecmo Holdings Co., Ltd.",Japan,3300,18.6
+3659,"NEXON Co., Ltd.",Japan,3300,11.6
+3697,"SHIFT, Inc.",Japan,3300,20.4
+3765,"Gungho Online Entertainment, Inc.",Japan,3300,11.8
+3769,"GMO Payment Gateway, Inc.",Japan,4800,14.5
+3774,Internet Initiative Japan Inc.,Japan,4900,16.1
+3861,Oji Holdings Corp.,Japan,2200,8.3
+3880,Daio Paper Corporation,Japan,2200,-10.2
+3923,"RAKUS Co., Ltd.",Japan,3300,11.6
+3941,"Rengo Co., Ltd.",Japan,2200,6.8
+3994,"Money Forward, Inc.",Japan,3300,-23.6
+400212,Bouygues SA,France,3100,8.5
+4004,Resonac Holdings Corporation,Japan,2200,7.4
+4005,"Sumitomo Chemical Co., Ltd.",Japan,2200,4
+401225,Airbus SE,France,1300,28.3
+4021,Nissan Chemical Corporation,Japan,1300,19.6
+403187,Veolia Environnement SA,France,4700,8.5
+403197,adidas AG,Germany,2400,-2.8
+4042,Tosoh Corporation,Japan,2200,8.2
+405671,Assicurazioni Generali S.p.A.,Italy,4800,15.3
+405780,L'Oreal S.A.,France,2400,21.7
+405862,Glanbia Plc,Ireland,2400,15.2
+4061,"Denka Co., Ltd.",Japan,2200,4.8
+406141,LVMH Moet Hennessy Louis Vuitton SE,France,2400,24.6
+4062,"IBIDEN CO., LTD.",Japan,1300,12.3
+4063,Shin-Etsu Chemical Co Ltd,Japan,2200,19.1
+407683,Intesa Sanpaolo S.p.A.,Italy,4800,10.9
+4088,Air Water Inc.,Japan,2200,9.2
+4091,Nippon Sanso Holdings Corporation,Japan,2200,9.9
+410359,EDP-Energias de Portugal SA,Portugal,4700,8.6
+4114,"Nippon Shokubai Co., Ltd.",Japan,2200,6.2
+4118,Kaneka Corporation,Japan,2200,6.7
+4151,"Kyowa Kirin Co., Ltd.",Japan,2300,9
+416279,Thales SA,France,1300,20.6
+416343,Capgemini SE,France,3300,18
+416921,Carlsberg AS Class B,Denmark,2400,21.4
+4182,"Mitsubishi Gas Chemical Company, Inc.",Japan,2200,9.5
+4183,"Mitsui Chemicals, Inc.",Japan,2200,12.7
+4185,JSR Corp.,Japan,1300,8.4
+4186,"Tokyo Ohka Kogyo Co., Ltd.",Japan,1200,11
+4188,Mitsubishi Chemical Group Corporation,Japan,2200,7.7
+4202,Daicel Corporation,Japan,2200,12.9
+4203,"Sumitomo Bakelite Co., Ltd.",Japan,2300,8.4
+4204,"Sekisui Chemical Co., Ltd.",Japan,2200,10.2
+4205,Zeon Corporation,Japan,2200,7.3
+4206,"Aica Kogyo Company, Limited",Japan,2200,8.7
+4208,UBE Corporation,Japan,2200,-0.7
+424894,LAMDA Development S.A.,Greece,4800,-6.1
+425304,A.P. Moller - Maersk A/S Class B,Denmark,4600,7
+425305,A.P. Moller - Maersk A/S Class A,Denmark,4600,7
+4307,"Nomura Research Institute,Ltd.",Japan,3300,19.7
+4324,Dentsu Group Inc.,Japan,3200,10.3
+435209,Fresenius SE & Co. KGaA,Germany,2300,9.3
+435413,United Internet AG,Germany,3300,9.1
+438042,Publicis Groupe SA,France,3200,15.8
+440044,Faurecia Societe europeenne,France,1200,9
+4403,NOF Corporation,Japan,2200,13.9
+440920,Fielmann AG,Germany,2300,12.8
+444747,Huhtamaki Oyj,Finland,2200,12.5
+4452,Kao Corp.,Japan,2400,10.5
+4483,JMDC Inc.,Japan,3300,7.8
+449000,Kesko Oyj Class B,Finland,3500,18.9
+449123,Kingspan Group Plc,Ireland,1200,14.4
+449774,KBC Group N.V.,Belgium,4800,14
+450109,GN Store Nord A/S,Denmark,1300,15.4
+4502,Takeda Pharmaceutical Co. Ltd.,Japan,2300,5.1
+4503,Astellas Pharma Inc.,Japan,2300,12
+4506,Sumitomo Pharma Co.Ltd.,Japan,2300,-5
+4507,"Shionogi & Co., Ltd.",Japan,2300,15.9
+451180,Hannover Rueck SE,Germany,4800,16.4
+4516,"Nippon Shinyaku Co., Ltd.",Japan,2300,12.8
+4519,"Chugai Pharmaceutical Co., Ltd.",Japan,2300,19.9
+451944,"Komercni banka, a.s.",Czech Republic,4800,11.9
+451957,Kerry Group Plc Class A,Ireland,2400,12.1
+4521,"Kaken Pharmaceutical Co., Ltd.",Japan,2300,7.6
+4523,"Eisai Co., Ltd.",Japan,2300,7.5
+452518,Wartsila Oyj Abp,Finland,1200,13.6
+4527,"Rohto Pharmaceutical Co., Ltd.",Japan,2400,11.5
+4528,"ONO Pharmaceutical Co., Ltd.",Japan,2300,16.1
+4530,"Hisamitsu Pharmaceutical Co., Inc.",Japan,2300,4.8
+4536,"Santen Pharmaceutical Co., Ltd.",Japan,2300,-3.6
+4540,Tsumura & Co.,Japan,2300,6.7
+4543,Terumo Corporation,Japan,2300,9.2
+4544,"H.U.Group Holdings, Inc.",Japan,3350,12.4
+4552,"JCR Pharmaceuticals Co., Ltd.",Japan,2300,16.8
+455440,Icade SA,France,4800,6.7
+455710,GEA Group Aktiengesellschaft,Germany,1200,16.6
+4568,"Daiichi Sankyo Company, Limited",Japan,2300,7.2
+457270,Bollore SE,France,3400,5.2
+457481,Mediobanca - Banca di Credito Finanziario S.p.A.,Italy,4800,9.2
+457746,Magyar Telekom Telecommunications PLC,Hungary,4900,8.7
+4578,"Otsuka Holdings Co., Ltd.",Japan,2300,7
+4581,"Taisho Pharmaceutical Holdings Co., Ltd.",Japan,2300,2.1
+4587,Peptidream Inc.,Japan,2300,14.6
+458882,Danske Bank A/S,Denmark,4800,9.3
+459573,Genmab A/S,Denmark,2300,22.2
+459858,Continental AG,Germany,1400,8.9
+4612,"Nippon Paint Holdings Co., Ltd.",Japan,2200,8.7
+4613,"Kansai Paint Co., Ltd.",Japan,2200,7.3
+461785,Deutsche Post AG,Germany,4600,22.7
+4631,DIC Corporation,Japan,2200,6.8
+463508,Telekom Austria AG,Austria,4900,16.1
+465145,OMV AG,Austria,2100,15
+4661,"Oriental Land Co., Ltd.",Japan,3400,8.5
+466160,VERBUND AG Class A,Austria,4700,24.6
+4666,"Park24 Co., Ltd.",Japan,3400,25.9
+4676,"Fuji Media Holdings, Inc.",Japan,3400,3.4
+4681,"Resorttrust, Inc.",Japan,3400,12.7
+468232,Pernod Ricard SA,France,2400,14.8
+4684,"OBIC Co., Ltd.",Japan,3300,15.3
+4689,Z Holdings Corporation,Japan,3300,6.4
+469191,Leroy Seafood Group ASA,Norway,2400,12.5
+4704,Trend Micro Incorporated,Japan,3300,11.7
+471279,Renault SA,France,1400,9.1
+471349,ROCKWOOL A/S Class B,Denmark,1100,10.3
+4716,Oracle Corporation Japan,Japan,3300,33.4
+4732,"USS Co., Ltd.",Japan,3500,16
+473249,Telenor ASA,Norway,4900,24.3
+4733,"OBIC Business Consultants Co., Ltd.",Japan,3300,7.7
+4739,Itochu Techno-Solutions Corporation,Japan,3200,11.5
+474171,Remy Cointreau SA,France,2400,16.5
+474184,Merck KGaA,Germany,2300,18.1
+4751,"CyberAgent, Inc.",Japan,3300,9.6
+4755,"Rakuten Group, Inc.",Japan,3500,-17.9
+4768,Otsuka Corporation,Japan,3300,12.3
+476896,RWE AG,Germany,4700,16.9
+479053,Schibsted Asa Class A,Norway,3300,3.2
+479213,SEB SA,France,1400,9.4
+481274,Skandinaviska Enskilda Banken AB Class C,Sweden,4800,13.4
+481334,Skandinaviska Enskilda Banken AB Class A,Sweden,4800,13.4
+482110,Solvay SA,Belgium,2200,15.6
+482477,SGS SA,Switzerland,3200,88
+483410,Schneider Electric SE,France,1200,15.7
+483477,Vivendi SE,France,3400,1.8
+484628,SAP SE,Germany,3300,15
+484652,Swedbank AB Class A,Sweden,4800,15
+4887,"SAWAI GROUP HOLDINGS Co., Ltd.",Japan,2300,7.9
+4901,FUJIFILM Holdings Corp,Japan,1400,7.7
+4902,"Konica Minolta, Inc.",Japan,1300,1.1
+490238,Trelleborg AB Class B,Sweden,1200,12
+490795,Marel hf.,Iceland,1200,11.6
+4911,"Shiseido Company,Limited",Japan,2400,9.1
+4912,Lion Corporation,Japan,2400,6.8
+4921,Fancl Corporation,Japan,2400,9.6
+4922,Kose Corporation,Japan,2400,7.3
+4927,Pola Orbis Holdings Inc.,Japan,2400,6.9
+4928,"Noevir Holdings Co., Ltd.",Japan,2400,14.8
+494290,E.ON SE,Germany,4700,17.5
+494340,voestalpine AG,Austria,1100,13.3
+4967,"Kobayashi Pharmaceutical Co., Ltd.",Japan,2300,9.7
+4974,Takara Bio Inc.,Japan,2300,13.5
+500246,Henkel AG & Co. KGaA,Germany,2400,8.8
+5019,"Idemitsu Kosan Co., Ltd.",Japan,2100,16.6
+5020,"ENEOS Holdings, Inc.",Japan,2100,7.8
+5021,"Cosmo Energy Holdings Co., Ltd.",Japan,2100,15.6
+505125,UPM-Kymmene Oyj,Finland,2200,11.5
+505160,Hellenic Telecommunications Organization SA,Greece,4900,27.2
+506472,PUMA SE,Germany,2400,14.6
+506921,Bayer AG,Germany,2300,21.4
+507267,Stora Enso Oyj Class R,Finland,2200,6.9
+5076,INFRONEER Holdings Inc.,Japan,3100,8.8
+507670,Henkel AG & Co. KGaA Pref,Germany,2400,8.8
+508657,BASF SE,Germany,2200,14.7
+5101,"Yokohama Rubber Co., Ltd.",Japan,1400,8.1
+5105,Toyo Tire Corporation,Japan,1400,10.1
+510740,Beiersdorf AG,Germany,2400,10.9
+5108,Bridgestone Corporation,Japan,1400,11.4
+510866,HOCHTIEF Aktiengesellschaft,Germany,3100,66.4
+5110,"Sumitomo Rubber Industries, Ltd.",Japan,1400,4.4
+512067,HeidelbergCement AG,Germany,1100,9.4
+512907,Fresenius Medical Care AG & Co. KGaA,Germany,3350,6.3
+516140,Interpump Group S.p.A.,Italy,1200,15.7
+516529,ASM International N.V.,Netherlands,1200,24.6
+517617,Orange SA,France,4900,9.5
+5201,AGC Inc.,Japan,1400,7.1
+520824,Kongsberg Gruppen ASA,Norway,1200,22.1
+5214,"Nippon Electric Glass Co., Ltd.",Japan,1300,3
+522603,Sampo Oyj Class A,Finland,4800,14.7
+522865,Randstad NV,Netherlands,3200,16.6
+523148,Allianz SE,Germany,4800,15.5
+5233,Taiheiyo Cement Corporation,Japan,1100,-3
+525397,Hermes International SCA,France,2400,25.8
+526076,Sixt SE,Germany,4800,20.3
+526325,KGHM Polska Miedz S.A.,Poland,1100,16.8
+527127,Sixt SE Pref,Germany,4800,20.3
+527178,Endesa S.A.,Spain,4700,38.1
+528748,Deutsche Lufthansa AG,Germany,4600,12
+528983,Erste Group Bank AG,Austria,4800,11.8
+529412,Munich Reinsurance Company,Germany,4800,14.9
+5301,"Tokai Carbon Co., Ltd.",Japan,1200,9.3
+5332,TOTO Ltd,Japan,1200,8.9
+5333,"NGK Insulators, Ltd.",Japan,1200,9.5
+5334,"NGK SPARK PLUG CO., LTD.",Japan,1200,13.9
+533458,Rheinmetall AG,Germany,1300,16.4
+539330,Banca Transilvania SA,Romania,4800,19.8
+5401,NIPPON STEEL CORP.,Japan,1100,15.7
+5406,"Kobe Steel, Ltd.",Japan,1100,6
+5411,"JFE Holdings, Inc.",Japan,1100,7.8
+5444,"Yamato Kogyo Co., Ltd.",Japan,1100,15.8
+5463,Maruichi Steel Tube Ltd.,Japan,1200,7
+546955,Saab AB Class B,Sweden,1300,8.5
+5471,"Daido Steel Co., Ltd.",Japan,1100,9.4
+547311,BANK POLSKA KASA OPIEKI SA,Poland,4800,11.1
+547400,Bankinter SA,Spain,4800,12.7
+547565,HELLENiQ ENERGY Holdings S.A.,Greece,2100,25.9
+547692,Barry Callebaut AG,Switzerland,2400,14.2
+549710,Volkswagen AG,Germany,1400,10.2
+549716,Volkswagen AG Pref,Germany,1400,10.3
+549913,A2A S.p.A.,Italy,4700,9.5
+550190,"Banco Bilbao Vizcaya Argentaria, S.A.",Spain,4800,12.9
+550507,Kering SA,France,2400,24.6
+552902,Mercedes-Benz Group AG,Germany,1400,14.6
+553397,Swisscom AG,Switzerland,4900,14
+555404,Securitas AB Class B,Sweden,3200,11.6
+557910,Acciona SA,Spain,3100,9.3
+557955,Fortum Oyj,Finland,4700,9.4
+559699,UCB S.A.,Belgium,2300,9.6
+562403,CEZ as,Czech Republic,4700,32.8
+5631,"Japan Steel Works, Ltd.",Japan,1200,8.7
+563396,Nemetschek SE,Germany,3300,25.6
+563692,thyssenkrupp AG,Germany,1100,2.4
+564156,Carrefour SA,France,3500,10.8
+565042,"Naturgy Energy Group, S.A.",Spain,4700,21.9
+566935,Repsol SA,Spain,2100,14.7
+567151,Wolters Kluwer NV,Netherlands,3300,47
+567173,Sanofi,France,2300,13.6
+568743,H&M Hennes & Mauritz AB Class B,Sweden,3500,16.1
+570151,Elisa Oyj Class A,Finland,4900,29.8
+570594,"Banco Santander, S.A.",Spain,4800,9.1
+5706,"Mitsui Mining and Smelting Company, Limited",Japan,1100,12.3
+5711,Mitsubishi Materials Corp.,Japan,1200,0.7
+5713,"Sumitomo Metal Mining Co., Ltd.",Japan,1100,10.1
+5714,"Dowa Holdings Co., Ltd.",Japan,1100,10.1
+571577,Ackermans & van Haaren NV,Belgium,3100,8.5
+572797,Siemens Aktiengesellschaft,Germany,1200,13.5
+573252,Telefonica SA,Spain,4900,7.7
+573467,1&1 AG,Germany,4900,7.4
+575035,Deutsche Bank Aktiengesellschaft,Germany,4800,6.1
+575602,Bayerische Motoren Werke AG,Germany,1400,21
+575603,Bayerische Motoren Werke AG Pref,Germany,1400,20.9
+578220,Buzzi Unicem S.p.A.,Italy,1100,9.8
+5801,"Furukawa Electric Co., Ltd.",Japan,1200,6.6
+5802,"Sumitomo Electric Industries, Ltd.",Japan,1200,5.3
+580244,Varta AG,Germany,1200,-11.1
+580622,Etablissementen Franz Colruyt N.V.,Belgium,3500,7.3
+580942,Royal Vopak NV,Netherlands,3250,11.1
+581006,Polski Koncern Naftowy ORLEN S.A.,Poland,2100,30.7
+581191,Evotec SE,Germany,2300,-12.1
+5831,"Shizuoka Financial Group, Inc.",Japan,4800,4.9
+584235,Deutsche Telekom AG,Germany,4900,17.6
+584330,Sartorius AG,Germany,2300,21
+584332,Sartorius AG Pref,Germany,2300,20.5
+585284,Accor SA,France,3400,4.6
+588185,CTS Eventim AG & Co. KGaA,Germany,3400,25.7
+588950,Infineon Technologies AG,Germany,1300,17.7
+589866,MYTILINEOS S.A.,Greece,4700,23.3
+590294,Nokia Oyj,Finland,1300,10.8
+591060,RATIONAL AG,Germany,1200,26.4
+592296,Carl Zeiss Meditec AG,Germany,2300,13.5
+592737,Aegon N.V.,Netherlands,4800,7
+5929,Sanwa Holdings Corporation,Japan,1200,14.1
+593240,Bechtle AG,Germany,3300,16.7
+5938,LIXIL Corporation,Japan,1200,4
+5947,Rinnai Corporation,Japan,1200,8.1
+595607,Royal KPN NV,Netherlands,4900,20.1
+595748,Telefonaktiebolaget LM Ericsson Class A,Sweden,1300,12.8
+595937,Telefonaktiebolaget LM Ericsson Class B,Sweden,1300,12.8
+596228,Chocoladefabriken Lindt & Spruengli AG Partizipsch.,Switzerland,2400,11.2
+596230,Chocoladefabriken Lindt & Spruengli AG,Switzerland,2400,11.2
+596233,STMicroelectronics NV,Switzerland,1300,23.5
+596651,Societe Generale S.A. Class A,France,4800,5.8
+597838,Telia Company AB,Sweden,4900,8.7
+598061,Givaudan SA,Switzerland,2400,20.5
+598381,Zurich Insurance Group Ltd,Switzerland,4800,18.7
+598662,Koninklijke Philips N.V.,Netherlands,2300,7.2
+5991,"NHK Spring Co., Ltd.",Japan,1200,7.7
+599623,MOTOR OIL (HELLAS) CORINTH REFINERIES S.A.,Greece,2100,51.8
+599933,Teleperformance SA,France,3200,21.5
+600020,Boubyan Petrochemical Co. (K.S.C.),Kuwait,2200,10.1
+600030,Jiangxi Copper Company Limited Class H,China,1100,7.5
+600109,"BOE Technology Group Co., Ltd. Class B",China,1300,4.1
+600172,Abu Dhabi Islamic Bank,United Arab Emirates,4800,20
+600245,ASMPT Limited,Hong Kong,1300,17
+6005,"Miura Co., Ltd.",Japan,1200,9.1
+600521,Accton Technology Corp.,Taiwan,1300,41.7
+600550,Jiangsu Expressway Co. Ltd. Class H,China,4600,11.3
+600585,Acer Incorporated,Taiwan,1300,9.6
+600688,ADBRI Limited,Australia,1100,8.4
+601369,China Southern Airlines Company Limited Class H,China,4600,-48.9
+601564,"Angang Steel Co., Ltd. Class H",China,1100,0.8
+601808,"SKC Co., Ltd.",South Korea,2200,5.2
+602669,"Anhui Gujing Distillery Co., Ltd. Class B",China,2400,16.3
+6028,TechnoPro Holdings Inc.,Japan,3200,20.6
+603050,Hang Lung Properties Limited,Hong Kong,4800,3.8
+604095,AVI Limited Class Y,South Africa,2400,37.7
+604112,African Rainbow Minerals Limited,South Africa,1100,25.5
+604199,Ramsay Health Care Limited,Australia,3350,10.7
+604321,Singapore Technologies Engineering Ltd,Singapore,1300,22.1
+604364,"Yantai Changyu Pioneer Wine Co., Ltd. Class B",China,2400,4.7
+604518,Anhui Expressway Company Limited Class H,China,4600,12.6
+604702,AMMB Holdings Bhd.,Malaysia,4800,8.9
+605104,Asustek Computer Inc.,Taiwan,1300,9
+605142,Realtek Semiconductor Corp,Taiwan,1300,24.3
+605511,Ayala Land Inc.,Philippines,4800,8.5
+605633,Asia Cement Corporation,Taiwan,1100,8.9
+606100,Santam Limited,South Africa,4800,15.3
+606558,ANZ Group Holdings Limited,Australia,4800,10.5
+606660,Amcor PLC Shs Chess Depository Interests,United Kingdom,2200,27.9
+607496,Bank of the Philippine Islands,Philippines,4800,12.2
+607564,Bank of East Asia Ltd.,Hong Kong,4800,4.7
+607574,CIMB Group Holdings Bhd,Malaysia,4800,8.5
+607580,Bank Hapoalim BM,Israel,4800,13.3
+607614,Westpac Banking Corporation,Australia,4800,10
+607624,Bank of Queensland Limited,Australia,4800,7.5
+607642,Bank Leumi Le-Israel Ltd.,Israel,4800,14.5
+607700,Bangkok Bank Public Company Limited,Thailand,4800,6.9
+608039,Anhui Conch Cement Company Limited Class H,China,1100,8.6
+608071,"Datang International Power Generation Co., Ltd. Class H",China,4700,0.7
+608438,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited Class H,China,2300,11.9
+608624,DiGi.Com Bhd,Malaysia,4900,30.7
+608625,Fortescue Metals Group Ltd,Australia,1100,27
+608728,Telstra Group Limited,Australia,4900,12.3
+608820,Beach Energy Limited,Australia,2100,10.5
+609128,Bendigo & Adelaide Bank Ltd.,Australia,4800,7.8
+609249,PT Astra Agro Lestari Tbk,Indonesia,2200,7.8
+609323,Cheil Worldwide Inc.,South Korea,3200,15.7
+609401,Berli Jucker Public Co. Ltd.,Thailand,2200,4.1
+609701,CLP Holdings Limited,Hong Kong,4700,7.3
+6098,"Recruit Holdings Co., Ltd.",Japan,3300,17.8
+609803,Bezeq The Israel Telecommunication Corp. Ltd.,Israel,4900,64.8
+609849,3M India Limited,India,1200,29.9
+609962,Reliance Industries Limited,India,2100,8.4
+609967,"Huaneng Power International, Inc. Class H",China,4700,-3.4
+609972,Bharat Petroleum Corporation Limited,India,2100,-0.3
+609978,Bank of India,India,4800,8
+610008,Bidvest Group Limited,South Africa,3500,17.7
+610018,Mahindra & Mahindra Ltd.,India,1400,16.2
+610035,Shree Cement Limited,India,1100,7.3
+610047,Hindustan Petroleum Corporation Limited,India,2100,-29.4
+610102,LIC Housing Finance Ltd,India,4800,10.4
+6103,Okuma Corp.,Japan,1200,9.3
+610557,Clicks Group Limited,South Africa,3500,42.9
+610943,"Taiwan Fertilizer Co., Ltd.",Taiwan,2200,4.8
+610967,Vanguard International Semiconductor Corp,Taiwan,1300,34.7
+610989,Yankuang Energy Group Company Limited Class H,China,2100,36.2
+6113,"AMADA Co., Ltd.",Japan,1200,7
+611348,Truworths International Limited,South Africa,3500,42.9
+611474,Tata Communications Limited,India,4900,81.2
+611798,GlaxoSmithKline Pharmaceuticals Limited,India,2300,28.2
+612117,Lynas Rare Earths Limited,Australia,1100,19.9
+612148,Tata Consumer Products Limited,India,2400,7.2
+612149,Steel Authority of India Limited,India,1100,4.7
+612153,Mangalore Refinery & Petrochemicals Ltd.,India,2100,27.4
+612860,Nestle India Ltd.,India,2400,99.6
+612922,ASX Limited,Australia,4800,13.9
+613340,GAIL (India) Limited,India,4700,10.5
+613345,"Micro-Star International Co., Ltd.",Taiwan,1300,22
+6136,OSG Corp,Japan,1200,9.4
+613604,Vedanta Limited,India,1100,23.7
+613623,"Hengan International Group Co., Ltd.",China,2400,12.5
+613772,Unimicron Technology Corp.,Taiwan,1300,34.8
+613934,Titan Company Limited,India,1400,28
+613936,Oil & Natural Gas Corp. Ltd.,India,2100,16.9
+613969,Colgate-Palmolive (India) Limited,India,2400,60.4
+613972,Hindustan Zinc Limited,India,1100,41.4
+613993,Gillette India Limited,India,2400,34.2
+614057,Chicony Electronics Co. Ltd.,Taiwan,1300,22.3
+6141,"DMG MORI CO., LTD.",Japan,1200,11.7
+614101,Quanta Computer Inc.,Taiwan,1300,16.3
+614278,Huadian Power International Corp. Ltd. Class H,China,4700,6.2
+614376,Lupin Limited,India,2300,3.2
+614469,BHP Group Ltd,Australia,1100,31.9
+6146,Disco Corporation,Japan,1200,22.9
+614710,Alliance Global Group Inc.,Philippines,4800,8.3
+614804,Qatar Insurance Co.,Qatar,4800,7.1
+614811,NMDC Limited,India,1100,23
+614819,Qatar National Bank QPSC,Qatar,4800,15.9
+614820,Qatar Navigation QSC,Qatar,4600,6.9
+614827,Hyundai Motor Co Ltd Pfd. Shs 2,South Korea,1400,9.9
+615044,Commercial Bank (Q.S.C.),Qatar,4800,13
+615159,Mphasis Limited,India,3300,22.6
+615252,Contact Energy Limited,New Zealand,4700,7.1
+615525,"Samsung Fire & Marine Insurance Co., Ltd",South Korea,4800,10.2
+615526,Samsung Fire & Marine Insurance Co Ltd Pfd  Non-Voting,South Korea,4800,10.2
+615581,Burgan Bank,Kuwait,4800,10
+615591,ACC Limited,India,1100,11.2
+615593,DB INSURANCE CO. LTD,South Korea,4800,16.9
+615817,Ooredoo Q.P.S.C,Qatar,4900,9.4
+615947,Chongqing Changan Automobile Company Limited Class B,China,1400,13.4
+616003,EBOS Group Limited,Australia,2300,12.1
+616095,Cafe de Coral Holdings Ltd.,Hong Kong,3400,7.6
+616152,Ryman Healthcare Ltd.,New Zealand,3350,6.7
+616197,Mirvac Group,Australia,4800,5
+616769,Altium,United States,3300,23
+617137,China Eastern Airlines Corporation Limited Class H,China,4600,-162.5
+617190,Housing Development Finance Corporation Limited,India,4800,12.3
+617340,"Coway Co., Ltd.",South Korea,1400,19.4
+617350,Harvey Norman Holdings Ltd,Australia,3500,12.7
+617507,KT & G Corporation,South Korea,2400,10.5
+617520,DBS Group Holdings Ltd,Singapore,4800,16.4
+617787,Discovery Limited,South Africa,4800,11.9
+6178,"JAPAN POST HOLDINGS Co., Ltd.",Japan,4800,3.2
+617975,Cathay Pacific Airways Limited,Hong Kong,4600,-9.1
+618023,S-1 Corporation,South Korea,3200,11.9
+618027,DFI Retail Group Holdings Limited,Hong Kong,3500,2.1
+618041,Computershare Limited,Australia,3300,29.6
+618069,Linde India Ltd.,India,2200,19.8
+618207,Korea Gas Corporation,South Korea,4700,10.8
+618549,CSL Limited,Australia,2300,16.6
+618602,Eva Airways Corporation,Taiwan,4600,9.7
+618666,"Catcher Technology Co., Ltd.",Taiwan,1200,7.8
+618819,Malaysia Airports Holdings Bhd.,Malaysia,4600,-2.5
+618853,Zee Entertainment Enterprises Limited,India,3400,6.8
+618951,CJ Corporation,South Korea,2400,7
+618965,China Airlines Ltd.,Taiwan,4600,5
+619022,"Cheng Shin Rubber Ind. Co., Ltd.",Taiwan,1400,6
+619095,China Steel Corporation,Taiwan,1100,6
+619199,CSPC Pharmaceutical Group Limited,China,2300,19.8
+619215,China Overseas Land & Investment Limited,Hong Kong,4800,8.5
+619376,China Resources Land Limited,Hong Kong,4800,11.5
+619403,Kakao Corp.,South Korea,3200,4.6
+619607,"Lao Feng Xiang Co., Ltd. Class B",China,1400,17.9
+619617,"CSG Holding Co., Ltd. Class B",China,1400,17.1
+619728,China Travel International Investment Hong Kong Limited,Hong Kong,3400,-1.6
+619792,City Developments Limited,Singapore,4800,5.5
+619857,REA Group Ltd,Australia,3300,26.4
+619975,"CJ ENM Co., Ltd.",South Korea,3400,2.4
+620088,Transurban Group Ltd.,Australia,4600,3.8
+6201,Toyota Industries Corp.,Japan,1200,4.9
+620267,"Advantech Co., Ltd.",Taiwan,1300,27
+620512,Infosys Limited,India,3300,32.2
+620513,Sembcorp Marine Ltd,Singapore,1200,-6.9
+620605,Wipro Limited,India,3300,15.6
+620842,"Beijing Capital International Airport Co., Ltd. Class H",China,4600,-13.4
+621120,Tata Elxsi Limited,India,3300,53.5
+621173,"Daewoo Shipbuilding & Marine Engineering Co., Ltd",South Korea,1200,-96.5
+621179,Cochlear Limited,Australia,2300,17.3
+621412,MRF Limited,India,1400,4.6
+621486,Origin Energy Limited,Australia,4700,4.8
+621503,Commonwealth Bank of Australia,Australia,4800,13.8
+621808,Lenovo Group Limited,Hong Kong,1300,29.4
+621867,Boral Limited,Australia,1100,5.7
+622010,Rio Tinto Limited,Australia,1100,27.2
+622487,"SK Telecom Co., Ltd.",South Korea,4900,8.9
+622574,"Compal Electronics, Inc.",Taiwan,1300,7.2
+622657,PetroChina Company Limited Class H,China,2100,10.8
+623084,PT United Tractors Tbk,Indonesia,2100,25
+623864,CSR Limited,Australia,1200,18.4
+624226,Jardine Cycle & Carriage Limited,Singapore,1400,12.7
+624358,SATS Ltd,Singapore,4600,0.3
+624359,SIA Engineering Co. Ltd.,Singapore,4600,3.9
+624389,Commercial International Bank (Egypt) SAE,Egypt,4800,22.9
+624467,RHB Bank Bhd.,Malaysia,4800,8.9
+624730,APA Group,Australia,4700,16
+624965,"MIRAE ASSET SECURITIES CO., LTD.",South Korea,4800,6.4
+624979,Dah Sing Financial Holdings Limited,Hong Kong,4800,6.8
+625376,Indian Oil Corp. Ltd.,India,2100,6
+625398,Aristocrat Leisure Limited,Australia,3400,18.9
+626073,"Delta Electronics, Inc.",Taiwan,1300,18.6
+626167,Hindustan Unilever Limited,India,2400,20
+626404,"China Taiping Insurance Holdings Co., Ltd.",Hong Kong,4800,5.4
+626418,NCsoft Corporation,South Korea,3300,13.1
+626735,Hong Kong Exchanges & Clearing Ltd.,Hong Kong,4800,19.4
+6268,Nabtesco Corporation,Japan,1200,7.9
+627102,Insurance Australia Group Ltd,Australia,4800,7.9
+627248,DMCI Holdings Inc.,Philippines,2100,32.1
+6273,SMC Corporation,Japan,1200,12.3
+627342,Doha Bank,Qatar,4800,6.5
+627358,Apollo Hospitals Enterprise Limited,India,3350,13.4
+627856,Dongfang Electric Corporation Limited Class H,China,1200,8.5
+628021,Gold Fields Limited,South Africa,1100,20
+628074,"Shanghai Fudan Microelectronics Group Co., Ltd. Class H",China,1300,22.7
+628345,Dubai Islamic Bank PJSC,United Arab Emirates,4800,15.5
+628360,Nanya Technology Corporation,Taiwan,1300,-3
+628397,PT Indofood Sukses Makmur Tbk,Indonesia,2400,14
+628486,Globe Telecom Inc.,Philippines,4900,14.4
+628661,Ansell Limited,Australia,1200,9
+628725,a2 Milk Company Ltd.,New Zealand,2400,12.2
+628784,"Chunghwa Telecom Co., Ltd",Taiwan,4900,10.2
+628819,AUO Corporation,Taiwan,1300,-13
+629005,MTR Corporation Limited,Hong Kong,4600,5.1
+629049,"Taiwan Mobile Co., Ltd.",Taiwan,4900,16.8
+629090,LG Uplus Corp,South Korea,4900,8.5
+629179,Whirlpool Of India Limited,India,1400,8.1
+629181,China Petroleum & Chemical Corporation Class H,China,2100,9
+629278,Pro Medicus Limited,Australia,3350,42.8
+629467,"Doosan Enerbility Co., Ltd.",South Korea,1200,7.2
+629486,Cummins India Limited,India,1200,19.8
+629489,HCL Technologies Limited,India,3300,22.8
+629735,Dabur India Limited,India,2400,20.3
+6301,Komatsu Ltd.,Japan,1200,12.6
+6302,"Sumitomo Heavy Industries, Ltd.",Japan,1200,7
+630386,Singapore Exchange Ltd.,Singapore,4800,29
+630463,"Electricity Generating Public Co., Ltd.",Thailand,4700,9.4
+6305,"Hitachi Construction Machinery Co., Ltd.",Japan,1200,10.5
+631534,PT Charoen Pokphand Indonesia Tbk,Indonesia,2200,15.4
+632060,Tower Semiconductor Ltd,Israel,1300,11.8
+632195,TravelSky Technology Ltd. Class H,China,3300,3.6
+632217,Emirates Telecommunications Group Company PJSC,United Arab Emirates,4900,22.4
+632450,Evergreen Marine Corp. (Taiwan) Ltd.,Taiwan,4600,60
+6326,Kubota Corporation,Japan,1200,9.5
+632732,Hero Motocorp Limited,India,1400,17
+632758,"Kingdee International Software Group Co., Ltd.",China,3300,-6.4
+633147,Far Eastern New Century Corporation,Taiwan,2200,4.9
+633274,Fauji Fertilizer Co. Ltd.,Pakistan,2200,46.5
+633393,ENN Energy Holdings Limited,China,4700,18.9
+633527,Sino-American Silicon Products Inc.,Taiwan,1300,27.7
+633533,Nufarm Limited,Australia,2200,6.6
+633605,"Feng Tay Enterprise Co., Ltd.",Taiwan,2400,38.5
+633987,First Pacific Co. Ltd.,Hong Kong,2400,12.2
+634007,KunLun Energy Co. Ltd.,Hong Kong,4700,9.8
+634025,Fisher & Paykel Healthcare Corporation Limited,New Zealand,2300,15.7
+634160,Fletcher Building Limited,New Zealand,1100,12.4
+634412,"Daewoo Engineering & Construction Co., Ltd",South Korea,1400,11.1
+634427,POSCO INTERNATIONAL Corporation,South Korea,1200,12.7
+634445,"LG H&H Co., Ltd.",South Korea,2400,9.3
+634546,Towngas Smart Energy Company Limited,Hong Kong,4700,5
+634578,"Eclat Textile Co., Ltd.",Taiwan,2400,29.4
+634633,Novatek Microelectronics Corp.,Taiwan,1300,28.5
+634691,LG Chem Ltd.,South Korea,2200,7.6
+634692,LG Chem Ltd Pfd Registered Shs Issue 01,South Korea,2200,7.7
+634693,"LG H&H Co., Ltd. Pfd Registered Shs Non-Voting",South Korea,2400,9.4
+634854,Formosa Plastics Corporation,Taiwan,2200,11
+634858,"Formosa Taffeta Co., Ltd.",Taiwan,2200,6.1
+634871,Formosa Chemicals & Fibre Corporation,Taiwan,2200,3.4
+634968,Foschini Group Limited,South Africa,3500,14.8
+635214,Flight Centre Travel Group Limited,Australia,3400,7.7
+635425,COSCO SHIPPING Ports Limited,Hong Kong,4600,6
+635988,Gamuda Bhd.,Malaysia,3100,7.2
+6361,Ebara Corporation,Japan,1200,13.8
+636586,GPT Group,Australia,4800,4.6
+636699,PT Gudang Garam Tbk,Indonesia,2400,4.1
+6367,"DAIKIN INDUSTRIES, LTD.",Japan,1200,11.6
+6370,Kurita Water Industries Ltd.,Japan,1200,9.6
+637216,"Giant Manufacturing Co., Ltd.",Taiwan,1400,21.8
+637248,MediaTek Inc,Taiwan,1300,20.2
+637494,Srf Limited,India,2200,20.2
+637578,LS Corp.,South Korea,1200,10.4
+6383,"Daifuku Co., Ltd.",Japan,1200,12.7
+638870,Guangshen Railway Company Limited Class H,China,4600,-6.4
+638878,Balkrishna Industries Limited,India,1400,14.9
+639321,"Guangdong Electric Power Development Co., Ltd Class B",China,4700,-9.2
+639750,"Shinhan Financial Group Co., Ltd.",South Korea,4800,9.7
+639782,OZ Minerals Limited,Australia,1100,9
+640424,PT Hanjaya Mandala Sampoerna Tbk,Indonesia,2400,25.1
+640586,"HMM CO.,LTD",South Korea,4600,49.7
+640605,S-Oil Corporation,South Korea,2100,17.9
+640776,HANWHA SOLUTIONS CORPORATION,South Korea,1300,7.8
+640837,"Hang Seng Bank, Limited",Hong Kong,4800,10.2
+640844,"Samsung Securities Co., Ltd.",South Korea,4800,8.1
+641056,Harmony Gold Mining Co. Ltd.,South Africa,1100,12.4
+641095,Dr. Reddy's Laboratories Ltd.,India,2300,17
+641167,"Fubon Financial Holding Co., Ltd.",Taiwan,4800,16.6
+641187,"Hua Nan Financial Holdings Co., Ltd.",Taiwan,4800,9
+6412,Heiwa Corporation,Japan,3400,8
+641256,"Advanced Info Service Public Co., Ltd.",Thailand,4900,32.1
+641613,"China Merchants Port Holdings Co., Ltd.",Hong Kong,4600,8.2
+6417,"Sankyo Co., Ltd.",Japan,1200,13.1
+641716,"Hotai Motor Co., Ltd.",Taiwan,3250,-22
+641854,"Home Product Center Public Co., Ltd.",Thailand,3500,25.7
+641880,Exxaro Resources Limited,South Africa,2100,35
+641892,Delta Electronics (Thailand) Public Co. Ltd.,Thailand,1300,26.4
+641945,"POSCO Chemical Co., Ltd.",South Korea,2200,5.8
+642012,CapitaLand Integrated Commercial Trust,Singapore,4800,5.1
+642053,Henderson Land Development Co. Ltd.,Hong Kong,4800,3.3
+642185,"Far Eastone Telecommunications Co., Ltd.",Taiwan,4900,16.8
+642411,Yuanta Financial Holding Co. Ltd.,Taiwan,4800,8.7
+642539,Aluminum Corporation of China Limited Class H,China,3250,8.8
+642566,"Cathay Financial Holdings Co., Ltd.",Taiwan,4800,12.1
+642648,Air New Zealand Limited,New Zealand,4600,18.2
+643175,China Development Financial Holding Corp.,Taiwan,4800,10.7
+643391,"E.SUN Financial Holding Co., Ltd.",Taiwan,4800,8.5
+643491,Hongkong Land Holdings Limited,Bermuda,4800,2.4
+643532,Power Assets Holdings Limited,Hong Kong,4700,7.6
+643557,Wharf (Holdings) Ltd.,Hong Kong,4800,2.2
+6436,Amano Corporation,Japan,1300,9.5
+643612,YTL Corp Bhd.,Malaysia,4700,1.1
+643645,Hong Leong Financial Group Bhd.,Malaysia,4800,10.1
+643655,Hong Kong & China Gas Co. Ltd.,Hong Kong,4700,9.2
+643689,Hong Leong Bank Bhd.,Malaysia,4800,11.5
+643856,"Hon Hai Precision Industry Co., Ltd.",Taiwan,1300,9.4
+643956,IGO Limited,Australia,1100,32.3
+644002,Lotte Chemical Corp.,South Korea,2200,2.8
+644033,"HOTEL SHILLA CO., LTD.",South Korea,3400,17
+644085,Capitec Bank Holdings Limited,South Africa,4800,24.9
+644232,Bharti Airtel Limited,India,4900,11.2
+644406,"Mega Financial Holding Co., Ltd.",Taiwan,4800,6.1
+644662,"KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO.,LTD.",South Korea,1200,4.1
+6448,"Brother Industries, Ltd.",Japan,1300,8.7
+644954,"Hyundai Mobis Co., Ltd",South Korea,1200,7.5
+644962,"Hysan Development Co., Ltd.",Hong Kong,4800,2.8
+645026,SK hynix Inc.,South Korea,1300,-10.3
+645098,"Hyundai Engineering & Construction Co., Ltd",South Korea,1400,6
+645102,Hyundai Motor Co Ltd Pfd Shs Non-Voting,South Korea,1400,9.9
+645105,Hyundai Motor Company,South Korea,1400,10
+645106,"Hyundai Mipo Dockyard Co., Ltd",South Korea,1200,4
+645127,Israel Discount Bank Limited Class A,Israel,4800,13.9
+645166,"LARGAN Precision Co., Ltd.",Taiwan,1300,11
+645168,"Taishin Financial Holdings Co., Ltd.",Taiwan,4800,7.5
+645258,Shin Kong Financial Holding Co. Ltd.,Taiwan,4800,6.2
+645486,PT Indocement Tunggal Prakarsa Tbk,Indonesia,1100,6.5
+645521,IJM Corp. Bhd.,Malaysia,3100,3
+645553,ICL Group Ltd.,Israel,2200,19.3
+645581,"International Container Terminal Services, Inc.",Philippines,4600,41.1
+645800,Orica Limited,Australia,2200,9.5
+645928,Infratil Limited,New Zealand,4700,9.2
+645993,Inventec Corporation,Taiwan,1300,10.7
+6460,Sega Sammy Holdings Inc.,Japan,3300,9.4
+646059,Phoenix Holdings Ltd.,Israel,4800,11.4
+646079,China Gas Holdings Limited,Hong Kong,4700,10
+646185,Hyundai Steel Company,South Korea,1100,4.4
+646297,Industrial Bank Of Korea,South Korea,4800,10
+6465,HOSHIZAKI Corp.,Japan,1200,8.5
+646557,Downer EDI Limited,Australia,3100,6.9
+646587,Galaxy Entertainment Group Limited,Hong Kong,3400,-3.9
+646645,JG Summit Holdings Inc.,Philippines,2400,1
+6471,NSK Ltd.,Japan,1200,3.6
+647211,Jardine Matheson Holdings Limited,Bermuda,1200,4.6
+6473,JTEKT Corporation,Japan,1200,5.1
+647449,Jollibee Foods Corp.,Philippines,3400,11.5
+6479,MinebeaMitsumi Inc.,Japan,1200,13
+6481,"THK Co., Ltd.",Japan,1200,7
+648631,Kerry Properties Limited,Hong Kong,4800,3.7
+649091,KCC Corporation,South Korea,2200,5.2
+649092,Kia Corp.,South Korea,1400,14.3
+649131,Kingboard Holdings Limited,Hong Kong,2200,7.8
+649282,"Krung Thai Bank Public Co., Ltd.",Thailand,4800,8.7
+649542,"Korea Zinc Co., Ltd.",South Korea,1100,8.1
+649573,Korea Electric Power Corporation,South Korea,4700,-27.4
+649643,"LOTTE Fine Chemical Co,. Ltd.",South Korea,2200,11.3
+649675,Hanwha Corp,South Korea,2200,24.2
+649676,"Korean Air Lines Co., Ltd.",South Korea,4600,10.9
+649700,"OCI Co., Ltd",South Korea,2200,14.6
+649711,CJ Logistics Corp,South Korea,4600,5.6
+649744,Kuala Lumpur Kepong Bhd.,Malaysia,2200,12
+649932,"Kumho Petrochemical Co., Ltd.",South Korea,2200,11.7
+6501,"Hitachi,Ltd.",Japan,1200,13.4
+6502,Toshiba Corporation,Japan,1200,12.6
+6503,Mitsubishi Electric Corp.,Japan,1200,6.8
+650313,Kuwait Finance House K.S.C.,Kuwait,4800,8.3
+6504,"Fuji Electric Co., Ltd.",Japan,1200,11.8
+6506,Yaskawa Electric Corporation,Japan,1200,15.5
+651053,HTC Corporation,Taiwan,1300,-13.3
+651200,Lendlease Group,Australia,3100,3.9
+651444,Metropolitan Bank & Trust Co.,Philippines,4800,9.5
+651655,Qatar Fuel Q.S.C (WOQOD),Qatar,2100,11.4
+651948,Lite-On Technology Corp.,Taiwan,1300,17.6
+652073,LG Electronics Inc.,South Korea,1400,7.7
+652096,LG Electronics Inc. Pfd Registered Shs Non-voting,South Korea,1400,7.6
+652587,"SinoPac Financial Holdings Co., Ltd.",Taiwan,4800,11
+652766,CTBC Financial Holding Company Ltd.,Taiwan,4800,10.9
+652844,Oracle Financial Services Software Limited,India,3300,26.7
+653182,Geely Automobile Holdings Limited,Hong Kong,1400,6.6
+6532,"BayCurrent Consulting, Inc.",Japan,3200,36
+653323,Bluescope Steel Limited,Australia,1200,9.4
+653416,Nova Ltd.,Israel,1300,18.9
+653526,Shenzhen Investment Limited,Hong Kong,4800,7.7
+653543,Lotte Corp,South Korea,2400,6.2
+653544,"Lotte Chilsung Beverage Co., Ltd",South Korea,2400,10.8
+653551,China Resources Gas Group Limited,Hong Kong,4700,13.9
+653611,BOC Hong Kong (Holdings) Limited,Hong Kong,4800,9.1
+653665,BYD Company Limited Class H,China,1400,14.4
+653668,"Hanssem Co., Ltd",South Korea,1400,4.1
+653703,LG Corp,South Korea,1400,7.4
+653708,NH INVESTMENT & SECURITIES CO.LTD.,South Korea,4800,6
+653709,GS Engineering & Construction Corp.,South Korea,1400,7.4
+654387,PT Mayora Indah Tbk,Indonesia,2400,12.7
+654546,Abu Dhabi Commercial Bank,United Arab Emirates,4800,11.7
+655594,Fraser & Neave Holdings Bhd.,Malaysia,2400,13.3
+655632,Malayan Banking Bhd.,Malaysia,4800,9.4
+655693,Alliance Bank Malaysia Bhd.,Malaysia,4800,10.1
+655799,MISC Bhd,Malaysia,4600,5.8
+656039,NAVER Corp.,South Korea,3300,4.8
+656093,"Paradise Co., Ltd",South Korea,3400,2.5
+656099,China Oilfield Services Limited Class H,China,3100,6.9
+656247,Worley Limited,Australia,3100,6.4
+656320,MTN Group Limited,South Africa,4900,17.9
+656364,Megaworld Corp.,Philippines,4800,6
+656387,CapitaLand Ascendas REIT,Singapore,4800,6.4
+656512,PT Bukit Asam Tbk,Indonesia,2100,43.5
+656565,AngloGold Ashanti Limited,South Africa,1100,13.7
+656661,Qatar Electricity & Water Co.,Qatar,4700,9.7
+656835,NWS Holdings Limited,Hong Kong,3100,6.3
+656861,"Hyundai Department Store Co., Ltd",South Korea,3500,5.1
+657154,Qatar International Islamic Bank,Qatar,4800,14.1
+657407,PCCW Limited,Hong Kong,4900,5.9
+657860,"L & F Co., Ltd.",South Korea,1300,21.2
+657901,Sinotrans Ltd. Class H,China,4600,11.4
+657963,Union Bank of India Limited,India,4800,12.6
+658001,Canara Bank,India,4800,16.5
+658003,PT Bank Danamon Indonesia Tbk Class A,Indonesia,4800,7.3
+658011,First Financial Holding Co. Ltd.,Taiwan,4800,9.6
+658190,"Land & Houses Public Co., Ltd.",Thailand,4800,16
+658248,Sun Pharmaceutical Industries Limited,India,2300,15.5
+658508,Suncorp Group Limited,Australia,4800,8.9
+6586,Makita Corporation,Japan,1400,3
+658653,Yue Yuen Industrial (Holdings) Limited,Hong Kong,2400,7.3
+6588,Toshiba Tec Corp.,Japan,1300,-1.7
+6592,"Mabuchi Motor Co., Ltd.",Japan,1200,4.8
+6594,Nidec Corporation,Japan,1200,7.7
+659967,Powertech Technology Inc.,Taiwan,1300,11.2
+660008,Mobile Telecommunications Co. KSC,Kuwait,4900,14.6
+660087,Maanshan Iron & Steel Co. Ltd. Class H,China,1100,3.5
+660251,Divi's Laboratories Limited,India,2300,14.9
+660303,Mainfreight Limited,New Zealand,4600,24.4
+660373,Comfortdelgro Corporation Limited,Singapore,4600,6.8
+660699,FirstRand Limited,South Africa,4800,20
+660947,Singapore Post Ltd.,Singapore,4600,3.6
+660991,Siam Cement Public Co. Ltd.,Thailand,2200,8
+662158,Nan Ya Plastics Corporation,Taiwan,2200,9.1
+662269,Naspers Limited Class N,South Africa,3300,5.5
+662447,First Abu Dhabi Bank P.J.S.C.,United Arab Emirates,4800,11.7
+662460,National Australia Bank Limited,Australia,4800,12.8
+662800,Nedbank Group Limited,South Africa,4800,12.7
+662933,Nestle (Malaysia) Bhd.,Malaysia,2400,110.2
+663094,China Everbright Environment Group Limited,Hong Kong,3100,9.2
+663371,Maruti Suzuki India Limited,India,1400,13
+663642,Netcare Limited,South Africa,3350,15
+663710,Newcrest Mining Limited,Australia,1100,5.9
+663811,"Nongshim Co., Ltd.",South Korea,2400,5.8
+6645,OMRON Corporation,Japan,1200,9.5
+664713,NICE Ltd. (Israel),Israel,3300,16.1
+665104,PT Bank Mandiri (Persero) Tbk,Indonesia,4800,18.5
+665458,KOREA INVESTMENT HOLDINGS CO LTD,South Korea,4800,9.2
+665837,Ottogi Corp.,South Korea,2400,9
+665911,Orient Overseas (International) Limited,Hong Kong,4600,71.7
+666593,"AmorePacific Group, Inc.",South Korea,2400,5.5
+667248,Wistron Corporation,Taiwan,1300,11
+667304,Incitec Pivot Limited,Australia,2200,13.7
+667357,Industries of Qatar Co.,Qatar,1100,18.9
+6674,GS Yuasa Corporation,Japan,1200,5.4
+668166,PPB Group Bhd.,Malaysia,2200,8.5
+668239,Perpetual Limited,Australia,4800,13.4
+668344,"Kangwon Land, Inc.",South Korea,3400,9.4
+668718,PT Unilever Indonesia Tbk,Indonesia,2400,127.9
+668806,Pick N Pay Stores Limited,South Africa,3500,30.5
+669323,POSCO Holdings Inc.,South Korea,1100,6.6
+669377,Lee & Man Paper Manufacturing Limited,Hong Kong,2200,4.3
+669593,Petronas Dagangan Bhd.,Malaysia,3250,13.6
+669615,Pou Chen Corporation,Taiwan,2400,23.3
+669875,Glenmark Pharmaceuticals Limited,India,2300,9.6
+670039,Uni-President Enterprises Corp.,Taiwan,3500,20.2
+6701,NEC Corp.,Japan,3300,5.8
+6702,Fujitsu Limited,Japan,3300,14.8
+670262,JB Hi-Fi Limited,Australia,3500,35
+670263,Aurobindo Pharma Ltd,India,2300,7.7
+670397,Petronas Gas Bhd.,Malaysia,4700,14
+670498,President Chain Store Corporation,Taiwan,3500,24.9
+670625,"PICC Property & Casualty Co., Ltd. Class H",China,4800,13
+670789,AviChina Industry & Technology Co. Ltd. Class H,China,1300,10.1
+670909,PT Bank Rakyat Indonesia (Persero) Tbk Class B,Indonesia,4800,17.3
+670995,AMP Limited,Australia,4800,4.2
+671034,Qantas Airways Limited,Australia,4600,183.2
+671156,China Resources Power Holdings Co. Ltd.,Hong Kong,4700,9.9
+671398,Qatar Islamic Bank,Qatar,4800,16.3
+671439,Insignia Financial Ltd,Australia,4800,8
+671574,QBE Insurance Group Limited,Australia,4800,15.7
+671699,Bayer Cropscience India Limited,India,2200,23.9
+671745,Northern Star Resources Ltd,Australia,1100,4.3
+671825,"Great Wall Motor Co., Ltd. Class H",China,1400,13.8
+671871,Formosa Petrochemical Corp,Taiwan,2100,5.5
+671897,China Life Insurance Co. Ltd. Class H,China,4800,7.6
+671976,PT Perusahaan Gas Negara Tbk Class B,Indonesia,4700,18.3
+6723,Renesas Electronics Corporation,Japan,1300,16.9
+6724,Seiko Epson Corp.,Japan,1300,11.1
+672529,"Zijin Mining Group Co., Ltd. Class H",China,1100,24.7
+672630,Challenger Limited,Australia,4800,8.2
+672654,TVS Motor Company Limited,India,1400,24.5
+672681,Jindal Steel & Power Ltd.,India,1100,12.2
+672712,PT Bank Negara Indonesia (Persero) Tbk Class B,Indonesia,4800,14.2
+6728,"ULVAC, Inc.",Japan,1300,11.3
+672879,MMG Ltd.,Australia,1100,8.9
+672880,Reece Limited,Australia,3250,11.1
+673271,Oil & Gas Development Co. Ltd.,Pakistan,2100,17.5
+674103,Emami Limited,India,2400,31
+674125,Biocon Limited,India,2300,5.7
+674395,"Weichai Power Co., Ltd. Class H",China,1200,6.5
+674399,Samvardhana Motherson International Limited,India,1200,7.1
+674428,E Ink Holdings Inc.,Taiwan,1300,25
+6752,Panasonic Holdings Corporation,Japan,1400,6.4
+675234,British American Tobacco Malaysia Bhd.,Malaysia,2400,73.4
+6753,Sharp Corporation,Japan,1400,2.5
+6754,Anritsu Corporation,Japan,1300,9.5
+6755,Fujitsu General Limited,Japan,1200,9.7
+6758,Sony Group Corporation,Japan,1300,11.8
+676100,Anglo American Platinum Limited,South Africa,1100,40.4
+6762,TDK Corporation,Japan,1300,10.4
+676523,"Samsung Engineering Co., Ltd.",South Korea,3100,18.7
+6770,"Alps Alpine Co., Ltd.",Japan,1300,7.5
+677103,Shangri-La Asia Limited,Hong Kong,3400,2.4
+677164,"Samsung SDI Co., Ltd",South Korea,1200,11.5
+677168,"Samsung Electro-Mechanics Co., Ltd",South Korea,1300,8.4
+677170,Green Cross Corporation,South Korea,2300,4.6
+677172,"Samsung Electronics Co., Ltd.",South Korea,1300,4.4
+677221,"Samsung Heavy Industries Co., Ltd",South Korea,1200,1.5
+677267,"Hanwha Aerospace Co., Ltd.",South Korea,1300,7.5
+677381,Samsung Electronics Co Ltd Pfd  Non-Voting,South Korea,1300,4.5
+677605,Samsung SDI Co Ltd Pfd  Non-Voting,South Korea,1200,11.6
+677670,Santos Limited,Australia,2100,12.9
+677700,Sappi Limited,South Africa,2200,13.9
+677745,Sasol Limited,South Africa,2200,19
+678204,"COSCO SHIPPING Energy Transportation Co., Ltd. Class H",China,4600,5.2
+679523,PT Semen Indonesia (Persero) Tbk,Indonesia,1100,6.7
+679743,"Shanghai Mechanical & Electrical Industry Co., Ltd. Class B",China,1200,8.6
+679745,Sinopec Shanghai Petrochemical Co. Ltd. Class H,China,2100,-7.1
+679866,"Shanghai Lujiazui Finance & Trade Zone Development Co., Ltd. Class B",China,4800,12.4
+680157,Shoprite Holdings Limited,South Africa,3500,22.9
+680177,"Foxconn Technology Co., Ltd.",Taiwan,1300,4.2
+680260,Shriram Finance Limited,India,4800,15.1
+680283,"Shanghai Bailian Group Co., Ltd. Class B",China,3500,-1.2
+680322,China National Accord Medicines Corporation Ltd Class B,China,2300,8.5
+680504,"Shinsegae Co., Ltd",South Korea,3500,8.2
+6806,"HIROSE ELECTRIC CO., LTD.",Japan,1300,10.3
+680637,"Siam City Cement Public Co., Ltd.",Thailand,1100,7.7
+6807,"Japan Aviation Electronics Industry, Limited",Japan,1300,9.7
+680872,"Shanghai Jin Jiang International Hotels Co., Ltd. Class B",China,3400,0.8
+681042,Sino Land Co. Ltd.,Hong Kong,4800,3.6
+681173,Singapore Airlines Ltd.,Singapore,4600,11.3
+681884,"SM Prime Holdings, Inc.",Philippines,4800,8.7
+682112,Sonic Healthcare Limited,Australia,3350,9.7
+682319,SKYCITY Entertainment Group Limited,New Zealand,3400,8.5
+683542,"Shanghai Baosight Software Co., Ltd. Class B",China,3300,19.8
+683728,"SSANGYONGC&E.CO.,LTD.",South Korea,1100,7
+6841,Yokogawa Electric Corp.,Japan,1300,7.4
+6845,Azbil Corporation,Japan,1300,10.4
+684874,Shenzhen Expressway Corporation Limited Class H,China,4600,11.7
+6849,Nihon Kohden Corporation,Japan,2300,9.3
+685085,Stockland,Australia,4800,7.4
+6856,"Horiba , Ltd.",Japan,1200,10.2
+6857,Advantest Corp.,Japan,1300,36.5
+685992,Sun Hung Kai Properties Limited,Hong Kong,4800,4.4
+6861,Keyence Corporation,Japan,1300,14.7
+686774,Swire Pacific Limited Class A,Hong Kong,2400,2.3
+686776,Swire Pacific Limited Class B,Hong Kong,2400,2.3
+686839,Telekom Malaysia Bhd.,Malaysia,4900,15.9
+6869,Sysmex Corporation,Japan,2300,13.1
+686993,Taiwan Cement Corp.,Taiwan,1100,2.9
+687326,Tabcorp Holdings Limited,Australia,3400,2.9
+687985,"Teco Electric & Machinery Co., Ltd.",Taiwan,1200,4.4
+688143,Spark New Zealand Limited,New Zealand,4900,34
+688217,Teva Pharmaceutical Industries Limited,Israel,2300,25.5
+688787,TMBThanachart Bank Public Company Limited,Thailand,4800,7.1
+688878,Kasikornbank Public Co. Ltd.,Thailand,4800,8.1
+688910,"Taiwan Semiconductor Manufacturing Co., Ltd.",Taiwan,1300,25.2
+688917,Honeywell Automation India Limited,India,1300,13.9
+688951,Gulf Bank K.S.C.,Kuwait,4800,8.8
+688952,National Bank of Kuwait K.S.C.,Kuwait,4800,13.7
+689030,Agility Public Warehousing Co. K.S.C.,Kuwait,4600,4
+6902,DENSO CORPORATION,Japan,1200,7.9
+690355,Tingyi (Cayman Islands) Holding Corp.,China,2400,16.9
+690461,Tenaga Nasional Bhd,Malaysia,4700,7.4
+690529,"IRPC Public Co., Ltd.",Thailand,2100,5.6
+690580,"Tsingtao Brewery Co., Ltd. Class H",China,2400,13.6
+691137,U-Ming Marine Transport Corp.,Taiwan,4600,14
+691316,Guangdong Investment Limited,Hong Kong,4700,9.8
+691662,United Microelectronics Corp.,Taiwan,1300,16.5
+691678,United Overseas Bank Ltd. (Singapore),Singapore,4800,10.9
+691684,UOL Group Limited,Singapore,4800,3.4
+691951,Universal Robina Corp.,Philippines,2400,10.4
+6920,Lasertec Corp.,Japan,1300,36.8
+6923,"Stanley Electric Co., Ltd.",Japan,1200,5.8
+6925,Ushio Inc.,Japan,1400,5.6
+692737,Venture Corporation Limited,Singapore,1300,12.8
+692759,Vitasoy International Holdings Limited,Hong Kong,2400,3.7
+693233,Wan Hai Lines Ltd.,Taiwan,4600,43.2
+693657,Walsin Lihwa Corporation,Taiwan,1200,19.1
+694495,Weifu High-Technology Group Co. Ltd. Class B,China,1200,10.3
+694883,Wesfarmers Limited,Australia,3500,29.5
+6951,JEOL Ltd.,Japan,2300,16.8
+6952,"Casio Computer Co., Ltd.",Japan,1400,7.8
+6954,Fanuc Corporation,Japan,1200,10.4
+695498,Alumina Limited,Australia,1100,2
+695757,Iluka Resources Limited,Australia,1100,22.4
+6963,"Rohm Co., Ltd.",Japan,1300,8.9
+6965,Hamamatsu Photonics K.K.,Japan,1300,13.9
+6966,"Mitsui High-Tec, Inc.",Japan,1300,23.8
+696651,Winbond Electronics Corp.,Taiwan,1300,2.9
+6967,"Shinko Electric Industries Co., Ltd.",Japan,1300,24.1
+6971,Kyocera Corporation,Japan,1300,5
+697177,China Traditional Chinese Medicine Holdings Co. Ltd.,Hong Kong,2300,4.1
+697245,China Resources Beer (Holdings) Co. Ltd.,Hong Kong,2400,16.2
+6976,"Taiyo Yuden Co., Ltd.",Japan,1300,9.4
+6981,"Murata Manufacturing Co., Ltd.",Japan,1300,10.8
+698123,Woolworths Group Ltd,Australia,3500,25.5
+698438,Yageo Corporation,Taiwan,1300,22.1
+698466,Sinopec Oilfield Service Corporation Class H,China,3100,5.1
+698758,Yang Ming Marine Transport Corp.,Taiwan,4600,53.3
+6988,Nitto Denko Corp.,Japan,1300,12.6
+698833,Yuhan Corporation,South Korea,2300,4.2
+698859,"Yulon Motor Co.,Ltd",Taiwan,1400,-0.6
+699076,Zhejiang Expressway Co. Ltd. Class H,China,4600,14.2
+7011,"Mitsubishi Heavy Industries, Ltd.",Japan,1300,8.2
+7012,Kawasaki Heavy Industries Ltd.,Japan,1300,9.5
+7013,IHI Corporation,Japan,1200,12.7
+702196,Deutsche Boerse AG,Germany,4800,19.3
+704239,Eurazeo SA,France,4800,5.6
+706271,Sodexo SA,France,3400,17.7
+708842,AXA SA,France,4800,13.5
+709732,Groupe Bruxelles Lambert SA,Belgium,4800,3.4
+710306,Novartis AG,Switzerland,2300,23.5
+710725,Greek Organisation of Football Prognostics SA,Greece,3400,52.1
+710755,Fraport AG,Germany,4600,2.5
+710889,ABB Ltd.,Switzerland,1200,22.4
+710891,Roche Holding Ltd,Switzerland,2300,43.3
+711038,Roche Holding Ltd Dividend Right Cert.,Switzerland,2300,43.3
+711072,Adecco Group AG,Switzerland,3200,16.4
+711075,Holcim Ltd,Switzerland,1100,9.1
+711090,Tecan Group AG,Switzerland,2300,11.2
+711399,Clariant AG,Switzerland,2200,13.4
+712387,Nestle S.A.,Switzerland,2400,30.7
+712459,Baloise-Holding AG,Switzerland,4800,11.1
+712797,LPP S.A.,Poland,3500,29.4
+713360,Equinor ASA,Norway,2100,30.9
+713666,JCDecaux SE,France,3200,7.1
+714209,Skanska AB Class B,Sweden,1400,10.2
+714456,Enel SpA,Italy,4700,16.6
+714505,Eni S.p.A.,Italy,2100,23.5
+714789,Temenos AG,Switzerland,3300,34.9
+715363,Santander Bank Polska SA,Poland,4800,11.8
+715603,Sonova Holding AG,Switzerland,2300,27.9
+7164,"Zenkoku Hosho Co., Ltd.",Japan,4800,14.5
+7167,"Mebuki Financial Group, Inc.",Japan,4800,4.7
+716951,De'Longhi S.p.A.,Italy,1400,10.4
+717158,Credit Suisse Group AG,Switzerland,4800,-2
+7180,"Kyushu Financial Group, Inc.",Japan,4800,3.6
+718041,OMV Petrom SA,Romania,2100,14.5
+7181,"JAPAN POST INSURANCE Co., Ltd.",Japan,4800,3.6
+7182,"Japan Post Bank Co., Ltd.",Japan,4800,3.3
+718472,Swatch Group Ltd. Bearer,Switzerland,1400,7.3
+718473,Swatch Group Ltd. Registered,Switzerland,1400,7.3
+7186,"Concordia Financial Group, Ltd.",Japan,4800,4.8
+7201,"Nissan Motor Co., Ltd.",Japan,1400,3.6
+7202,Isuzu Motors Limited,Japan,1400,11.3
+7203,Toyota Motor Corp.,Japan,1400,8.7
+7205,"Hino Motors,Ltd.",Japan,1400,-8.7
+7211,Mitsubishi Motors Corporation,Japan,1400,18.9
+721247,EssilorLuxottica SA,France,2300,8.3
+7240,NOK Corporation,Japan,1200,4
+724353,Jumbo S.A.,Greece,3500,16
+725147,Snam S.p.A.,Italy,4700,15.2
+7259,Aisin Corporation,Japan,1200,6.7
+7261,Mazda Motor Corp.,Japan,1400,9.4
+726261,Credit Agricole SA,France,4800,6.9
+7267,"Honda Motor Co., Ltd.",Japan,1400,6.5
+726829,Public Power Corporation S.A.,Greece,4700,-1.1
+7269,Suzuki Motor Corp.,Japan,1400,10.4
+7270,SUBARU CORP,Japan,1400,10.6
+7272,"Yamaha Motor Co., Ltd.",Japan,1400,13.8
+7276,"Koito Manufacturing Co., Ltd.",Japan,1200,5.7
+7282,"Toyoda Gosei Co., Ltd.",Japan,1200,6
+7309,Shimano Inc.,Japan,1400,14.3
+730968,BNP Paribas S.A. Class A,France,4800,8.5
+7313,"TS Tech Co., Ltd.",Japan,1400,3.5
+732015,OTP Bank Nyrt,Hungary,4800,12.9
+733268,Alfa Laval AB,Sweden,1200,17
+733337,Lonza Group AG,Switzerland,2300,10.5
+7337,"Hirogin Holdings, Inc.",Japan,4800,4.6
+738048,Compagnie de Saint-Gobain SA,France,1200,14.3
+738307,Enagas SA,Spain,4700,12.3
+739011,Wendel SE,France,4800,18.9
+743780,Swiss Life Holding AG,Switzerland,4800,12.5
+7453,"Ryohin Keikaku Co., Ltd.",Japan,2400,8.1
+7458,"Daiichikosho Co., Ltd.",Japan,3250,9.7
+7459,Medipal Holdings Corporation,Japan,3250,5.7
+7476,AS ONE Corporation,Japan,3250,12
+7518,"Net One Systems Co., Ltd.",Japan,3300,18.1
+7532,Pan Pacific International Holdings Corporation,Japan,3500,14.3
+753851,Tenaris S.A.,Luxembourg,1100,22
+7550,"Zensho Holdings Co., Ltd.",Japan,3400,11.4
+758255,Klepierre SA,France,4800,8.9
+759800,Hera S.p.A.,Italy,4700,9.9
+763439,Telecom Italia S.p.A.,Italy,4900,0.2
+763440,Telecom Italia Rsp,Italy,4900,0.2
+763561,EMS-CHEMIE HOLDING AG,Switzerland,2200,28.5
+7649,"Sugi Holdings Co., Ltd.",Japan,3500,8.5
+769835,Getinge AB Class B,Sweden,2300,10
+7701,Shimadzu Corporation,Japan,2300,12.4
+7730,"Mani, Inc.",Japan,2300,11.1
+7731,Nikon Corp.,Japan,1300,7.1
+7733,Olympus Corp.,Japan,2300,46.4
+7735,"SCREEN Holdings Co., Ltd",Japan,1200,18.5
+7741,HOYA CORPORATION,Japan,2300,20.3
+774246,Gecina SA,France,4800,3.6
+774563,Covivio SA,France,4800,4.7
+7747,"Asahi Intecc Co., Ltd.",Japan,2300,11
+7751,Canon Inc.,Japan,1300,8.2
+775125,Yara International ASA,Norway,2200,21
+7752,"Ricoh Company, Ltd.",Japan,1300,6.3
+7780,"Menicon Co., Ltd.",Japan,2300,10.4
+779255,Heineken NV,Netherlands,2400,14.7
+7832,Bandai Namco Holdings Inc.,Japan,1400,15.9
+7911,TOPPAN INC.,Japan,3200,4.4
+7912,"Dai Nippon Printing Co., Ltd.",Japan,3200,5.9
+7936,Asics Corporation,Japan,2400,13.7
+7947,FP Corporation,Japan,1200,8.6
+7951,Yamaha Corporation,Japan,1400,9.2
+7956,Pigeon Corporation,Japan,2400,12.8
+7966,Lintec Corporation,Japan,2200,6.2
+7974,"Nintendo Co., Ltd.",Japan,1400,19.2
+7984,"Kokuyo Co., Ltd.",Japan,1200,7
+7988,Nifco Inc.,Japan,2200,11.2
+8001,Itochu Corporation,Japan,3250,16.6
+8002,Marubeni Corporation,Japan,3250,19.3
+8012,"Nagase & Co., Ltd.",Japan,3250,7
+8015,Toyota Tsusho Corp.,Japan,1100,14.5
+8031,"Mitsui & Co.,Ltd",Japan,2200,16.3
+8035,Tokyo Electron Ltd.,Japan,1200,27.9
+8053,Sumitomo Corporation,Japan,2200,14.8
+8056,BIPROGY Inc.,Japan,3250,14.7
+8058,Mitsubishi Corporation,Japan,3250,14.7
+8060,Canon Marketing Japan Inc.,Japan,3250,8.9
+8086,Nipro Corporation,Japan,3250,6.1
+8111,Goldwin Inc.,Japan,2400,26.1
+8113,Unicharm Corporation,Japan,2400,13.4
+8114,"Descente,Ltd.",Japan,2400,11.1
+8136,"Sanrio Company, Ltd.",Japan,3500,10.9
+8227,"SHIMAMURA Co., Ltd.",Japan,3500,8.8
+8233,"Takashimaya Company, Limited",Japan,3500,6
+8252,"Marui Group Co., Ltd.",Japan,4800,8.7
+8253,"Credit Saison Co., Ltd.",Japan,4800,7.3
+8267,"AEON Co., Ltd.",Japan,3500,3
+8273,"Izumi Co., Ltd.",Japan,3500,7.9
+8279,"Yaoko Co., Ltd.",Japan,3500,11.6
+8282,K'S Holdings Corporation,Japan,3500,8.2
+8283,Paltac Corporation,Japan,3250,7.5
+8303,"SBI Shinsei Bank, Limited",Japan,4800,4.6
+8304,"Aozora Bank, Ltd.",Japan,4800,4.7
+8306,"Mitsubishi UFJ Financial Group, Inc.",Japan,4800,6.2
+8308,"Resona Holdings, Inc.",Japan,4800,6.4
+8309,"Sumitomo Mitsui Trust Holdings, Inc.",Japan,4800,7
+8316,"Sumitomo Mitsui Financial Group, Inc.",Japan,4800,6.5
+8331,"Chiba Bank, Ltd.",Japan,4800,5.8
+8354,"Fukuoka Financial Group, Inc.",Japan,4800,5.6
+8410,"Seven Bank, Ltd.",Japan,4800,8.1
+8411,"Mizuho Financial Group, Inc.",Japan,4800,6.4
+8418,"Yamaguchi Financial Group, Inc.",Japan,4800,2.7
+8424,"Fuyo General Lease Co., Ltd.",Japan,4800,11
+8439,Tokyo Century Corporation,Japan,4800,1.1
+8473,"SBI Holdings, Inc.",Japan,4800,6.1
+8570,"AEON Financial Service Co., Ltd.",Japan,4800,6.7
+8572,"ACOM Co., Ltd.",Japan,4800,10.8
+8585,Orient Corporation,Japan,4800,7.7
+8591,ORIX Corporation,Japan,4800,7.9
+8593,Mitsubishi HC Capital Inc.,Japan,4800,7.9
+8601,Daiwa Securities Group Inc.,Japan,4800,4.9
+8604,"Nomura Holdings, Inc.",Japan,4800,4.5
+8630,"Sompo Holdings,Inc.",Japan,4800,4.6
+8697,"Japan Exchange Group, Inc.",Japan,4800,14
+8725,"MS&AD Insurance Group Holdings, Inc.",Japan,4800,5.1
+8750,"Dai-ichi Life Holdings,Inc.",Japan,4800,5.8
+8766,"Tokio Marine Holdings, Inc.",Japan,4800,9
+8795,"T&D Holdings, Inc.",Japan,4800,-11.1
+8801,"Mitsui Fudosan Co., Ltd.",Japan,4800,6.8
+8802,"Mitsubishi Estate Company, Limited",Japan,4800,7.9
+8804,"Tokyo Tatemono Co., Ltd.",Japan,4800,9.3
+8830,"Sumitomo Realty & Development Co., Ltd.",Japan,4800,8.9
+8876,"Relo Group, Inc.",Japan,4800,29.3
+8905,"AEON Mall Co., Ltd.",Japan,4800,4.4
+8919,KATITAS CO. LTD.,Japan,1400,24.3
+8951,"Nippon Building Fund, Inc.",Japan,4800,5.4
+8952,Japan Real Estate Investment Corp.,Japan,4800,6.3
+8953,Japan Metropolitan Fund Investment Corporation,Japan,4800,6.2
+8954,ORIX JREIT Inc.,Japan,4800,6.3
+8955,Japan Prime Realty Investment Corporation,Japan,4800,5.4
+8960,United Urban Investment Corporation,Japan,4800,5.4
+8964,Frontier Real Estate Investment Corporation,Japan,4800,6.9
+8972,Kenedix Office Investment Corporation,Japan,4800,5.3
+8976,Daiwa Office Investment Corporation,Japan,4800,4.8
+8984,Daiwa House REIT Investment Corporation,Japan,4800,4.4
+8985,Japan Hotel Reit Investment Corporation,Japan,4800,1.2
+9001,"Tobu Railway Co., Ltd.",Japan,4600,6.3
+9003,"Sotetsu Holdings, Inc.",Japan,4600,4.7
+9005,TOKYU CORPORATION,Japan,4600,3.7
+9006,Keikyu Corporation,Japan,4600,5.3
+9007,"Odakyu Electric Railway Co., Ltd.",Japan,4600,3.5
+9008,Keio Corporation,Japan,3500,2.7
+9009,"Keisei Electric Railway Co., Ltd.",Japan,4600,7
+9020,East Japan Railway Company,Japan,4600,2.7
+9021,West Japan Railway Company,Japan,4600,7.8
+9022,Central Japan Railway Company,Japan,4600,5
+9024,"Seibu Holdings, Inc.",Japan,3400,20
+9031,"Nishi-Nippon Railroad Co., Ltd.",Japan,4600,6.9
+9041,"Kintetsu Group Holdings Co., Ltd.",Japan,4600,17.7
+9042,"Hankyu Hanshin Holdings, Inc.",Japan,4600,5.3
+9044,"Nankai Electric Railway Co., Ltd.",Japan,4600,4.1
+9045,"Keihan Holdings Co.,Ltd.",Japan,4600,6.6
+9048,"Nagoya Railroad Co., Ltd.",Japan,4600,4
+9064,"Yamato Holdings Co., Ltd.",Japan,4600,7.4
+9065,Sankyu Inc.,Japan,4600,10
+9076,"Seino Holdings Co., Ltd.",Japan,4600,4.7
+9090,AZ-COM Maruwa Holdings Inc.,Japan,4600,21.5
+9101,Nippon Yusen Kabushiki Kaisha,Japan,4600,42
+9104,"Mitsui O.S.K.Lines,Ltd.",Japan,4600,40.3
+9107,"Kawasaki Kisen Kaisha, Ltd.",Japan,4600,48.1
+9142,Kyushu Railway Company,Japan,4600,6.4
+9143,"SG Holdings Co., Ltd.",Japan,4600,21.3
+9147,"NIPPON EXPRESS HOLDINGS,INC.",Japan,4600,8.7
+9201,"Japan Airlines Co., Ltd.",Japan,4600,5
+9202,ANA Holdings Inc.,Japan,4600,6.1
+9301,Mitsubishi Logistics Corporation,Japan,4600,7.5
+9364,"Kamigumi Co., Ltd.",Japan,4600,6.4
+9401,TBS HOLDINGS INC.,Japan,3400,2.8
+9404,"Nippon Television Holdings, Inc.",Japan,3400,4
+9432,Nippon Telegraph and Telephone Corporation,Japan,4900,13.9
+9433,KDDI Corporation,Japan,4900,13.1
+9434,SoftBank Corp.,Japan,4900,29.5
+9435,"Hikari Tsushin, Inc.",Japan,3500,16.1
+9449,"GMO Internet Group, Inc.",Japan,3300,16
+9468,Kadokawa Corporation,Japan,3400,7.5
+9501,"Tokyo Electric Power Company Holdings, Incorporated",Japan,4700,-2.7
+9502,"Chubu Electric Power Company,Incorporated",Japan,4700,-1.4
+9503,"Kansai Electric Power Company, Incorporated",Japan,4700,-5.6
+9504,"Chugoku Electric Power Co., Inc.",Japan,4700,-46.3
+9506,"Tohoku Electric Power Company, Incorporated",Japan,4700,-35.9
+9507,"Shikoku Electric Power Company, Incorporated",Japan,4700,-7.2
+9508,"Kyushu Electric Power Company,Incorporated",Japan,4700,-16.6
+9513,"Electric Power Development Co., Ltd.",Japan,4700,10.5
+9519,"RENOVA, Inc.",Japan,4700,10.8
+9531,"TOKYO GAS Co., Ltd.",Japan,4700,15
+9532,"Osaka Gas Co., Ltd.",Japan,4700,2.9
+9533,"TOHO GAS Co., Ltd.",Japan,4700,5.2
+9602,Toho Co. Ltd.,Japan,3400,8.6
+9613,NTT DATA Corporation,Japan,3200,9.3
+9627,Ain Holdings Inc.,Japan,3500,8
+9684,"Square Enix Holdings Co., Ltd.",Japan,3300,14.9
+9697,"Capcom Co., Ltd.",Japan,3300,22.5
+9706,"Japan Airport Terminal Co., Ltd.",Japan,4600,-2.7
+9719,SCSK Corporation,Japan,3200,13.7
+9735,"Secom Co., Ltd.",Japan,3200,7.8
+9766,KONAMI Group Corporation,Japan,3300,11.2
+9783,"Benesse Holdings, Inc.",Japan,3400,7.3
+9831,"Yamada Holding Co., Ltd.",Japan,3500,6
+9843,"Nitori Holdings Co., Ltd.",Japan,3500,11
+9962,Misumi Group Inc.,Japan,1200,12.4
+9983,"FAST RETAILING CO., LTD.",Japan,3500,13.6
+9984,SoftBank Group Corp.,Japan,4900,-1.6
+9987,"Suzuken Co., Ltd.",Japan,2300,4.4
+9989,"Sundrug Co., Ltd.",Japan,3500,10.7
+A,"Agilent Technologies, Inc.",United States,2300,27.9
+AAP,"Advance Auto Parts, Inc.",United States,3500,24.8
+AAPL,Apple Inc.,United States,1300,153.8
+ABBV,"AbbVie, Inc.",United States,2300,107.6
+ABC,AmerisourceBergen Corporation,United States,3250,244.6
+ABNB,"Airbnb, Inc. Class A",United States,3400,27.1
+ABT,Abbott Laboratories,United States,2300,19.8
+ACGL,Arch Capital Group Ltd.,Bermuda,4800,15
+ACN,Accenture Plc Class A,Ireland,3300,27.9
+ADBE,Adobe Incorporated,United States,3300,40.4
+ADI,"Analog Devices, Inc.",United States,1300,14.8
+ADM,Archer-Daniels-Midland Company,United States,2200,15.2
+ADP,"Automatic Data Processing, Inc.",United States,3300,36.4
+ADSK,"Autodesk, Inc.",United States,3300,136
+AEE,Ameren Corporation,United States,4700,10.2
+AEP,"American Electric Power Company, Inc.",United States,4700,10.7
+AES,AES Corporation,United States,4700,30.7
+AFL,Aflac Incorporated,United States,4800,13.6
+AGNC,AGNC Investment Corp.,United States,4800,18.6
+AGR,"Avangrid, Inc.",United States,4700,4.2
+AIG,"American International Group, Inc.",United States,4800,10.9
+AIZ,"Assurant, Inc.",United States,4800,12.5
+AJG,Arthur J. Gallagher & Co.,United States,4800,17.9
+AKAM,"Akamai Technologies, Inc.",United States,3300,17.9
+ALB,Albemarle Corporation,United States,2200,29.2
+ALGN,"Align Technology, Inc.",United States,2300,16.2
+ALL,Allstate Corporation,United States,4800,11.6
+ALLE,Allegion Public Limited Company,Ireland,1200,56.4
+ALLY,Ally Financial Inc,United States,4800,9.7
+ALV,Autoliv Inc.,Sweden,1200,20
+AMAT,"Applied Materials, Inc.",United States,1200,41.2
+AMD,"Advanced Micro Devices, Inc.",United States,1300,9
+AME,"AMETEK, Inc.",United States,1200,16.3
+AMGN,Amgen Inc.,United States,2300,233.2
+AMP,"Ameriprise Financial, Inc.",United States,4800,59.2
+AMT,American Tower Corporation,United States,4800,38.2
+AMZN,"Amazon.com, Inc.",United States,3500,8.6
+ANET,"Arista Networks, Inc.",United States,1300,29.3
+ANSS,"ANSYS, Inc.",United States,3300,14.2
+AON,Aon Plc Class A,Ireland,4800,326
+APD,"Air Products and Chemicals, Inc.",United States,2200,16.7
+APH,Amphenol Corporation Class A,United States,1300,22.7
+APO,Apollo Global Management Inc.,United States,4800,40.8
+APP,AppLovin Corp. Class A,United States,3300,6.5
+APTV,Aptiv PLC,Ireland,1200,12.4
+ARE,"Alexandria Real Estate Equities, Inc.",United States,4800,2.6
+ARMK,Aramark,United States,3400,14
+ATHM,"Autohome, Inc. Sponsored ADR Class A",China,3300,7.7
+ATO,Atmos Energy Corporation,United States,4700,8.5
+ATVI,"Activision Blizzard, Inc.",United States,3300,13.8
+AVB,"AvalonBay Communities, Inc.",United States,4800,5.9
+AVGO,Broadcom Inc.,United States,1300,74
+AVTR,"Avantor, Inc.",United States,2200,16.1
+AVY,Avery Dennison Corporation,United States,2200,29.8
+AWK,"American Water Works Company, Inc.",United States,4700,9.3
+AXP,American Express Company,United States,4800,29.6
+B00D9P,Proximus SA de droit public,Belgium,4900,12.3
+B00FM5,Banco Bradesco SA Pfd,Brazil,4800,13.8
+B00FM8,Banco Bradesco S.A.,Brazil,4800,14
+B00FYK,PT Indosat Tbk Class B,Indonesia,4900,7.3
+B00G23,QL Resources Bhd.,Malaysia,2400,11.8
+B00KT6,Petronet Lng Limited,India,4700,20.9
+B00LR0,Hanon Systems,South Korea,1200,10.9
+B00MRS,Dialog Group Bhd.,Malaysia,3100,9.9
+B00PQY,Mabanee Company (SAKC),Kuwait,4800,8.9
+B00R3L,Cencosud S.A.,Chile,3500,14.1
+B00XSF,Sino Biopharmaceutical Limited,Hong Kong,2300,11.5
+B00ZG0,Nordic Semiconductor ASA,Norway,1300,13.4
+B01110,Cipla Ltd,India,2300,12.9
+B01287,PSP Swiss Property AG,Switzerland,4800,4.2
+B012W4,Public Bank Bhd,Malaysia,4800,11.7
+B015YX,Magellan Financial Group Ltd,Australia,4800,18.4
+B0166D,"Bumrungrad Hospital Public Co., Ltd.",Thailand,3350,23.7
+B0166K,Larsen & Toubro Ltd.,India,3100,11.9
+B018C0,"Minor International Public Co., Ltd.",Thailand,3400,6.8
+B0190C,"Techtronic Industries Co., Ltd.",Hong Kong,1400,21
+B019KW,J Sainsbury plc,United Kingdom,3500,6.4
+B019KX,Companhia Siderurgica Nacional,Brazil,1100,13.5
+B01B1L,"China Mengniu Dairy Co., Ltd.",Hong Kong,2400,14.2
+B01BN5,Terna S.p.A.,Italy,4700,15.4
+B01C1P,PT Bank Central Asia Tbk,Indonesia,4800,18.3
+B01FLR,"Ping An Insurance (Group) Company of China, Ltd. Class H",China,4800,12
+B01G0P,Dah Sing Banking Group Limited,Hong Kong,4800,7.3
+B01GZF,UltraTech Cement Limited,India,1100,9.7
+B01JCK,Li Ning Company Limited,China,2400,17.5
+B01LXY,"Hyundai Marine & Fire Insurance Co., Ltd.",South Korea,4800,12.3
+B01NFT,Ashok Leyland Limited,India,1200,13.5
+B01NFV,Bosch Limited,India,1200,13.3
+B01NPJ,Tata Consultancy Services Limited,India,3300,44.1
+B01RJV,GS Holdings Corp.,South Korea,1200,14.4
+B01RM2,Emaar Properties (P.J.S.C),United Arab Emirates,4800,9.2
+B01SCS,Bradespar SA Pfd,Brazil,4800,60.1
+B01SCT,Bradespar S.A.,Brazil,4800,60.1
+B01VZN,"LG Display Co., Ltd",South Korea,1300,-15.7
+B0217K,PT Vale Indonesia Tbk,Indonesia,1100,9.3
+B02GKC,Suzano S.A.,Brazil,2200,68.2
+B02J63,Admiral Group plc,United Kingdom,4800,34.8
+B02L48,Mowi ASA,Norway,2400,16.3
+B02PD8,Coforge Limited,India,3300,26.9
+B02PY1,Singapore Telecommunications Limited,Singapore,4900,7.9
+B02VH2,Pakistan Petroleum Limited,Pakistan,2100,18.1
+B02ZKQ,China Power International Development Ltd,Hong Kong,4700,6.6
+B0300P,Thai Oil Public Co. Ltd.,Thailand,2100,8.1
+B030GJ,Standard Bank Group Limited,South Africa,4800,14.4
+B031NN,CPFL Energia S.A.,Brazil,4700,35
+B033F2,Centrica plc,United Kingdom,4700,27.1
+B033YN,Dexus,Australia,4800,5.6
+B037HF,NTPC Limited,India,4700,11.9
+B037HR,Itau Unibanco Holding SA Pfd,Brazil,4800,19.1
+B03851,"Ferrovial, S.A.",Spain,3100,4
+B038WK,Spar Group Limited,South Africa,3250,21.3
+B03DN1,Itau Unibanco Holding S.A.,Brazil,4800,19.1
+B03FYZ,Goodman Group,Australia,4800,9.7
+B03MN7,Akbank T.A.S.,Turkey,4800,22.2
+B03MNV,Anadolu Efes Biracilik ve Malt Sanayii A.S.,Turkey,2400,14.5
+B03MP1,Arcelik A.S.,Turkey,1400,20.5
+B03MP4,Aselsan Elektronik Sanayi ve Ticaret A.S. Class B,Turkey,1300,29.4
+B03MPL,Aygaz A.S.,Turkey,4700,61.1
+B03MRJ,Dogus Otomotiv Servis ve Ticaret Anonim Sirketi,Turkey,3500,77.8
+B03MS6,Enka Insaat ve Sanayi A.S.,Turkey,3100,1.2
+B03MS9,Eregli Demir Ve Celik Fabrikalari T.A.S.,Turkey,1100,12.1
+B03MSR,Ford Otomotiv Sanayi A.S.,Turkey,1400,89.4
+B03MV3,Kardemir Karabiik Demir celik Sanayi ve Ticaret A.S. Class D,Turkey,1100,27.7
+B03MV4,Kardemir Karabiik Demir celik Sanayi ve Ticaret A.S. Class A,Turkey,1100,27.7
+B03MVJ,Koc Holding A.S.,Turkey,2100,27.8
+B03MVQ,Koza Anadolu Metal Madencilik Isletmeleri A.S.,Turkey,1100,28.5
+B03MWQ,Otokar Otomotiv ve Savunma Sanayi A.S.,Turkey,1400,48.7
+B03MWY,Petkim Petrokimya Holding Anonim Sirketi,Turkey,2200,36.6
+B03MXR,Turkiye Sise ve Cam Fabrikalari A.S.,Turkey,1400,24.9
+B03MY3,Tofas Turk Otomobil Fabrikasi A.S.,Turkey,1400,67.4
+B03MYK,Turk Hava Yollari A.O.,Turkey,4600,27.2
+B03MYM,Turk Traktor ve Ziraat Makineleri A.S.,Turkey,1200,77.5
+B03MYN,Turkcell Iletisim Hizmetleri A.S.,Turkey,4900,25.8
+B03MYP,Turkiye Garanti Bankasi Anonim Sirketi,Turkey,4800,21.7
+B03MYS,Turkiye Is Bankasi Anonim Sirketi Class C,Turkey,4800,18.7
+B03MYT,Turkiye Petrol Rafinerileri A.S.,Turkey,2100,42.1
+B03MZB,Vestel Elektronik Sanayi ve Ticaret A.S.,Turkey,1400,19.3
+B03MZJ,Yapi ve Kredi Bankasi A.S.,Turkey,4800,23.4
+B03N0C,Haci Omer Sabanci Holding A.S.,Turkey,4800,30.6
+B03NGS,PKO Bank Polski S.A.,Poland,4800,10.1
+B03PQZ,Emmi AG,Switzerland,2400,15.9
+B03WBK,Diagnosticos da America S.A.,Brazil,3350,-2.4
+B0498T,Porto Seguro S.A.,Brazil,4800,16.4
+B04BGQ,Taiwan High Speed Rail Corporation,Taiwan,4600,6
+B04KNF,Air China Limited Class H,China,4600,-123.3
+B04KP8,ZTE Corporation Class H,China,1300,14.4
+B04PZ7,Suntec Real Estate Investment Trust,Singapore,4800,3
+B04PZG,"SK Networks Co., Ltd.",South Korea,3250,2.4
+B058J5,Piramal Enterprises Ltd.,India,4800,14.4
+B058TZ,Safran S.A.,France,1300,17.4
+B058ZV,Coca-Cola Icecek A.S.,Turkey,2400,22.4
+B059SR,"GeniuS Electronic Optical Co., Ltd.",Taiwan,1300,18
+B05L89,Top Glove Corporation Bhd.,Malaysia,2300,-3.5
+B05M8B,LANXESS AG,Germany,2200,7.6
+B05NXN,Xinyi Glass Holdings Limited,Hong Kong,1400,14.1
+B05R49,HITEJINRO CO LTD,South Korea,2400,9.5
+B06KZ9,Woolworths Holdings Limited,South Africa,3500,36.8
+B06YV4,Neste Corporation,Finland,2100,24.7
+B0704T,Raiffeisen Bank International AG,Austria,4800,9.2
+B0744B,Bunzl plc,United Kingdom,3250,24
+B0744W,Metcash Limited,Australia,3250,26.8
+B0767Y,Seek Limited,Australia,3300,9.9
+B0774N,Braskem S.A. Pfd  A,Brazil,2200,10.7
+B07DRZ,Recordati Industria Chimica e Farmaceutica S.p.A.,Italy,2300,27.9
+B07J65,Shanghai Electric Group Company Limited Class H,China,1200,0.2
+B07SFG,Domino's Pizza Enterprises Limited,Australia,3400,26.5
+B082RF,Rentokil Initial plc,United Kingdom,3200,21.7
+B083BH,Swiss Prime Site AG,Switzerland,4800,4.1
+B08K3S,Localiza Rent A Car SA,Brazil,4800,11.2
+B08X16,Sembcorp Industries Ltd.,Singapore,4700,14.6
+B08YDG,CP All Public Co. Ltd.,Thailand,3500,13.4
+B09C0Z,Aspen Pharmacare Holdings Limited,South Africa,2300,8.7
+B09DHL,MTU Aero Engines AG,Germany,1300,16.6
+B09JBT,Ayala Corp.,Philippines,4800,7.7
+B09M9D,Kone Oyj Class B,Finland,1200,33.3
+B09M9F,Elia Group SA/NV,Belgium,4700,6.7
+B09N7M,China Shenhua Energy Co. Ltd. Class H,China,2100,18.5
+B09QQ1,Ambuja Cements Limited,India,1100,8.9
+B0B8Z1,"COSCO SHIPPING Holdings Co., Ltd. Class H",China,4600,49.5
+B0B8Z2,"Bank of Communications Co., Ltd. Class H",China,4800,10
+B0BM5T,China State Construction International Holdings Limited,Hong Kong,3100,12.6
+B0C1DM,Bharat Forge Ltd,India,1200,10.2
+B0C2CQ,ENGIE SA.,France,4700,9.7
+B0C5YV,"Celltrion, Inc.",South Korea,2300,14.5
+B0CC0M,Innolux Corp.,Taiwan,1300,-11.6
+B0CGYD,Lojas Renner S.A.,Brazil,3500,13.1
+B0D000,BIM Birlesik Magazalar A.S.,Turkey,3500,58.3
+B0D6P4,Mapletree Logistics Trust,Singapore,4800,5.5
+B0D749,EDP - Energias do Brasil S.A.,Brazil,4700,14.5
+B0DJ8Q,Alstom SA,France,1200,6.1
+B0DJNG,Leonardo SpA,Italy,1300,9.5
+B0F9V2,Oversea-Chinese Banking Corporation Limited,Singapore,4800,11.2
+B0FHTN,Ultrapar Participacoes S.A.,Brazil,3500,9
+B0GWF4,Hindalco Industries Limited,India,1100,11.3
+B0HZL9,Koninklijke DSM N.V.,Netherlands,2200,5.9
+B0J2D4,"Baidu, Inc. Class A",China,3300,8.7
+B0J4PP,Tiger Brands Limited,South Africa,2400,19
+B0JGGP,ITC Limited,India,2400,28.7
+B0JJV5,Pidilite Industries Limited,India,2200,19.7
+B0JJVB,Rajesh Exports Limited,India,1400,11.9
+B0L0W3,UPL Limited,India,2200,17.5
+B0L675,Sanlam Limited,South Africa,4800,14.3
+B0LCW0,Hikma Pharmaceuticals Plc,United Kingdom,2300,16.8
+B0LCW7,Sims Ltd.,Australia,1100,5.5
+B0LD0W,PT XL Axiata Tbk,Indonesia,4900,7.4
+B0LDBX,Indutrade AB,Sweden,1200,20.8
+B0LMTQ,China Construction Bank Corporation Class H,China,4800,11.5
+B0LWK7,Aramex (P.J.S.C),United Arab Emirates,4600,7.2
+B0LX3Y,Aldar Properties - P J S C,United Arab Emirates,4800,10.3
+B0MLBC,Qatar Gas Transport Co.,Qatar,4600,14.3
+B0MP1B,Shenzhou International Group Holdings Limited,China,2400,14.6
+B0N6YC,Turkiye Vakiflar Bankasi Turk Anonim Ortakligi,Turkey,4800,14.2
+B0P72G,Cosan S.A.,Brazil,4700,2.2
+B0PB4M,Link Real Estate Investment Trust,Hong Kong,4800,3.8
+B0PH5N,"Dongfeng Motor Group Co., Ltd. Class H",China,1400,6.5
+B0PR2F,Agile Group Holdings Limited,China,4800,4.3
+B0QMD0,Egypt Kuwait Holding Co. SAE,Egypt,4800,36.8
+B0R7JF,Ipsen SA,France,2300,18.7
+B0RJCG,Minth Group Limited,China,1400,8.9
+B0RNRF,Hana Financial Group Inc.,South Korea,4800,10.2
+B0S600,Telecom Egypt,Egypt,4900,18
+B0SWJX,London Stock Exchange Group plc,United Kingdom,4800,6.7
+B0V3XR,"HYUNDAI GLOVIS Co., Ltd.",South Korea,4600,14.6
+B0VDZN,Coromandel International Limited,India,2200,25.4
+B0VR4L,Dana Gas PJSC,United Arab Emirates,2100,10.6
+B0VR7W,Masraf Al-Rayan QSC,Qatar,4800,5.9
+B0VX28,AARTI Industries Ltd,India,2200,9.9
+B0WC2B,Nine Dragons Paper Holdings Ltd.,Hong Kong,2200,1.4
+B0WGPZ,"Lotte Shopping Co., Ltd",South Korea,3500,2
+B0XP0T,Castellum AB,Sweden,4800,5.5
+B0XPSB,Torrent Pharmaceuticals Ltd,India,2300,19.1
+B0Y91C,China National Building Material Co. Ltd. Class H,China,1100,7.9
+B0YZ0Z,Deutsche Wohnen SE,Germany,4800,0.7
+B0Z5YZ,Arkema SA,France,2200,16.1
+B0ZV10,Grupo Aeroportuario del Pacifico SAB de CV Class B,Mexico,4600,51.4
+B10LQP,TOTVS S.A.,Brazil,3300,14.4
+B10RZP,Unilever PLC,United Kingdom,2400,33.2
+B11875,Nan Ya Printed Circuit Board Corporation,Taiwan,1300,38.2
+B119QG,Partners Group Holding AG,Switzerland,4800,34.1
+B11HK3,Norsk Hydro ASA,Norway,1100,13
+B11LJN,TUI AG,Germany,3400,152.8
+B11TCY,Schindler Holding AG Pref,Switzerland,1200,14.8
+B11WWH,Schindler Holding AG,Switzerland,1200,14.8
+B11Y56,Wacker Chemie AG,Germany,2200,26.5
+B11ZRK,Legrand SA,France,1300,16.2
+B128CF,Yanbu National Petrochemical Co.,Saudi Arabia,2200,4.4
+B128FM,Jarir Marketing Co.,Saudi Arabia,3500,52.9
+B128FN,Company for Cooperative Insurance,Saudi Arabia,4800,17.7
+B128R9,Equatorial Energia S.A.,Brazil,4700,10.4
+B128WL,Sun Tv Network Limited,India,3400,18.6
+B12C0T,"Samsung Life Insurance Co., Ltd.",South Korea,4800,5.3
+B12LR5,Etihad Etisalat Co.,Saudi Arabia,4900,9.5
+B12LSY,Saudi British Bank,Saudi Arabia,4800,8.9
+B12LZH,Al Rajhi Bank,Saudi Arabia,4800,19.2
+B12LZK,Arab National Bank,Saudi Arabia,4800,11
+B12LZP,Bank Albilad,Saudi Arabia,4800,16.6
+B12LZQ,Bank Aljazira,Saudi Arabia,4800,7.9
+B12LZT,Banque Saudi Fransi,Saudi Arabia,4800,11.6
+B12LZW,Riyad Bank,Saudi Arabia,4800,14.8
+B12M7M,Saudi Investment Bank,Saudi Arabia,4800,10.8
+B12M7Q,Saudi Telecom Co.,Saudi Arabia,4900,16.5
+B12PJ2,Husqvarna AB Class B,Sweden,1400,11.3
+B12RQH,Keppel REIT,Singapore,4800,3
+B12V0C,Husqvarna AB Class A,Sweden,1400,11.3
+B131QN,Southern Province Cement Co.,Saudi Arabia,1100,15.3
+B1323K,SABIC Agri-Nutrients Co.,Saudi Arabia,2200,28.9
+B1324D,Saudi Basic Industries Corp.,Saudi Arabia,2200,6.6
+B132HD,Saudi Cement Co.,Saudi Arabia,1100,15.1
+B132Y6,Saudi Industrial Investment Group,Saudi Arabia,2200,12.1
+B133P4,Saudia Dairy & Foodstuff Co.,Saudi Arabia,2400,20.2
+B133RS,Savola Group,Saudi Arabia,2200,9
+B134K6,Yanbu Cement Co.,Saudi Arabia,1100,12.3
+B1359K,PTT Exploration & Production Plc,Thailand,2100,14
+B136MP,National Industrialization Co.,Saudi Arabia,1200,9.1
+B136WG,Qassim Cement Co.,Saudi Arabia,1100,14.4
+B137VV,Almarai Co. Ltd.,Saudi Arabia,2400,11.6
+B13BYX,Human Soft Holding Co. KSCC,Kuwait,3200,32.7
+B13X01,Eiffage SA,France,3100,13.5
+B142S6,Kuehne & Nagel International AG,Switzerland,4600,59.9
+B14NJ7,Amplifon S.p.A.,Italy,3250,21
+B14WZ4,Champion Real Estate Investment Trust,Hong Kong,4800,2.3
+B15456,Bank of China Limited Class H,China,4800,10.5
+B15C55,TotalEnergies SE,France,2100,21.8
+B15DYL,Boubyan Bank K.S.C.,Kuwait,4800,7.8
+B15F6S,Charter Hall Group,Australia,4800,12.8
+B15SK5,Amorepacific Corp.,South Korea,2400,5.2
+B15T56,Siemens Limited,India,1200,13.9
+B1638D,AMOREPACIFIC CORP Pfd Registered Non-Voting,South Korea,2400,5.2
+B164FY,Aeroports de Paris ADP,France,4600,12.6
+B1683V,United Breweries Limited,India,2400,10.8
+B1685L,Info Edge India Ltd.,India,3300,4.8
+B16FPG,Embraer S.A.,Brazil,1300,2.9
+B17KC6,Wilmar International Limited,Singapore,2200,9.2
+B17KMY,Yanlord Land Group Limited,Singapore,4800,7.2
+B17N9P,Greentown China Holdings Ltd.,China,4800,13.2
+B17NY4,Orion Oyj Class B,Finland,2300,23
+B17ZL5,Mineral Resources Limited,Australia,1100,35.5
+B18ZRK,Logitech International S.A.,Switzerland,1300,22.4
+B19NLV,Experian PLC,Ireland,3200,28.3
+B1B90H,CG Power & Industrial Solutions Ltd,India,1200,39.1
+B1BDGY,Godrej Consumer Products Limited,India,2400,14
+B1BK20,RTL Group S.A.,Luxembourg,3400,14.6
+B1C1NH,Sahara International Petrochemical Company,Saudi Arabia,2200,19.1
+B1CC9H,Swedish Orphan Biovitrum AB,Sweden,2300,11
+B1CNDB,StarHub Ltd,Singapore,4900,20.1
+B1CRLC,Mondi plc,United Kingdom,2200,16.1
+B1D3ZC,Exide Industries Limited,India,1200,8.2
+B1DYPZ,"China Merchants Bank Co., Ltd. Class H",China,4800,15.7
+B1FCQX,Voltas Limited,India,1200,7
+B1FFT7,Impala Platinum Holdings Limited,South Africa,1100,23.1
+B1FH8J,Severn Trent Plc,United Kingdom,4700,14.1
+B1FJ0C,Brambles Limited,Australia,4600,22.5
+B1FJ6T,Industrias Bachoco SAB de CV Class B,Mexico,2200,9.9
+B1FN8X,Metso Outotec Oyj,Finland,1200,20.7
+B1FRH8,M. Dias Branco SA Industria e Comercio de Alimentos,Brazil,2400,10.4
+B1FRT6,Indian Hotels Co. Ltd.,India,3400,11.4
+B1FSSM,NagaCorp Ltd.,Cambodia,3400,12.7
+B1FW75,"Galp Energia, SGPS S.A. Class B",Portugal,2100,22.6
+B1G1QD,Industrial and Commercial Bank of China Limited Class H,China,4800,11.1
+B1G40S,Mapfre SA,Spain,4800,8.7
+B1G426,Kumba Iron Ore Limited,South Africa,1100,39.6
+B1G8KX,Transmissora Alianca De Energia Eletrica S.A. Unit,Brazil,3100,28.4
+B1H508,"Zhaojin Mining Industry Co., Ltd. Class H",China,1100,2.8
+B1H6R6,OdontoPrev S.A.,Brazil,3350,37
+B1HKJZ,Formosa Sumco Technology Corporation,Taiwan,1200,21.7
+B1HVJ1,China Communications Services Corp. Ltd. Class H,China,3100,8.2
+B1JB4K,Symrise AG,Germany,2200,12.8
+B1JLL3,Torrent Power Limited,India,4700,16
+B1JNK8,China Coal Energy Co. Ltd. Class H,China,2100,17.5
+B1KFX1,Grupo Aeroportuario del Centro Norte SAB de CV Class B,Mexico,4600,45.2
+B1KJJ4,Whitbread PLC,United Kingdom,3400,6.9
+B1L2RC,Haitian International Holdings Limited,Hong Kong,1200,13.3
+B1L3CS,Ubisoft Entertainment SA,France,3300,-27
+B1L3XL,"Zhuzhou CRRC Times Electric Co., Ltd. Class H",China,1200,6.9
+B1L4BC,Qube Holdings Ltd.,Australia,4600,6.7
+B1L883,Metro Pacific Investments Corporation,Philippines,4700,7.4
+B1L95G,Aker BP ASA,Norway,2100,22.8
+B1LB9P,SCOR SE,France,4800,-6
+B1P3R4,Sao Martinho S.A.,Brazil,2200,16.1
+B1P6WF,Advanced Petrochemical Co.,Saudi Arabia,2200,8.8
+B1Q3J3,SKF AB Class B,Sweden,1200,12.4
+B1QH7Y,Volvo AB Class A,Sweden,1200,21.4
+B1QH83,Volvo AB Class B,Sweden,1200,21.4
+B1RMFT,TAV Havalimanlari Holding A.S.,Turkey,4600,10.9
+B1RR84,Smurfit Kappa Group Plc,Ireland,2200,15.4
+B1S34K,Marico Limited,India,2400,36.9
+B1S722,Power Finance Corporation Limited,India,4800,16.2
+B1TJG9,Max Financial Services Limited,India,4800,77.2
+B1V74X,JBS S.A.,Brazil,2400,29.4
+B1VJS6,Page Industries Limited,India,2400,49.3
+B1VKYN,Country Garden Holdings Co. Ltd.,China,4800,5.5
+B1VP0K,Rexel SA,France,3250,13.1
+B1VQ25,Sandvik AB,Sweden,1200,17.4
+B1VQ5C,Keppel Corporation Limited,Singapore,3100,7.8
+B1VQF4,Orkla ASA,Norway,2400,11.8
+B1VRCG,CMOC Group Limited Class H,China,3250,14.3
+B1VSK1,Industrivarden AB Class A,Sweden,4800,8.2
+B1VSK5,Industrivarden AB Class C,Sweden,4800,8.2
+B1VT03,Yangzijiang Shipbuilding (Holdings) Ltd.,China,1200,15.2
+B1VVGV,Svenska Cellulosa AB SCA Class A,Sweden,2200,4.5
+B1VVGZ,Svenska Cellulosa AB SCA Class B,Sweden,2200,4.5
+B1VXJL,Genting Bhd.,Malaysia,3400,1.7
+B1VXKN,Genting Malaysia Bhd.,Malaysia,3400,2.8
+B1VZ0M,Hargreaves Lansdown plc,United Kingdom,4800,44.4
+B1W0JF,China CITIC Bank Corporation Ltd Class H,China,4800,10
+B1W4V6,Prysmian S.p.A.,Italy,1200,19.5
+B1W5NW,SalMar ASA,Norway,2400,16.2
+B1W8P1,Aalberts N.V.,Netherlands,1200,15.5
+B1WGG9,Geberit AG,Switzerland,1200,36.3
+B1WQQ4,"Samsung Card Co., Ltd",South Korea,4800,7.6
+B1WT5G,DSV A/S,Denmark,4600,17.2
+B1WTMP,Turkiye Halk Bankasi Anonim Sirketi,Turkey,4800,13.5
+B1WVF6,ANDRITZ AG,Austria,1200,22.3
+B1WY23,Smiths Group Plc,United Kingdom,1200,12.2
+B1XCJB,"Xinhua Winshare Publishing & Media Co., Ltd. Class H",China,3250,11.1
+B1XH02,VINCI SA,France,3100,16
+B1XK7G,Platinum Asset Management Ltd,Australia,6000,26.1
+B1XQXC,Whitehaven Coal Limited,Australia,2100,53.6
+B1XZS8,Anglo American plc,United Kingdom,1100,20.2
+B1Y1SQ,"Jeronimo Martins, SGPS S.A.",Portugal,3500,25.4
+B1Y3WG,IOI Corp. Bhd.,Malaysia,2200,13.4
+B1Y4WK,SLC Agricola S.A.,Brazil,2200,29.5
+B1Y9QS,ABB India Limited,India,1200,16.4
+B1Y9TB,Danone SA,France,2400,12.1
+B1YBF0,KWG Group Holdings Limited,China,4800,3.8
+B1YBRG,Companhia Energetica de Minas Gerais SA Pfd,Brazil,4700,16.5
+B1YBRK,Companhia Energetica de Minas Gerais SA,Brazil,4700,16.5
+B1YBT0,"Sunny Optical Technology (Group) Co., Ltd.",China,1300,12
+B1YCHL,Companhia de Saneamento Basico do Estado de Sao Paulo SABESP,Brazil,4700,11.4
+B1YLCV,DLF Limited,India,4800,5.5
+B1YMYT,HIWIN Technologies Corp.,Taiwan,1300,13.9
+B1YVKN,ANTA Sports Products Ltd.,China,2400,21.5
+B1YW44,3i Group plc,United Kingdom,4800,23.7
+B1YWHR,Marfrig Global Foods SA,Brazil,2400,74.8
+B1YXBJ,Air Liquide SA,France,2200,13.4
+B1Z4V2,"Total Access Communication Public Co., Ltd.",Thailand,4900,18.4
+B1Z5HY,PT Media Nusantara Citra Tbk,Indonesia,3200,12.6
+B1Z764,Vinda International Holdings Limited,Hong Kong,2400,10.6
+B1Z7FX,Fosun International Limited,China,4800,5.6
+B1Z8F6,Saudi Kayan Petrochemical Co.,Saudi Arabia,2200,0.4
+B1Z9Q9,Aboitiz Power Corp.,Philippines,4700,14.1
+B1ZBHG,Aegean Airlines SA,Greece,4600,29.4
+B232R0,"SK Innovation Co., Ltd",South Korea,2100,7.5
+B233HS,Power Grid Corporation of India Limited,India,4700,17.6
+B233LP,NHPC Limited,India,4700,10.1
+B234WN,DiaSorin S.p.A.,Italy,2300,19.7
+B2368L,Pilbara Minerals Limited,Australia,1100,63.8
+B23DL4,Air Arabia PJSC,United Arab Emirates,4600,16.6
+B23DZG,Multiplan Empreendimentos Imobiliarios SA,Brazil,4800,11.9
+B23TGR,China Jinmao Holdings Group Limited,Hong Kong,4800,9.4
+B2473N,Ecopetrol SA,Colombia,2100,41.4
+B247XZ,Manila Electric Co.,Philippines,4700,24.2
+B2492F,CJ CheilJedang Corporation,South Korea,4600,8.1
+B24CGK,Reckitt Benckiser Group plc,United Kingdom,2400,28.3
+B24CVP,Sino-Ocean Group Holding Ltd.,China,4800,-0.1
+B24FX4,"Pan Ocean Co., Ltd.",South Korea,4600,12.4
+B24FZ3,Bosideng International Holdings Limited,Hong Kong,2400,17.7
+B24GTQ,CJ CheilJedang Corp Pfd Shs Non-voting,South Korea,4600,8.1
+B27WRM,Kingsoft Corp. Ltd.,China,3300,-17.9
+B282PJ,Habib Bank Limited,Pakistan,4800,11.3
+B283W9,CaixaBank SA,Spain,4800,9.7
+B288C9,Iberdrola SA,Spain,4700,9.3
+B28DTJ,Bureau Veritas SA,France,3200,27.9
+B28SM0,Persistent Systems Limited,India,3300,24.6
+B28T1S,PT Jasa Marga (Persero) Tbk Class B,Indonesia,4600,9.1
+B28V44,"Fluidra, S.A.",Spain,1400,14.8
+B28XXH,Adani Ports & Special Economic Zone Limited,India,4600,14.6
+B28YTC,"Macquarie Group, Ltd.",Australia,4800,14.9
+B292JQ,Getlink SE,France,4600,21.1
+B292SM,Megacable Hldgs SAB de CV Cert Part Ord Cons of 2 A,Mexico,4900,11.4
+B296ZH,Sinotruk Hong Kong Ltd.,China,1200,6
+B297KM,China Railway Group Limited Class H,China,3100,10.4
+B29D24,Tekfen Holding Anonim Sirketi,Turkey,3100,23.5
+B29MKF,Uni-President China Holdings Ltd.,China,2400,9.3
+B29SHS,"BYD Electronic (International) Co., Ltd.",China,1300,7.3
+B29TTR,Sime Darby Bhd.,Malaysia,3250,7
+B29ZGV,"KEPCO Plant Service & Engineering Co., Ltd",South Korea,3100,9.8
+B2B0DG,RELX PLC,United Kingdom,3200,59.5
+B2NR3Y,SJM Holdings Limited,Hong Kong,3400,-36.1
+B2PF1B,Rabigh Refining & Petrochemical Co.,Saudi Arabia,2100,4
+B2PXYH,"eMemory Technology, Inc.",Taiwan,1300,51
+B2Q14Z,Want Want China Holdings Limited,Hong Kong,2400,22.6
+B2Q5H5,"China Pacific Insurance (Group) Co., Ltd. Class H",China,4800,10.3
+B2Q7WL,REC Limited,India,4800,18.6
+B2QG18,Mobile Telecommunications Co. Saudi Arabia,Saudi Arabia,4900,4.8
+B2QKXW,Bajaj Auto Limited,India,1400,21.9
+B2QPJK,Hartalega Holdings Bhd.,Malaysia,1200,1.4
+B2QPKJ,Fresnillo PLC,Mexico,1100,3
+B2QY96,Hypera S.A.,Brazil,2300,16.5
+B2QZGV,Axiata Group Bhd.,Malaysia,4900,7.1
+B2R2ZC,CRRC Corporation Limited Class H,China,1200,6.4
+B2R7SH,"Bangkok Life Assurance Public Co., Ltd.",Thailand,4800,8.1
+B2RCGV,Turk Telekomunikasyon A.S.,Turkey,4900,28.3
+B2RJPM,PT Bumi Serpong Damai Tbk,Indonesia,4800,4
+B2RJYH,Xtep International Holdings Limited,China,2400,11
+B2RLCR,Bupa Arabia for Cooperative Insurance Co.,Saudi Arabia,4800,17.6
+B39GNW,EDP Renovaveis SA,Spain,4700,6.9
+B39J2M,United Utilities Group PLC,United Kingdom,4700,-1.4
+B39NWT,Alinma Bank,Saudi Arabia,4800,16.3
+B39Z8G,"LG Innotek Co., Ltd",South Korea,1300,18.4
+B39Z8L,SK Inc.,South Korea,4800,10.7
+B3BQB9,Abdullah Al Othaim Markets Co.,Saudi Arabia,3500,26.7
+B3BQFC,PT Adaro Energy Indonesia Tbk,Indonesia,2100,39.7
+B3C8VY,Saudi Arabian Mining Co.,Saudi Arabia,1100,14.8
+B3DF0Y,KB Financial Group Inc.,South Korea,4800,9.9
+B3LF56,Hyundai Wia Corporation,South Korea,1200,5
+B3LP18,Koza Altin Isletmeleri A.S.,Turkey,1100,36.4
+B3MBS7,Ocado Group PLC,United Kingdom,3500,-26.4
+B3MPN5,Sun Art Retail Group Limited,China,3500,-0.5
+B3MSM2,Amadeus IT Group SA Class A,Spain,3300,15.9
+B3N336,"Korea Aerospace Industries, Ltd.",South Korea,1300,14.5
+B3NFC5,BBMG Corporation Class H,China,1100,3.9
+B3PG22,L'Occitane International S.A.,Luxembourg,2400,15
+B3S98W,"BNK Financial Group, Inc.",South Korea,4800,7.8
+B3WYBN,Vodafone Qatar QSC,Qatar,4900,9.2
+B3X0F9,Evolution Mining Limited,Australia,1100,8.9
+B3XH0P,Hutchison Telecommunications Hong Kong Holdings Limited,Hong Kong,4900,-0.4
+B3ZVDV,"Sinopharm Group Co., Ltd. Class H",China,2300,11.8
+B3ZXLP,China Suntien Green Energy Corporation Limited Class H,China,4700,10.5
+B403QG,Mouwasat Medical Services Co.,Saudi Arabia,3350,20.8
+B409HQ,Oil India Limited,India,2100,19.7
+B40MFF,Muthoot Finance Limited,India,4800,16.9
+B41XC9,China Resources Cement Holdings Limited,Hong Kong,1100,4.8
+B42SRM,Metallurgical Corporation of China Ltd. Class H,China,3100,8.4
+B432QW,Seven Group Holdings Limited,Australia,3250,16.7
+B43399,"Guangzhou Automobile Group Co., Ltd. Class H",China,1400,10.3
+B44XTX,Pandora A/S,Denmark,1400,67.1
+B44ZV9,China Hongqiao Group Ltd.,China,1100,13.1
+B457NQ,Grupo Comercial Chedraui SAB de CV Class B,Mexico,3500,13.6
+B45LHQ,"ILJIN MATERIALS CO., LTD.",South Korea,1200,5.1
+B4975P,Magazine Luiza S.A.,Brazil,3500,-3.8
+B4K90R,Life Healthcare Group Holdings Limited,South Africa,3350,9.8
+B4LD3M,PT Indofood CBP Sukses Makmur Tbk,Indonesia,2400,14.7
+B4LR5Q,Mapletree Industrial Trust,Singapore,4800,7
+B4MW04,PT Tower Bersama Infrastructure Tbk,Indonesia,4900,15.6
+B4MXNL,Oberoi Realty Limited,India,4800,14.1
+B4P2SD,United Electronics Co.,Saudi Arabia,4800,32.5
+B4PFFW,Prada S.p.A.,Italy,2400,13.9
+B4PH0C,Gjensidige Forsikring ASA,Norway,4800,21.6
+B4PLX1,Pegatron Corporation,Taiwan,1300,7.7
+B4Q153,Samsonite International S.A.,Luxembourg,1400,21.7
+B4Q1Y5,Chongqing Rural Commercial Bank Co. Ltd. Class H,China,4800,10.3
+B4Q2TX,China Longyuan Power Group Corporation Ltd Class H,China,4700,9.2
+B4Q4CJ,Shanghai Pharmaceuticals Holding Co. Ltd. Class H,China,2300,9.4
+B4R2R5,Julius Baer Gruppe AG,Switzerland,4800,17.6
+B4R39F,Chow Tai Fook Jewellery Group Limited,Hong Kong,1400,18.6
+B4T3BW,Glencore plc,Switzerland,3250,22.4
+B4TX8S,AIA Group Limited,Hong Kong,4800,6.4
+B4V5RY,Banco Santander (Brasil) S.A. Units Cons of 1 Sh + 1 Pfd Sh,Brazil,4800,14.4
+B4V9B0,Charoen Pokphand Foods Public Co. Ltd.,Thailand,2200,6.3
+B4WRJD,Meritz Financial Group Inc.,South Korea,4800,36.9
+B4X3ST,JSW Energy Limited,India,4700,8.1
+B4Y8TB,"Wemade Co., Ltd.",South Korea,3300,8.9
+B4YVF5,Brenntag Societas Europaea,Germany,3250,22
+B4Z9XF,Coal India Ltd.,India,2100,51.8
+B4ZRC9,Grupo de Inversiones Suramericana SA Pfd,Colombia,4800,4.6
+B50PPK,Migros Ticaret A.S.,Turkey,3500,97.7
+B5143W,Mapletree Pan Asia Commercial Trust,Singapore,4800,5.2
+B52J81,Airtac International Group,Taiwan,1200,15.4
+B5387L,Maxis Bhd.,Malaysia,4900,19.9
+B544N7,Zoomlion Heavy Industry Science & Technology Co. Ltd. Class H,China,1200,4.7
+B545MG,Swiss Re AG,Switzerland,4800,22
+B56KLY,Longfor Group Holdings Ltd.,China,4800,16.2
+B56LHP,Win Semiconductors Corp.,Taiwan,1300,4.3
+B56XQT,Energisa SA Units Cons of 1 Sh + 4 Pfd Shs,Brazil,4700,18
+B56ZM7,Hutchison Port Holdings Trust,Singapore,6000,3.7
+B5730Z,"New China Life Insurance Co., Ltd. Class H",China,4800,7.2
+B573M1,Chr. Hansen Holding A/S,Denmark,2400,13.1
+B57JY2,"China Minsheng Banking Corp., Ltd. Class H",China,4800,5.7
+B58J1S,Chailease Holding Co. Ltd.,Taiwan,4800,21.7
+B58YWF,Man Wah Holdings Limited,Hong Kong,1400,18.4
+B59GZJ,"Xinjiang Goldwind Science & Technology Co., Ltd. Class H",China,1200,8.1
+B59KXT,Royal Bafokeng Platinum Limited,South Africa,1100,18.4
+B5KQGT,PETRONAS Chemicals Group Bhd.,Malaysia,2200,19.2
+B5KYHQ,L&T Finance Holdings Ltd,India,4800,7.8
+B5LMKP,Nextdc Limited,Australia,3300,0.9
+B5M6XQ,International Consolidated Airlines Group SA,United Kingdom,4600,24.2
+B5MN1W,Azrieli Group Ltd.,Israel,4800,6.5
+B5NRRJ,"China Everbright Bank Co., Ltd. Class H",China,4800,9.8
+B5VJH7,"BDO Unibank, Inc.",Philippines,4800,11.6
+B5VQMV,Entain PLC,United Kingdom,3400,10.7
+B5VSK2,Indorama Ventures Public Co. Ltd.,Thailand,2200,22.6
+B5ZN1N,SEGRO plc,United Kingdom,4800,3.7
+B5ZQ9D,Evonik Industries AG,Germany,2200,9.9
+B606XG,"Oneness Biotech Co., Ltd.",Taiwan,2300,1.2
+B60LZR,Agricultural Bank of China Limited Class H,China,4800,10.6
+B60NRB,Tata Motors Ltd Class A,India,1400,-1.8
+B60QWJ,James Hardie Industries PLC Chess Units of Foreign Securities,Ireland,1100,35.1
+B611LV,Tata Motors Limited,India,1400,-1.9
+B613DJ,"Hanmi Pharmaceutical Co., Ltd.",South Korea,2300,10.8
+B614LY,Cielo,Brazil,3200,12.9
+B61JC6,Treasury Wine Estates Limited,Australia,2400,9.4
+B61X7R,"SITC International Holdings Co., Ltd.",Hong Kong,4600,82.9
+B62B9W,"HANWHA LIFE INSURANCE Co., Ltd.",South Korea,4800,6
+B633D9,Zhongsheng Group Holdings Ltd.,China,3500,15.3
+B63DG2,Powszechny Zaklad Ubezpieczen Spolka Akcyjna,Poland,4800,17.7
+B63DLB,Far East Horizon Limited,Hong Kong,4800,12.9
+B65B4D,Vodacom Group Limited,South Africa,4900,18.3
+B66CTX,FILA Holdings Corp.,South Korea,2400,12.2
+B66Y3W,Grupo Aval Acciones y Valores SA Pfd,Colombia,4800,15.9
+B671GT,Fibra Uno Administracion SA de CV,Mexico,4800,6
+B676TW,MicroPort Scientific Corp.,China,2300,-28.9
+B679Q3,"Seegene, Inc.",South Korea,2300,14.2
+B67C2G,Swire Properties Limited,Hong Kong,4800,2.7
+B67QFW,PTT Global Chemical Public Company Limited,Thailand,2100,6.5
+B682TF,E-MART Inc.,South Korea,3500,2.5
+B68N34,DGB Financial Group Co Ltd,South Korea,4800,8.5
+B6RV67,"Parade Technologies, Ltd.",Taiwan,1300,16.7
+B6SNRV,Bharat Heavy Electricals Limited,India,1200,1.9
+B6SPB4,CITIC Securities Co. Ltd. Class H,China,4800,9.4
+B6SR7L,Central Pattana Public Co. Ltd.,Thailand,4800,12.8
+B6WTLK,Seera Holding Group,Saudi Arabia,4800,2.6
+B6WY99,China Medical System Holdings Ltd.,China,2300,23.9
+B6XFBX,Telefonica Brasil S.A.,Brazil,4900,6.7
+B6Z1L7,Tata Power Company Limited,India,4700,14
+B6ZZQ6,Asmedia Technology Inc.,Taiwan,1300,16.3
+B71QPM,DKSH Holding AG,Switzerland,3250,11.5
+B71SXC,"Haitong Securities Co., Ltd. Class H",China,4800,5.4
+B725S2,Puregold Price Club Inc.,Philippines,3300,10.8
+B7311V,PT Kalbe Farma Tbk,Indonesia,2300,16.2
+B734XQ,Zhen Ding Technology Holding Limited,Taiwan,1300,14.2
+B76D41,BKW AG,Switzerland,4700,16.5
+B77H11,"GT Capital Holdings, Inc.",Philippines,1400,8.5
+B798FW,Novozymes A/S Class B,Denmark,2200,22.1
+B7F9Q7,"GS Retail Co., Ltd.",South Korea,3500,5.4
+B7FQV6,Raia Drogasil S.A.,Brazil,3500,17.6
+B7J4PX,Saudi Airlines Catering Co.,Saudi Arabia,4600,40.4
+B7KR2P,easyJet plc,United Kingdom,4600,7
+B7LV1N,"Shanghai Commercial & Savings Bank, Ltd.",Taiwan,4800,10.5
+B7RLFB,Bloomberry Resorts Corporation,Philippines,3400,16.2
+B7T5KQ,"HANKOOK TIRE & TECHNOLOGY Co., Ltd.",South Korea,1400,6.9
+B7VG6L,Telefonica Deutschland Holding AG,Germany,4900,2.3
+B7W5GK,Astro Malaysia Holdings Bhd.,Malaysia,3400,32
+B800MQ,PT Astra International Tbk,Indonesia,3250,15.4
+B80VKP,"ASPEED Technology, Inc.",Taiwan,1300,48.6
+B83X6P,IHH Healthcare Bhd.,Malaysia,3350,5.9
+B85H8C,"Alpek, S.A.B. de C.V. Class A",Mexico,2200,14.7
+B85LKS,AAC Technologies Holdings Inc.,China,1300,3.6
+B86S2N,ageas SA/NV,Belgium,4800,9.9
+B86SZR,ALS Ltd.,Australia,3200,24
+B87CVM,Aurizon Holdings Ltd.,Australia,4600,9.4
+B87RSJ,"China International Marine Containers (Group) Co., Ltd Class H",China,2200,9.2
+B89YH9,UnipolSai Assicurazioni S.p.A.,Italy,4800,10.6
+B89Z69,Cementos Argos SA,Colombia,1100,4
+B8C3BL,Sage Group plc,United Kingdom,3300,20.4
+B8F0TD,Talanx AG,Germany,4800,14.4
+B8F882,Mahindra & Mahindra Financial Services Ltd.,India,4800,11.3
+B8FMRX,Coloplast A/S Class B,Denmark,2300,59.7
+B8HWJY,PT Surya Citra Media Tbk,Indonesia,3400,18.2
+B8KF9B,WPP Plc,United Kingdom,3200,30.6
+B8L1DR,FGV Holdings Bhd.,Malaysia,2200,18.7
+B8P4LP,Xero Limited,New Zealand,3300,2.6
+B8RZJZ,People's Insurance Co. (Group) of China Ltd. Class H,China,4800,11
+B8W6K5,Mercury NZ Ltd.,New Zealand,4700,6.2
+B8XBQ9,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd. Class H",China,2300,8.7
+B8Z00N,CIFI Holdings (Group) Co. Ltd.,China,4800,8.7
+B90LKT,Commerzbank AG,Germany,4800,6.3
+B929F4,ASML Holding NV,Netherlands,1300,71.4
+B92NYF,"China Galaxy Securities Co., Ltd. Class H",China,4800,7.9
+B92P9G,Indus Towers Limited,India,4800,10.4
+B95TKH,Dallah Healthcare Co.,Saudi Arabia,3350,14.5
+B96HCH,Voltronic Power Technology Corp.,Taiwan,1200,53.2
+B97C73,Tele2 AB Class B,Sweden,4900,19.9
+B9895B,Coca-Cola HBC AG,Switzerland,2400,18.6
+B992PT,PI Industries Limited,India,2200,17.2
+B9G6L8,LEG Immobilien SE,Germany,4800,5.5
+B9J4ZK,Pegasus Hava Tasimaciligi Anonim Sirketi,Turkey,4600,28.8
+B9L4K7,Energy Absolute Public Co. Ltd.,Thailand,4700,18.1
+B9M3PK,AB Sagax Class B,Sweden,4800,9.7
+B9N3SQ,BB Seguridade Participacoes SA,Brazil,4800,76.8
+BAC,Bank of America Corp,United States,4800,10.5
+BALL,Ball Corporation,United States,2200,23.8
+BAP,Credicorp Ltd.,Peru,4800,16.5
+BAX,Baxter International Inc.,United States,2300,13.5
+BB22L9,KION GROUP AG,Germany,1200,2.9
+BBCR9N,SimCorp A/S,Denmark,3300,26.3
+BBJPFY,Vonovia SE,Germany,4800,4
+BBPD5F,Nexteer Automotive Group Limited,United States,1200,4.5
+BBY,"Best Buy Co., Inc.",United States,3500,50.7
+BC9ZH8,Chemical Works of Gedeon Richter Plc,Hungary,2300,19.9
+BCDBKF,China Lesso Group Holdings Limited,China,1200,13.9
+BCDBLJ,PT Sumber Alfaria Trijaya,Indonesia,3500,24.8
+BCDBLX,PT Sarana Menara Nusantara Tbk,Indonesia,4800,24.3
+BCDYQ3,NHN Corporation,South Korea,3300,3.1
+BCRWL6,Asian Paints Ltd.,India,2200,25.9
+BCRWZ1,Compagnie Financiere Richemont SA,Switzerland,1400,18.5
+BD0BDH,"PTT Public Co., Ltd.",Thailand,2100,9.3
+BD0FRL,RBL Bank Ltd.,India,4800,6.8
+BD0MX9,MLP Saglik Hizmetleri AS Class B,Turkey,3350,65.3
+BD0MXB,ENERJISA ENERJI A.S,Turkey,4700,24.2
+BD0PJ0,Inmobiliaria Colonial SOCIMI SA,Spain,4800,2.7
+BD0Q39,Koninklijke Ahold Delhaize N.V.,Netherlands,3500,15.7
+BD0RYG,Varun Beverages Ltd.,India,2400,27.9
+BD0YVN,Dino Polska SA,Poland,3500,28.1
+BD1RP6,Bank of Ireland Group Plc,Ireland,4800,7.8
+BD1WX8,ENGIE Brasil Energia S.A.,Brazil,4700,40.6
+BD2N0P,Bajaj Finance Limited,India,4800,21.1
+BD2P9X,Knorr-Bremse AG,Germany,1200,20.2
+BD2Z8S,Italgas SpA,Italy,4700,17.5
+BD31M4,"Orient Securities Co., Ltd. Class H",China,4800,3.8
+BD3CQ1,MONETA Money Bank AS,Czech Republic,4800,13.1
+BD3R8D,Tube Investments of India Limited,India,1100,21
+BD3RVD,L&T Technology Services Ltd.,India,3100,18.8
+BD3VFW,ConvaTec Group Plc,United Kingdom,2300,14.8
+BD4GT2,"Guotai Junan Securities Co., Ltd. Class H",China,4800,7.5
+BD4HFT,"HD HYUNDAI CO.,LTD.",South Korea,1200,13.7
+BD4T6W,PT Telkom Indonesia (Persero) Tbk Class B,Indonesia,4900,19.7
+BD4TZK,OCI NV,Netherlands,2200,31
+BD57ZT,LianChuang Electronic Technology Co Ltd Class A,China,1300,7.2
+BD594Y,Siemens Healthineers AG,Germany,3350,11.3
+BD5C7G,EVE Energy Co. Ltd. Class A,China,1200,14.6
+BD5C7M,"Sieyuan Electric Co., Ltd. Class A",China,1300,12.8
+BD5C7W,"Luxi Chemical Group Co., Ltd. Class A",China,2200,16.9
+BD5C7Z,"WUS PRINTED CIRCUIT (KUNSHAN) CO., LTD. Class A",China,1300,15.8
+BD5C82,"Anhui Anke Biotechnology (Group) Co., Ltd. Class A",China,2300,23.4
+BD5C88,"China Zhenhua (Group) Science & Technology Co., Ltd. Class A",China,1300,24.8
+BD5C8D,"Hengdian Group DMEGC Magnetics Co., Ltd Class A",China,1200,20.6
+BD5C8H,Do-Fluoride New Materials Co. Ltd. Class A,China,2200,29
+BD5C90,"Guangxi Liugong Machinery Co., Ltd Class A",China,1200,4.7
+BD5C95,Hunan Gold Corp. Ltd. Class A,China,1100,8.8
+BD5C9L,"Beijing Shunxin Agriculture Co., Ltd. Class A",China,2200,0
+BD5C9M,"Tianshui Huatian Technology Co., Ltd. Class A",China,1300,5.7
+BD5C9N,Zhejiang Quartz Crystal Optoelectronic Technology Co Ltd Class A,China,1300,7.4
+BD5C9X,"Montnets Cloud Technology Group Co., Ltd Class A",China,3300,2.9
+BD5CB1,"Ganfeng Lithium Group Co., Ltd. Class A",China,2200,49.8
+BD5CB7,Yunnan Aluminium Co. Ltd. Class A,China,1100,25.2
+BD5CB9,"Xinjiang Zhongtai Chemical Co., Ltd. Class A",China,3250,4.7
+BD5CBG,"Unisplendour Co., Ltd. Class A",China,1300,7.7
+BD5CC3,Hytera Communications Corporation Limited Class A,China,1300,6.7
+BD5CC9,"Shandong Sunpaper Co., Ltd. Class A",China,2200,13.3
+BD5CCF,"Shenzhen Sunway Communication Co., Ltd. Class A",China,1300,11.7
+BD5CCK,"Hangzhou Tigermed Consulting Co., Ltd. Class A",China,3200,12.8
+BD5CCR,"Shandong Denghai Seeds Co., Ltd. Class A",China,2200,8.8
+BD5CCS,Joyoung Company Limited Class A,China,1400,15.8
+BD5CCV,"SUNWODA Electronic Co., Ltd. Class A",China,1200,7.6
+BD5CCY,"Huagong Tech Co., Ltd. Class A",China,1200,9.1
+BD5CD4,"CSG Holding Co., Ltd. Class A",China,1400,17.1
+BD5CD5,"An Hui Wenergy Co., Ltd. Class A",China,4700,4
+BD5CD7,"Beijing E-Hualu Information Technology Co., Ltd. Class A",China,3300,3.1
+BD5CDB,Changchun High & New Technology Industry (Group) Inc. Class A,China,2300,24.6
+BD5CDC,"Zhejiang Sanhua Intelligent Controls Co., Ltd. Class A",China,1200,19
+BD5CDG,"NSFOCUS Technologies Group Co., Ltd. Class A",China,1300,10.1
+BD5CDL,"Guangdong Baolihua New Energy Stock Co., Ltd Class A",China,4700,1.7
+BD5CDP,"Shenzhen Airport Co., Ltd. Class A",China,4600,-10.1
+BD5CDR,"North Industries Group Red Arrow Co., Ltd. Class A",China,1300,11
+BD5CDS,"Lianhe Chemical Technology Co., Ltd. Class A",China,2200,8.4
+BD5CDT,"Mango Excellent Media Co., Ltd. Class A",China,3300,10.7
+BD5CDW,"Shenzhen Kaifa Technology Co., Ltd Class A",China,1300,8.2
+BD5CF0,"Xinyangfeng Agricultural Technology Co., Ltd. Class A",China,2200,16
+BD5CF2,"Suzhou Dongshan Precision Manufacturing Co., Ltd Class A",China,1300,14.9
+BD5CF3,"Harbin Boshi Automation Co., Ltd. Class A",China,1200,17.6
+BD5CF4,"Yintai Gold Co., Ltd. Class A",China,1100,12.2
+BD5CF9,"Shenzhen Aisidi Co., Ltd. Class A",China,3250,14
+BD5CFB,"Zhejiang Runtu Co., Ltd. Class A",China,2200,6.9
+BD5CFD,Business-Intelligence of Oriental Nations Corporation Ltd. Class A,China,3300,-1.2
+BD5CFH,Tangshan Jidong Cement Co. Ltd. Class A,China,1100,6
+BD5CFM,Suofeiya Home Collection Co. Ltd Class A,China,1400,17.3
+BD5CFQ,"Himile Mechanical Science & Technology (Shandong) Co., Ltd. Class A",China,1200,16
+BD5CFS,"Zhefu Holding Group Co., Ltd. Class A",China,1200,14.4
+BD5CFV,"Shenzhen MTC Co., Ltd. Class A",China,1400,8.2
+BD5CFW,"GEM Co., Ltd. Class A",China,2200,9.2
+BD5CG0,"Thunder Software Technology Co., Ltd. Class A",China,3300,12.1
+BD5CG3,"Walvax Biotechnology Co., Ltd. Class A",China,2300,11.1
+BD5CG4,"Shenzhen Everwin Precision Technology Co., Ltd. Class A",China,1300,0.9
+BD5CG5,"Zhejiang Century Huatong Group Co., Ltd. Class A",China,3300,2.9
+BD5CG6,"Beijing Zhong Ke San Huan High-Tech Co., Ltd. Class A",China,1100,14.7
+BD5CG7,"Hangzhou Great Star Industrial Co., Ltd. Class A",China,1400,12.4
+BD5CG9,Inner Mongolia Dian Tou Energy Corporation Limited Class A,China,1100,18.3
+BD5CGB,"Sungrow Power Supply Co., Ltd. Class A",China,1300,17.2
+BD5CGD,Wuhan Guide Infrared Co. Ltd. Class A,China,1300,12.3
+BD5CGH,"Hangzhou Shunwang Technology Co., Ltd. Class A",China,3300,-7.3
+BD5CGK,"Shenzhen Yan Tian Port Holdings Co., Ltd. Class A",China,4600,5.2
+BD5CGM,"Tianjin Chase Sun Pharmaceutical Co., Ltd. Class A",China,2300,7.1
+BD5CGS,"Yantai Changyu Pioneer Wine Co., Ltd. Class A",China,2400,4.7
+BD5CGV,"Qingdao TGOOD Electric Co., Ltd. Class A",China,1200,4.1
+BD5CGX,"Hangzhou Robam Appliances Co., Ltd. Class A",China,1400,18.5
+BD5CH3,"Qingdao Hanhe Cable Co., Ltd Class A",China,1200,11.7
+BD5CH5,"Shenzhen Jinjia Group Co., Ltd. Class A",China,3200,7.7
+BD5CH6,Zhejiang NHU Co. Ltd. Class A,China,2300,16.9
+BD5CH7,Kaishan Group Co. Ltd. Class A,China,1200,8.7
+BD5CH8,"Oriental Energy Co., Ltd. Class A",China,2100,3
+BD5CHF,"Yunnan Tin Co., Ltd. Class A",China,1100,26.4
+BD5CHG,"Hangzhou Binjiang Real Estate Group Co., Ltd. Class A",China,4800,15
+BD5CHH,"Jionto Energy Investment Co., Ltd. Hebei Class A",China,4700,0.6
+BD5CHJ,"Shijiazhuang Yiling Pharmaceutical Co., Ltd. Class A",China,2300,18.5
+BD5CHK,Dian Diagnostics Group Co. Ltd. Class A,China,3350,25.1
+BD5CHS,"Fujian Sunner Development Co., Ltd. Class A",China,2200,4.8
+BD5CHT,China National Accord Medicines Corporation Ltd Class A,China,2300,8.5
+BD5CHY,"Hefei Meyer Optoelectronic Technology, Inc. Class A",China,1300,24.4
+BD5CJ1,"Newland Digital Technology Co., Ltd. Class A",China,1300,10.9
+BD5CJ2,Beijing New Building Materials (Group) Co Ltd Class A,China,1100,15
+BD5CJ3,"China TransInfo Technology Co., Ltd. Class A",China,3300,-2.9
+BD5CJ4,"Beijing Sinnet Technology Co., Ltd. Class A",China,3300,4.3
+BD5CJ6,"Guangdong Haid Group Co., Limited Class A",China,2200,16.6
+BD5CJ7,"Gotion High-tech Co., Ltd Class A",China,1200,1.7
+BD5CJB,"XJ Electric Co., Ltd. Class A",China,1200,8.5
+BD5CJL,Taiji Computer Corporation Limited Class A,China,3300,10.7
+BD5CJM,"Jiangsu Yuyue Medical Equipment & Supply Co., Ltd. Class A",China,2300,15.5
+BD5CJN,"Zhejiang Wanfeng Auto Wheel Co., Ltd. Class A",China,1200,13.8
+BD5CJP,Weifu High-Technology Group Co. Ltd. Class A,China,1200,10.3
+BD5CJS,"Visual China Group Co., Ltd. Class A",China,3200,3.2
+BD5CJV,"Chengdu Xingrong Environment Co., Ltd. Class A",China,4700,11.5
+BD5CJX,"Muyuan Foods Co., Ltd. Class A",China,2200,16.8
+BD5CJY,"Chongqing Zhifei Biological Products Co., Ltd. Class A",China,2300,31
+BD5CK1,"Shenzhen Huaqiang Industry Co., Ltd Class A",China,3250,13.1
+BD5CK3,"Yuan Longping High-Tech Agriculture Co., Ltd. Class A",China,2200,1.2
+BD5CK8,CETC Cyberspace Security Technology Co. Ltd. Class A,China,3300,8
+BD5CKB,"Shanxi Coking Coal Energy Group Co., Ltd Class A",China,2100,35.1
+BD5CKC,"ORG Technology Co., Ltd. Class A",China,2200,8.6
+BD5CKG,"YOOZOO Interactive Co., Ltd. Class A",China,3300,2.3
+BD5CKH,Tianqi Lithium Corp. Class A,China,2200,59
+BD5CKK,"Beijing Yanjing Brewery Co., Ltd. Class A",China,2400,2.6
+BD5CKL,Haisco Pharmaceutical Group Co. Ltd. Class A,China,2300,11.6
+BD5CKM,"Tianma Microelectronics Co., Ltd Class A",China,1300,1.1
+BD5CKR,"Navinfo Co., Ltd. Class A",China,3300,-0.2
+BD5CKS,"Han's Laser Technology Industry Group Co., Ltd. Class A",China,1200,11.1
+BD5CKT,"Shenzhen Hepalink Pharmaceutical Group Co., Ltd. Class A",China,2300,7
+BD5CKV,"By-health Co., Ltd. Class A",China,2300,13.1
+BD5CKZ,"Winning Health Technology Group Co.,Ltd. Class A",China,3300,8
+BD5CL0,"Sichuan Kelun Pharmaceutical Co., Ltd. Class A",China,2300,11.2
+BD5CL1,Hualan Biological Engineering Inc. Class A,China,2300,14.1
+BD5CL2,"Rongsheng Petrochemical Co., Ltd. Class A",China,3250,10.4
+BD5CL3,"Anhui Zhongding Sealing Parts Co., Ltd. Class A",China,1200,10
+BD5CL4,"China Resources Sanjiu Medical & Pharmaceutical Co., Ltd. Class A",China,2300,14.2
+BD5CL5,Guangdong Golden Dragon Development Inc. Class A,China,2400,-9.1
+BD5CL6,"Zhejiang Huace Film & TV Co., Ltd. Class A",China,3400,6.9
+BD5CL7,"Unigroup Guoxin Microelectronics Co., Ltd. Class A",China,1300,28.1
+BD5CL8,"BlueFocus Intelligent Communications Group Co., Ltd. Class A",China,3200,-7
+BD5CLB,Inspur Electronic Information Industry Co. Ltd. Class A,China,1300,13.6
+BD5CLH,"GRG Banking Equipment Co., Ltd. Class A",China,1300,8
+BD5CLK,"OFILM Group Co., Ltd. Class A",China,1300,-60.5
+BD5CLL,"Xinxing Ductile Iron Pipes Co., Ltd. Class A",China,1100,6.8
+BD5CLN,"FAW Jiefang Group Co., Ltd Class A",China,1400,-1.3
+BD5CLQ,"Aier Eye Hospital Group Co., Ltd. Class A",China,3350,19.1
+BD5CLS,Digital China Information Service Co. Ltd. Class A,China,3300,6.4
+BD5CLT,"Chaozhou Three-Circle (Group) Co., Ltd. Class A",China,1300,9.1
+BD5CLV,Shanghai Bairun Investment Holding Group Co. Ltd. Class A,China,2200,11.3
+BD5CLW,Shenzhen Zhongjin Lingnan Nonfemet Co. Ltd. Class A,China,3250,16.9
+BD5CM0,"Shenzhen Salubris Pharmaceuticals Co., Ltd. Class A",China,2300,8.3
+BD5CM1,"Lepu Medical Technology (Beijing) Co., Ltd. Class A",China,2300,15.8
+BD5CM2,"XCMG Construction Machinery Co., Ltd. Class A",China,1200,10.4
+BD5CM6,"Dong-E-E-Jiao Co., Ltd. Class A",China,2300,7.7
+BD5CM7,Guangzhou Haige Communications Group Incorporated Company Class A,China,1300,7
+BD5CM8,"Zhejiang Semir Garment Co., Ltd. Class A",China,2400,5.8
+BD5CM9,"Huadong Medicine Co., Ltd. Class A",China,2300,14
+BD5CMC,"Yantai Jereh Oilfield Services Group Co., Ltd. Class A",China,3100,13.5
+BD5CMD,"Tongling Nonferrous Metals Group Co., Ltd. Class A",China,1100,10.6
+BD5CMG,"Financial Street Holdings Co., Ltd. Class A",China,4800,4.4
+BD5CMH,"37 Interactive Entertainment Network Technology Group Co., Ltd.",China,3300,23
+BD5CMK,"AECC Aero-Engine Control Co., Ltd. Class A",China,1300,6
+BD5CMM,Luzhou Laojiao Company Limited Class A,China,2400,29.3
+BD5CMN,"Shenzhen Inovance Technology Co., Ltd Class A",China,1200,22.1
+BD5CMP,"Beijing Dbn Technology Group Co., Ltd. Class A",China,2200,0.5
+BD5CMR,"Ourpalm Co., Ltd. Class A",China,3300,4.8
+BD5CMS,"Guangdong Electric Power Development Co., Ltd Class A",China,4700,-9.2
+BD5CMT,"TCL Zhonghuan Renewable Energy Technology Co., Ltd. Class A",China,1300,18.1
+BD5CMV,"Songcheng Performance Development Co., Ltd. Class A",China,3400,1.1
+BD5CMX,"Beijing Shiji Information Technology Co., Ltd. Class A",China,3300,-3.7
+BD5CN0,"Wonders Information Co., Ltd. Class A",China,3300,-3.4
+BD5CN1,"Kunlun Tech Co., Ltd. Class A",China,3300,9.5
+BD5CN4,"Hithink RoyalFlush Information Network Co., Ltd. Class A",China,3300,23.5
+BD5CN5,"Hubei Energy Group Co., Ltd. Class A",China,1200,7
+BD5CN7,"Beijing Enlight Media Co., Ltd. Class A",China,3400,2.1
+BD5CN8,Luxshare Precision Industry Co. Ltd. Class A,China,1300,20.9
+BD5CN9,"Suzhou Gold Mantis Construction and Decoration Co., Ltd. Class A",China,3200,10.8
+BD5CNB,"Qinghai Salt Lake Industry Co., Ltd. Class A",China,2200,63.3
+BD5CNC,"Shanxi Securities Co., Ltd. Class A",China,4800,3.1
+BD5CND,Focus Media Information Technology Co Ltd Class A,China,1200,15.7
+BD5CNF,"New Hope Liuhe Co., Ltd. Class A",China,2200,-1.9
+BD5CNJ,Zhejiang Dahua Technology Co. Ltd. Class A,China,1300,10
+BD5CNL,"DHC Software Co., Ltd. Class A",China,3300,2.4
+BD5CNN,"iflytek Co., Ltd. Class A",China,3300,5.4
+BD5CNQ,"SIASUN Robot & Automation CO., Ltd. Class A",China,1200,-1.7
+BD5CNS,"HBIS Co., Ltd. Class A",China,1100,2.9
+BD5CNT,GoerTek Inc. Class A,China,1400,9.9
+BD5CNX,Eternal Asia Supply Chain Management Ltd. Class A,China,4600,2.9
+BD5CNY,Guoyuan Securities Company Limited Class A,China,4800,5.3
+BD5CNZ,"Beijing OriginWater Technology Co., Ltd. Class A",China,1200,2.2
+BD5CP0,"Bank of Ningbo Co., Ltd. Class A",China,4800,14.7
+BD5CP1,Lens Technology Co. Ltd. Class A,China,1400,6
+BD5CP2,TCL Technology Group Corporation Class A,China,1300,0.7
+BD5CP5,"Shenzhen Overseas Chinese Town Co., Ltd. Class A",China,4800,2.6
+BD5CP6,Chongqing Changan Automobile Company Limited Class A,China,1400,13.4
+BD5CP7,"Western Securities Co., Ltd. Class A",China,4800,2.9
+BD5CP8,"Henan Shuanghui Investment & Development Co., Ltd. Class A",China,2400,23.1
+BD5CP9,Yunnan Baiyao Group Co. Ltd. Class A,China,2300,8.6
+BD5CPC,"East Money Information Co., Ltd Class A",China,3300,14.6
+BD5CPF,"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd. Class A",China,2400,19.9
+BD5CPG,"Wuliangye Yibin Co., Ltd. Class A",China,2400,23.3
+BD5CPH,Wanda Film Holding Co. Ltd. Class A,China,3400,-16.3
+BD5CPL,"BOE Technology Group Co., Ltd. Class A",China,1300,4.1
+BD5CPM,"China Merchants Shekou Industrial Zone Holdings Co., Ltd. Class A",China,4800,6.2
+BD5CPR,"Guosen Securities Co., Ltd. Class A",China,4800,7.3
+BD5CPS,Ping An Bank Co. Ltd. Class A,China,4800,11.8
+BD5CPT,"Wen's Foodstuff Group Co., Ltd. Class A",China,2200,14.8
+BD5CPV,"Shenwan Hongyuan Group Co., Ltd. Class A",China,4800,5.2
+BD5CPW,"China Vanke Co., Ltd Class A",China,4800,9.3
+BD5CPX,"China International Marine Containers (Group) Co., Ltd Class A",China,2200,9.2
+BD5CPY,ZTE Corporation Class A,China,1300,14.4
+BD5CPZ,Zoomlion Heavy Industry Science & Technology Co. Ltd. Class A,China,1200,4.7
+BD5CQ0,"Weichai Power Co., Ltd. Class A",China,1200,6.5
+BD5CQ2,"Livzon Pharmaceutical Group, Inc. Class A",China,2300,10.5
+BD5CQ3,"GF Securities Co., Ltd. Class A",China,4800,6.9
+BD5CQ4,"Angang Steel Co., Ltd. Class A",China,1100,0.9
+BD5CQ5,"Xinjiang Goldwind Science & Technology Co., Ltd. Class A",China,1200,8.1
+BD5CQ6,BYD Company Limited Class A,China,1400,14.4
+BD5CQT,"YOUNGY Co., Ltd. Class A",China,1100,76.4
+BD5GN6,SIG Group AG,Switzerland,1200,10.5
+BD5LQM,"CECEP Solar Energy Co., Ltd. Class A",China,4700,6.6
+BD5LQY,Lingyi iTech (Guangdong) Company Class A,China,1200,3.9
+BD5LR6,"Guangzhou Tinci Materials Technology Co., Ltd",China,2200,44.8
+BD5LRQ,"Shenzhen Capchem Technology Co., Ltd. Class A",China,2200,20.6
+BD5LS0,China Merchants Property Operation & Service Company Limited Class A,China,4800,7
+BD5LS7,"LB Group Co., Ltd. Class A",China,2200,18.8
+BD5LSB,"Jiangsu Eastern Shenghong Co., Ltd. Class A",China,4700,7.2
+BD5LSR,"STO Express Co., Ltd. Class A",China,1200,3.8
+BD5LSZ,"Sichuan Yahua Industrial Group Co., Ltd. Class A",China,2200,46.8
+BD5LTF,"Yangzhou Yangjie Electronic Technology Co., Ltd. Class A",China,1300,17
+BD5LV7,"Xinjiang Tianshan Cement Co., Ltd. Class A",China,1100,7
+BD5LVM,"Sinoma Science & Technology Co., Ltd. Class A",China,2200,19.6
+BD5LW1,"Suzhou Anjie Technology Co., Ltd. Class A",China,1200,5.4
+BD5LWP,"China Resources Boya Bio-pharmaceutical Group Co., Ltd. Class A",China,2300,6.2
+BD5LXR,"Zhejiang Wanliyang Co., Ltd. Class A",China,1200,6.9
+BD5LXS,"Titan Wind Energy (Suzhou) Co., Ltd. Class A",China,1200,8.8
+BD5LXV,China West Construction Co. Ltd. Class A,China,1100,6.5
+BD5LY1,Apeloa Pharmaceutical Co. Ltd. Class A,China,2300,19.1
+BD5LYB,Zhejiang Weixing New Building Materials Co. Ltd. Class A,China,1200,24.7
+BD5LYF,NAURA Technology Group Co Ltd Class A,China,1200,11.1
+BD5LYV,"Valiant Co., Ltd. Class A",China,2200,13.4
+BD5LZ9,Porton Pharma Solutions Ltd. Class A,China,2300,32.7
+BD5LZB,Inner Mongolia Yuan Xing Energy Company Limited Class A,China,2200,17
+BD5LZT,"Guangzhou Zhujiang Brewery Co., Ltd. Class A",China,2400,6.4
+BD5M00,"TongFu Microelectronics Co., Ltd. Class A",China,1300,5.5
+BD5M08,"Huafon Chemical Co., Ltd. Class A",China,2200,12.6
+BD5M1C,"Perfect World Co., Ltd. Class A",China,3300,14.6
+BD5M1G,"Anhui Gujing Distillery Co., Ltd. Class A",China,2400,16.3
+BD5M1H,"Allwinner Technology Co., Ltd. Class A",China,1300,8.1
+BD5M1J,"Leyard Optoelectronic Co., Ltd. Class A",China,1200,9.4
+BD5M1L,"Hengyi Petrochemical Co., Ltd. Class A",China,2200,-4.1
+BD5M1S,"North Huajin Chemical Industries Co., Ltd. Class A",China,2100,5.3
+BD5M1Y,"Zhejiang Jingsheng Mechanical & Electrical Co., Ltd. Class A",China,1200,27.6
+BD5M1Z,"Yixintang Pharmaceutical Group Co., Ltd. Class A",China,3500,13.3
+BD5M22,"Zhejiang Supor Co., Ltd. Class A",China,1400,24.7
+BD5M26,"Skyworth Digital Co., Ltd. Class A",China,1300,16.3
+BD5M27,"Jiangling Motors Co., Ltd. Class A",China,1400,9.6
+BD5M28,"Maccura Biotechnology Co., Ltd. Class A",China,2300,15.7
+BD5M2C,Zhejiang Hailiang Co. Ltd. Class A,China,1100,10.5
+BD5M2G,Ninestar Corp. Class A,China,1300,12.6
+BD5ZR9,Star Entertainment Group Limited,Australia,3400,2
+BD5ZXH,MOL Hungarian Oil & Gas Plc Class A,Hungary,2100,14.9
+BD6F8V,LTIMindtree Limited,India,3200,23.7
+BD6FXN,Red Electrica Corp. SA,Spain,3100,15.6
+BD6G50,Ferrari NV,Italy,1400,35.6
+BD6K45,Compass Group PLC,United Kingdom,3400,23.8
+BD6QT8,METRO AG,Germany,3250,11.6
+BD6QV9,"Yunda Holding Co., Ltd. Class A",China,4600,8.2
+BD6QWL,"Betta Pharmaceuticals Co., Ltd. Class A",China,2300,3.6
+BD6QWS,"Shenzhen YUTO Packaging Technology Co., Ltd. Class A",China,2200,14.5
+BD6V5C,"Asymchem Laboratories (Tianjin) Co., Ltd. Class A",China,2300,19.7
+BD73KS,"Jiugui Liquor Co., Ltd. Class A",China,2400,26.5
+BD73L1,Meinian Onehealth Healthcare Holdings Co Ltd Class A,China,3350,-6.8
+BD73L7,"Topsec Technologies Group, Inc. Class A",China,1200,4.9
+BD73M3,"S.F. Holding Co., Ltd. Class A",China,4600,7.3
+BD73MS,"Guangdong Kinlong Hardware Products Co., Ltd. Class A",China,1400,2.8
+BD73MV,"First Capital Securities Co., Ltd. Class A",China,4800,3.7
+BD760M,"Beijing Easpring Material Technology Co., Ltd. Class A",China,2200,17.9
+BD760S,"Ingenic Semiconductor Co., Ltd Class A",China,1300,8.3
+BD7XV4,"Xinhua Winshare Publishing & Media Co., Ltd. Class A",China,3250,11.1
+BD8GL1,"Postal Savings Bank of China Co., Ltd. Class H",China,4800,11.4
+BD8P9J,"Bank of Shanghai Co., Ltd. Class A",China,4800,10.3
+BD95QN,"BGF retail CO., LTD.",South Korea,3500,20.7
+BD9GZX,Yihai International Holding Ltd.,China,2400,15.3
+BD9PNF,ASR Nederland NV,Netherlands,4800,12.2
+BD9PXD,Indraprastha Gas Limited,India,4700,18.9
+BD9Q2J,Genscript Biotech Corporation,China,2300,-25.7
+BDB6DD,IDP Education Ltd.,Australia,3400,31.3
+BDC41P,Xiamen Intretech Inc. Class A,China,1300,13.4
+BDC5ST,Valeo SE,France,1200,5.4
+BDCFSQ,"China Merchants Securities Co., Ltd. Class H",China,4800,7.4
+BDCSC7,Everbright Securities Company Limited Class H,China,4800,6
+BDDRN3,Trent Limited,India,3500,16
+BDDW2W,BTS Group Holdings Public Co. Ltd.,Thailand,4600,4
+BDF57C,"360 Security Technology, Inc. Class A",China,3300,-6.6
+BDFF8H,"CSC Financial Co., Ltd. Class H",China,4800,10
+BDFLHW,Airports of Thailand Public Co. Ltd.,Thailand,4600,9.9
+BDFM1K,Westports Holdings Bhd.,Malaysia,4600,20.9
+BDFS9G,People's Insurance Co. (Group) of China Ltd. Class A,China,4800,11
+BDFWW6,"Ecovacs Robotics Co., Ltd. Class A",China,1400,26.7
+BDG197,Emaar Development PJSC,United Arab Emirates,4800,20.1
+BDGN27,"PLDT, Inc.",Philippines,4900,26.3
+BDQQ1Q,Holmen AB Class B,Sweden,2200,6.4
+BDQZP4,Country Garden Services Holdings Co. Ltd.,China,4800,11.1
+BDR05C,National Grid plc,United Kingdom,4700,10.1
+BDRTVP,Genting Singapore Limited,Singapore,3400,7.7
+BDRYVB,Ping An Healthcare and Technology Company Limited,China,3500,-8.2
+BDSV2V,CNH Industrial NV,United Kingdom,1200,29.4
+BDVLJ7,ORION CORP.,South Korea,2400,12.6
+BDVPYN,Old Mutual Ltd.,South Africa,4800,8.8
+BDVZYZ,International Distributions Services plc,United Kingdom,4600,-3.7
+BDX,"Becton, Dickinson and Company",United States,2300,14
+BDZDPH,Controladora Vuela Compania de Aviacion SAB de CV Class A,Mexico,4600,-10.9
+BDZRFN,"CSC Financial Co., Ltd. Class A",China,4800,10
+BDZTGG,Autohellas SA,Greece,4800,17.8
+BEKE,"KE Holdings, Inc. Sponsored ADR Class A",China,3300,2.7
+BEN,"Franklin Resources, Inc.",United States,4800,10.1
+BF.B,Brown-Forman Corporation Class B,United States,2400,27.1
+BF03BV,ALD SA,France,4800,14.7
+BF0CK4,Aroundtown SA,Luxembourg,4800,3.6
+BF0F5R,Srisawad Corporation Public Company Ltd,Thailand,4800,16.6
+BF0GWS,Wharf Real Estate Investment Company Limited,Hong Kong,4800,3.1
+BF0J5S,Press Metal Aluminium Holdings Berhad,Malaysia,1200,29.3
+BF0L35,AIB Group plc,Ireland,4800,6.2
+BF0LBX,bioMerieux SA,France,2300,13.8
+BF0NJD,B.Grimm Power Public Company Ltd,Thailand,4700,-0.3
+BF0TRG,HDFC Life Insurance Co. Ltd.,India,4800,9.8
+BF0XD1,Yangtze Optical Fibre & Cable Joint Stock Ltd. Co. Class A,China,1300,10.7
+BF17Y1,Domain Holdings Australia Ltd.,Australia,3300,4.3
+BF1K7P,Essity AB Class B,Sweden,2400,15.7
+BF1THH,Bharat Electronics Limited,India,1300,21.3
+BF1YBK,AU Small Finance Bank Limited,India,4800,13.4
+BF29PR,Nippon Life India Asset Management Ltd.,India,4800,20.3
+BF2DSG,Sika AG,Switzerland,2200,21.2
+BF2DZ7,"Deppon Logistics Co., Ltd. Class A",China,4600,9.3
+BF2DZJ,"Shanghai Putailai New Energy Technology Co., Ltd. Class A",China,1200,23.5
+BF2DZL,"Nanjing King-friend Biochemical Pharmaceutical Co., Ltd. Class A",China,2300,18.4
+BF2LWS,KrungThai Card Public Co. Ltd.,Thailand,4800,21.6
+BF2S42,Netmarble Corp.,South Korea,3300,2.3
+BF4446,Umicore,Belgium,1100,12.9
+BF4J7N,Hapvida Participacoes e Investimentos SA,Brazil,3350,-0.5
+BF4QXG,Wiwynn Corp.,Taiwan,3300,37
+BF4XNJ,Smartfit Escola de Ginastica e Danca SA,Brazil,3400,-1.6
+BF5GLW,NetLink NBN Trust,Singapore,4900,4.2
+BF6RHY,Sime Darby Plantation Bhd.,Malaysia,2200,9.6
+BF7LBH,Atacadao SA,Brazil,3250,8.7
+BF8GMG,Neoenergia SA,Brazil,4700,8.6
+BF8Q6K,Abrdn plc,United Kingdom,4800,2.6
+BFB4HL,"Hengli Petrochemical Co., Ltd. Class A",China,2200,9.7
+BFB4JK,"Sichuan Swellfun Co., Ltd. Class A",China,2300,36.2
+BFB4M9,Xinfengming Group Co Ltd Class A,China,2200,2.5
+BFB4S7,"DaShenLin Pharmaceutical Group Co., Ltd. Class A",China,2300,16.5
+BFCCQ5,"Chengxin Lithium Group Co., Ltd. Class A",China,1100,49
+BFCCQ9,"Chongqing Fuling Zhacai Group Co., Ltd. Class A",China,2400,12
+BFCCQG,Satellite Chemical Co. Ltd. Class A,China,2200,17.7
+BFCCQK,Jiangsu Zhangjiagang Rural Commercial Bank Co. Ltd. Class A,China,4800,12.9
+BFCCQM,Shenzhen Kedali Industry Co Ltd Class A,China,1200,17
+BFCCQZ,Nanjing Hanrui Cobalt Co. Ltd. Class A,China,1100,8.2
+BFCCR0,Yealink Network Technology Co. Ltd. Class A,China,1300,27.3
+BFCCR3,"Yunnan Energy New Material Co., Ltd. Class A",China,2200,25.1
+BFCCR4,Guangzhou Shiyuan Electronic Technology Co. Ltd. Class A,China,1300,19.5
+BFD209,"Shandong Gold Mining Co., Ltd. Class H",China,1100,4
+BFF1YN,"Juewei Food Co., Ltd. Class A",China,2200,5.5
+BFF1YZ,"Oppein Home Group, Inc. Class A",China,1400,16.7
+BFF5BV,"Zhejiang Huayou Cobalt Co., Ltd. Class A",China,1100,16.5
+BFF5BX,Heilongjiang Agriculture Company Limited Class A,China,2200,17.6
+BFFJRM,"Zhongji Innolight Co., Ltd. Class A",China,1300,9.7
+BFG0SH,Emperador Inc.,Philippines,2400,11.6
+BFLVFD,Hindustan Aeronautics Limited,India,1300,22.3
+BFM0SV,Nordea Bank Abp,Finland,4800,14.1
+BFMHVQ,DWS Group GmbH & Co. KGaA,Germany,4800,7.8
+BFMXRJ,Siam Makro Public Co. Ltd.,Thailand,3500,2.6
+BFN0V0,Concentradora Fibra Danhos SA de CV,Mexico,4800,6.2
+BFN2YR,Dalmia Bharat Ltd.,India,1200,4.5
+BFT7KB,Federal Bank Ltd. (India),India,4800,14
+BFWHKM,Eneva S.A.,Brazil,4700,5.4
+BFWK4M,"A-Living Smart City Services Co., Ltd. Class H",China,4800,15.8
+BFX05H,Absa Group Limited,South Africa,4800,15.7
+BFXG36,Pepkor Holdings Ltd.,South Africa,3500,8.7
+BFXP65,Muangthai Capital Public Co. Ltd.,Thailand,4800,16.9
+BFXZDY,"ASE Technology Holding Co., Ltd.",Taiwan,1300,14.2
+BFY6H4,PT Bank Syariah Indonesia Tbk,Indonesia,4800,14.4
+BFY8G6,"Sichuan New Energy Power Co., Ltd. Class A",China,2200,11.7
+BFY8GC,"China Merchants Expressway Network & Technology Holdings Co., Ltd. Class A",China,4600,8.5
+BFY8GF,"Jiangsu Yoke Technology Co., Ltd. Class A",China,1200,9.5
+BFY8GG,"Hangzhou Oxygen Plant Group Co., Ltd. Class A",China,2200,18.9
+BFY8GH,"C&S Paper Co., Ltd. Class A",China,2200,7.2
+BFY8GV,"Shennan Circuit Co., Ltd. Class A",China,1300,14.8
+BFY8GX,"Huizhou Desay SV Automotive Co., Ltd. Class A",China,1200,17.3
+BFY8GY,"Zhejiang Wolwo Bio-Pharmaceutical Co., Ltd. Class A",China,2300,19.3
+BFY8GZ,"Guangzhou Wondfo Biotech Co., Ltd. Class A",China,2300,30
+BFY8H0,"Jafron Biomedical Co., Ltd. Class A",China,2300,29.5
+BFY8H8,"Weihai Guangwei Composites Co., Ltd. Class A",China,1200,19.6
+BFY8HD,"Zhuzhou Hongda Electronics Corp., Ltd. Class A",China,1300,19.8
+BFY8HG,"China Rare Earth Resources And Technology Co., Ltd. Class A",China,1100,14.6
+BFY8HT,Shenzhen Kangtai Biological Products Co. Ltd. Class A,China,2300,2.8
+BFYM46,Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod,France,4800,7.8
+BFYQH8,Hoshine Silicon Industry Co. Ltd. Class A,China,2200,24.1
+BFYQHB,"Shandong Publishing & Media Co., Ltd. Class A",China,3400,12.5
+BFYQHD,Huaneng Lancang River Hydropower Co Ltd Class A,China,4700,10.5
+BFYQHF,"Bank of Chengdu Co., Ltd. Class A",China,4800,18.2
+BFYQHK,"Shenghe Resources Holding Co., Ltd. Class A",China,1100,18.2
+BFYR8L,Kojamo Oyj,Finland,4800,3.7
+BFYX62,"Bethel Automotive Safety Systems Co., Ltd. Class A",China,1200,17.4
+BFYX68,Guangzhou Kingmed Diagnostics Group Co. Ltd. Class A,China,3350,33.4
+BFZ2PK,China Tower Corp. Ltd. Class H,China,4900,4.6
+BFZCSN,Vitrolife AB,Sweden,2300,3.8
+BFZCT2,Sok Marketler Ticaret AS,Turkey,3500,105.3
+BG,Bunge Limited,United States,2200,14.4
+BG087C,National Bank of Greece S.A.,Greece,4800,11.5
+BG0R3M,HDFC Asset Management Co. Ltd.,India,4800,23.6
+BG0RZ2,CapitaLand Ascott Trust,Singapore,4800,4.7
+BG0SC1,La Francaise des Jeux SA,France,3400,36.3
+BG0SCK,BE Semiconductor Industries N.V.,Netherlands,1200,40.3
+BG0ZMJ,Xiaomi Corp. Class B,China,1300,2.6
+BG0ZVG,Container Corporation of India Limited,India,4600,10.7
+BG139S,Red Star Macalline Group Corporation Ltd Class A,China,4800,2.9
+BG1SV4,Bandhan Bank Ltd.,India,4800,12.9
+BG1Z6X,"Regional, S.A.B. de C.V. Class A",Mexico,4800,19.8
+BG20N9,"Foxconn Industrial Internet Co., Ltd. Class A",China,1300,15.2
+BG36ZK,"B3 SA - Brasil, Bolsa, Balcao",Brazil,4800,25.4
+BG43JW,Arion Banki hf,Iceland,4800,13.9
+BG6DZJ,"Shanghai Junshi Biosciences Co., Ltd. Class H",China,2300,-29.8
+BG7ZWY,Ambev SA,Brazil,2400,15.9
+BGDT3G,Rightmove plc,United Kingdom,3300,274.5
+BGDY26,BeiGene Ltd,Cayman Islands,2300,-56.4
+BGHH0L,"WuXi AppTec Co., Ltd. Class H",China,2300,18.8
+BGHWH9,"Woori Financial Group, Inc.",South Korea,4800,11.1
+BGJW37,Meituan Class B,China,4600,-5.2
+BGLP23,Moncler SpA,Italy,2400,19.4
+BGLP8L,IMI plc,United Kingdom,1200,30.9
+BGM5R2,Tongcheng Travel Holdings Limited,China,3400,3.7
+BGN971,Haidilao International Holding Ltd.,China,3400,3.3
+BGQL72,Godrej Properties Limited,India,4800,6.3
+BGQYNN,Xinyi Solar Holdings Ltd.,China,1300,13.5
+BGR6KX,"Innovent Biologics, Inc.",China,2300,-28.3
+BGR9QP,Osotspa Public Co. Ltd.,Thailand,2400,10.8
+BGS92Z,Gujarat Gas Ltd.,India,4700,20.8
+BGSCL0,Relaxo Footwears Limited,India,2400,10
+BGSQG4,Britannia Industries Ltd,India,2400,58.1
+BGV7F9,Neoen S.A.,France,4700,4.4
+BGXQNP,Phoenix Group Holdings plc,United Kingdom,4800,16.9
+BGY6SV,"China Cinda Asset Management Co., Ltd. Class H",China,4800,4.9
+BH0VXF,China MeiDong Auto Holdings Ltd.,China,3500,19.5
+BH0W28,Kerry Logistics Network Ltd.,Hong Kong,4600,16.9
+BH3T8K,Orbia Advance Corp. SAB de CV,Mexico,1200,24
+BH4DMW,Silergy Corp.,Taiwan,1300,13.4
+BH4HKS,Vodafone Group Plc,United Kingdom,4900,5.4
+BH4NZS,Qatar Aluminium Manufacturing Company,Qatar,1100,13.9
+BH4TCW,Orora Ltd.,Australia,2200,24.5
+BH6XVN,Digital Telecommunications Infrastructure Fund Units,Thailand,6000,5.8
+BH6XZT,Valmet Corp,Finland,1200,16.2
+BHC8X9,Novo Nordisk A/S Class B,Denmark,2300,72.9
+BHHLN7,Sinotrans Ltd. Class A,China,4600,11.4
+BHHP0S,Coca-Cola Femsa SAB de CV Units Cons of 5 Shs -L- + 3 Shs Series -B-,Mexico,2400,13.2
+BHKDY3,Polycab India Ltd.,India,1200,19.1
+BHNCRK,ESR Group Limited,Hong Kong,4800,6.9
+BHQK86,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd. Class A",China,2300,28.8
+BHQPRN,"Offcn Education Technology Co., Ltd. Class A",China,3200,-54.2
+BHQPS7,"Sangfor Technologies, Inc. Class A",China,3300,3.6
+BHQPSF,"Shenzhen Senior Technology Material Co., Ltd. Class A",China,1200,10.5
+BHQPSJ,"Ovctek China, Inc. Class A",China,2300,18.8
+BHQPSR,SG Micro Corp. Class A,China,1300,25.5
+BHQPSY,"Contemporary Amperex Technology Co., Ltd. Class A",China,1200,17.7
+BHR0FS,"Poly Property Services Co., Ltd. Class H",China,4800,14
+BHRV3N,"Guangdong Xinbao Electrical Appliances Holdings Co., Ltd. Class A",China,1400,15.9
+BHWLWF,Giga Device Semiconductor Inc. Class A,China,1300,16.2
+BHWLWV,"WuXi AppTec Co., Ltd. Class A",China,2300,19
+BHZSKR,Multichoice Group Ltd,South Africa,3400,33.7
+BIIB,Biogen Inc.,United States,2300,14.7
+BILL,"Bill.com Holdings, Inc.",United States,3300,2.9
+BIO,"Bio-Rad Laboratories, Inc. Class A",United States,2300,4.6
+BJ0DP4,Adevinta ASA,Norway,3200,2
+BJ0K6Z,Klabin SA Ctf de Deposito de Acoes Cons of 1 Sh + 4 Pfd Shs,Brazil,1100,25.9
+BJ1F88,Nexi S.p.A.,Italy,3300,5.9
+BJ2KSG,Akzo Nobel N.V.,Netherlands,2200,13.4
+BJ321P,"Ecopro BM Co., Ltd.",South Korea,1200,22.7
+BJ3461,Livzon Pharmaceutical Group Inc Class H,China,2300,10.5
+BJ62K5,Bancolombia S.A.,Colombia,4800,18.2
+BJ62LW,Bancolombia SA Bancolombia Pfd,Colombia,4800,18.2
+BJ7W9K,EQT AB,Sweden,4800,17.6
+BJ9JY5,Jinxin Fertility Group Ltd.,China,3350,4.2
+BJ9K2H,Cholamandalam Investment and Finance Co. Ltd.,India,4800,18.4
+BJBXT3,Powerchip Semiconductor Manufacturing Corp.,Taiwan,3200,22.7
+BJDS7L,Prosus N.V. Class N,Netherlands,3300,6.1
+BJFFLV,Croda International Plc,United Kingdom,2200,16.9
+BJFHBV,Banpu Public Co. Ltd.,Thailand,2100,37.8
+BJGSS6,China East Education Holdings Limited,China,3200,6.7
+BJH4V1,Embassy Office Parks REIT,India,4800,3.1
+BJKDJS,"CanSino Biologics, Inc. Class H",China,2300,-3.7
+BJLD2Y,Operadora de Sites Mexicanos SA de CV Series -A-1-,Mexico,4900,1.9
+BJLMPM,"Flat Glass Group Co., Ltd. Class A",China,2200,11.8
+BJLSQZ,"Vamos Locacao de Caminhoes, Maquinas e Equipamentos SA",Brazil,4800,20.6
+BJLTVJ,Dubai Electricity & Water Authority PJSC,United Arab Emirates,4700,8.6
+BJLWMG,Chongqing Rural Commercial Bank Co. Ltd. Class A,China,4800,10.3
+BJP5T0,Deterra Royalties Ltd,Australia,6000,147.5
+BJRFW2,Topsports International Holdings Limited,Hong Kong,3500,18.6
+BJRFY3,Natura & Co Holding SA,Brazil,2400,-5.8
+BJT1GR,Alcon AG,Switzerland,2300,5.6
+BJTM27,Saudi Arabian Oil Co.,Saudi Arabia,2100,41
+BJVBTY,Shenzhen International Holdings Limited,Hong Kong,4600,1.1
+BJVLVG,"Solus Advanced Materials Co., Ltd.",South Korea,1100,-3.8
+BJVNSS,Ferguson Plc,United Kingdom,3250,38.7
+BJXSCH,Evolution AB,Sweden,3300,26.1
+BJYKB7,Hansoh Pharmaceutical Group Company Limited,China,2300,12.6
+BJYP11,momo.com Incorporated,Taiwan,3500,34.5
+BK,Bank of New York Mellon Corp,United States,4800,10.1
+BK0SBL,China Feihe Limited,China,2400,22.3
+BK10P0,Gujarat Fluorochemicals Ltd.,India,2200,25.2
+BK1W1V,Ratch Group Public Co. Ltd.,Thailand,4700,9.5
+BK21TV,Asset World Corp Public Company Ltd,Thailand,4800,1.6
+BK4PZC,"Wingtech Technology Co., Ltd. Class A",China,1300,7.7
+BK4XS3,"Sichuan Teway Food Group Co., Ltd. Class A",China,2400,7.9
+BK4XS8,CNOOC Energy Technology & Services Ltd. Class A,China,2100,11
+BK4XS9,"Ningxia Baofeng Energy Group Co., Ltd. Class A",China,2200,20.1
+BK4XY4,"Lakala Payment Co., Ltd. Class A",China,1300,10.8
+BK4XYK,"Guangdong South New Media Co., Ltd. Class A",China,4900,19.7
+BK5XJM,Cencosud Shopping SA,Chile,4800,6.6
+BK6NTS,"Shenwan Hongyuan Group Co., Ltd. Class H",China,4800,5.1
+BK6QWF,Helvetia Holding Ltd,Switzerland,4800,11.4
+BK6YZP,Alibaba Group Holding Ltd.,China,3500,12.6
+BK71BP,Beijing Yuanliu Hongyuan Electronic Technology Co. Ltd. Class A,China,1300,23.4
+BK71CY,"Beijing United Information Technology Co., Ltd. Class A",China,3500,19.6
+BK72QD,"Pharmaron Beijing Co., Ltd. Class H",China,3200,14
+BK80TL,Ennostar Inc.,Taiwan,1300,0.9
+BK8VQD,Warehouses De Pauw SA,Belgium,4800,6.1
+BK947M,Tianjin 712 Communication & Broadcasting Co. Ltd. Class A,China,1300,19.6
+BK947N,"Jiajiayue Group Co., Ltd. Class A",China,3500,9.4
+BK947P,"Yantai Eddie Precision Machinery Co., Ltd. Class A",China,1200,7.7
+BK947V,Will Semiconductor Ltd. Class A,China,1300,10.3
+BK9481,"Joinn Laboratories (China) Co., Ltd. Class A",China,2300,10.8
+BK9486,Ming Yang Smart Energy Group Limited Class A,China,1200,16.1
+BK9S75,Momentum Metropolitan Holdings Limited,South Africa,4800,17
+BKBF69,Arabian Centres Co.,Saudi Arabia,4800,11.2
+BKDQ7V,"Pangang Group Vanadium Titanium and Resources Co., Ltd. Class A",China,2200,17.5
+BKDQ80,"Avary Holding (Shenzhen) Co., Ltd. Class A",China,1300,17.5
+BKDQ8C,"Longshine Technology Group Co., Ltd. Class A",China,3300,11.8
+BKDQ8D,Shenzhen S.C New Energy Technology Corp. Class A,China,1300,14.2
+BKDRYJ,Airtel Africa Plc,United Kingdom,4900,16.9
+BKDXJH,Budweiser Brewing Co. APAC Ltd.,Hong Kong,2400,8.5
+BKF1H5,TRATON SE,Germany,1400,9.3
+BKFB1C,M&G Plc,United Kingdom,4800,11.3
+BKL9QV,JS Global Lifestyle Company Limited,Hong Kong,1400,18
+BKM3FP,Ningbo Orient Wires & Cables Co Ltd Class A,China,1200,18.7
+BKNG,Booking Holdings Inc.,United States,3400,118.7
+BKP5JH,Angelalign Technology Inc.,China,2300,5.3
+BKP8ZP,Central Retail Corporation Public Company Limited,Thailand,3500,9.7
+BKPFMG,SBI Cards & Payment Services Ltd,India,4800,22.7
+BKPJ9S,"Jinke Smart Services Group Co., Ltd. Class H",China,4800,8.7
+BKPQZT,"JD.com, Inc. Class A",China,3500,11.3
+BKR,Baker Hughes Company Class A,United States,3100,10.3
+BKS8B7,Castrol India Limited,India,2100,45
+BKSCSZ,"SD Biosensor, Inc.",South Korea,1300,41
+BKT6GZ,"CGN Power Co., Ltd. Class A",China,4700,9.6
+BKWGSQ,Smoore International Holdings Limited,China,2400,18.9
+BKX3XG,Auckland International Airport Limited,New Zealand,4600,1.5
+BKXLD7,Intouch Holdings Public Company Limited,Thailand,1300,31
+BKY5R7,Blue Moon Group Holdings Ltd.,China,2400,6.3
+BKZ72K,CSN Mineracao SA,Brazil,1100,28.9
+BL0L91,Sibanye Stillwater Limited,South Africa,1100,27.9
+BL4P3T,"Citic Pacific Special Steel Group Co., Ltd. Class A",China,1100,21.9
+BL54C2,Boliden AB,Sweden,1100,17.7
+BL61W9,"Suzhou Maxwell Technologies Co., Ltd. Class A",China,1300,12.8
+BL61XF,"Postal Savings Bank of China Co., Ltd. Class A",China,4800,11.5
+BL66B2,Raizen SA Non-Cum Perp Pfd Registered Shs,Brazil,3500,3.8
+BL6B9P,Wuxi Biologics (Cayman) Inc.,China,2300,12.7
+BL6C48,Indian Railway Catering & Tourism Corp. Ltd.,India,3400,38.2
+BL6CR2,Yes Bank Limited,India,4800,2.5
+BL6K5J,Endeavour Mining PLC,United Kingdom,1100,6.9
+BL6K7K,Lifco AB Class B,Sweden,1200,21.4
+BL6LPH,Adani Wilmar Limited,India,2200,10.2
+BL6NGV,Dr. Martens Plc,United Kingdom,2400,37.1
+BL6P21,Zomato Ltd.,India,3300,-6
+BL9YLY,SUSE SA,Luxembourg,3300,6.8
+BL9YR7,Wise PLC Class A,United Kingdom,3200,22.2
+BLBFH6,Jiumaojiu International Holdings Ltd.,China,3400,4.5
+BLC90T,Kuaishou Technology Class B,China,3300,-31.6
+BLD4B3,Grupo de Moda Soma SA,Brazil,2400,5.2
+BLD4QD,"Haier Smart Home Co., Ltd. Class H",China,1400,16.8
+BLDBN4,Atlas Copco AB Class A,Sweden,1200,26.9
+BLDBN5,Atlas Copco AB Class B,Sweden,1200,26.9
+BLF7T2,CTP N.V.,Netherlands,4800,5
+BLF853,"Bilibili, Inc. Class Z",China,3300,-44.7
+BLF99X,"Huaxin Cement Co., Ltd. Class H",China,1100,11.6
+BLF9GQ,NEPI Rockcastle N.V,Netherlands,4800,8.5
+BLF9YV,"SK Biopharmaceuticals Co., Ltd.",South Korea,2300,-16.2
+BLFG6N,GPS Participacoes e Empreendimentos SA,Brazil,3200,20.3
+BLFJ7Y,"Akeso, Inc.",China,2300,-42.4
+BLGM73,Dr. Sulaiman Al-Habib Medical Services Group Co.,Saudi Arabia,3350,29
+BLGZ98,Tesco PLC,United Kingdom,3500,10.4
+BLH32J,Vantage Towers AG,Germany,4800,7.6
+BLJNXL,Berkeley Group Holdings plc,United Kingdom,4800,13.9
+BLK,"BlackRock, Inc.",United States,4800,13.4
+BLLHKZ,WH Group Ltd. (HK),Hong Kong,2400,13.8
+BLN9QR,Sunac Services Holdings Ltd.,China,4800,-11.5
+BLN9XH,Sweco AB Class B,Sweden,3100,17
+BLR5MP,Gulf Energy Development Public Co. Ltd.,Thailand,4700,12.6
+BLSNC7,Allkem Limited,Australia,1100,17.3
+BLZGSL,Bangkok Dusit Medical Services Public Co. Ltd.,Thailand,3350,14.3
+BLZH0Z,Scentre Group,Australia,4800,5.2
+BM8H5Y,Dassault Systemes SA,France,3300,19.2
+BM8J5G,Georg Fischer AG,Switzerland,1200,16.3
+BM8PJY,NatWest Group Plc,United Kingdom,4800,12.1
+BM8Q5M,JD Sports Fashion Plc,United Kingdom,3500,37.3
+BM8SKZ,ACWA Power,Saudi Arabia,4700,9.8
+BM9120,Ampol Limited,Australia,2100,18.3
+BM93SF,Netease Inc,China,3300,20.8
+BM94GQ,New World Development Co. Ltd.,Hong Kong,4800,2.6
+BM9G37,Macrotech Developers Ltd.,India,4800,8.7
+BMB225,TPG Telecom Limited,Australia,4900,1.9
+BMB229,Max Healthcare Institute Ltd,India,3350,15.5
+BMBP90,"Krafton, Inc.",South Korea,3300,9.5
+BMBQDF,Allegro.eu Societe anonyme,Luxembourg,3500,7.7
+BMBQDG,BinDawood Holding Company,Saudi Arabia,3500,5.4
+BMBZPW,ACEN Corporation,Philippines,2100,6.2
+BMC0T3,SCG Packaging Public Co Ltd,Thailand,2200,7.5
+BMC430,Simpar SA,Brazil,4600,12.3
+BMC4ZZ,JDE Peet's NV,Netherlands,2400,8.4
+BMC5QM,Ming Yuan Cloud Group Holdings Limited,China,3300,-12.5
+BMC6XV,RemeGen Co. Ltd. Class H,China,2300,-18.6
+BMCR2B,Islandsbanki hf,Iceland,4800,11.4
+BMD58R,Epiroc AB Class A,Sweden,1200,25.2
+BMD58W,Epiroc AB Class B,Sweden,1200,25.2
+BMD8KX,Stellantis N.V.,Netherlands,1400,23.9
+BMDHSH,"Hyundai Heavy Industries Co., Ltd.",South Korea,1200,4.2
+BMDTTT,Monde Nissin Corp.,Philippines,3500,10.2
+BMDWWN,Caixa Seguridade Participacoes SA,Brazil,4800,26.2
+BMDXML,"Sk Ie Technology Co., Ltd.",South Korea,2200,2.2
+BMF705,Shimao Services Holdings Limited,China,4800,3.7
+BMFR22,"Shenzhen Hepalink Pharmaceutical Group Co., Ltd. Class H",China,2300,7.3
+BMFY8R,Banque Cantonale Vaudoise,Switzerland,4800,10.1
+BMG3GS,"SK Square Co., Ltd.",South Korea,4800,5.5
+BMG40P,GDS Holdings Ltd.,China,3300,-6.9
+BMG5DV,Star Health & Allied Insurance Co. Ltd.,India,4800,11.5
+BMG75K,"SK bioscience Co.,Ltd.",South Korea,2300,3.1
+BMGJNN,Sri Trang Gloves (Thailand) Public Co. Ltd.,Thailand,1200,1.3
+BMGS41,Abu Dhabi Ports Company PJSC,United Arab Emirates,4600,6.5
+BMGT16,Woodside Energy Group Ltd,Australia,2100,17.8
+BMGTJT,H. Lundbeck A/S Class B,Denmark,2300,10.5
+BMGWW3,"Nongfu Spring Co., Ltd. Class H",China,2400,32.1
+BMGYMB,Kakao Games Corp.,South Korea,3300,8.9
+BMH11X,Thai Life Insurance Public Co. Ltd.,Thailand,4800,9.5
+BMH551,Converge Information & Communications Technology Solutions Inc,Philippines,4900,20.9
+BMJ182,EXOR N.V.,Netherlands,4800,15.2
+BMJ6DW,Informa Plc,United Kingdom,3300,6.2
+BMMV2K,Tencent Holdings Ltd.,China,3300,12.3
+BMQ4ZX,Alleima AB,Sweden,1100,8.3
+BMQ5W1,Davide Campari-Milano N.V.,Italy,2400,14.8
+BMRN,BioMarin Pharmaceutical Inc.,United States,2300,2.8
+BMSK71,Grupo de Inversiones Suramericana S.A.,Colombia,4800,4.6
+BMT9L1,Dassault Aviation SA,France,1300,11.8
+BMTRW1,B&M European Value Retail SA,Luxembourg,3500,44
+BMTVQK,Siemens Energy AG,Germany,1200,0.8
+BMTWGK,Bajaj Finserv Limited,India,4800,20.6
+BMV7PN,Investor AB Class A,Sweden,4800,10.5
+BMV7PQ,Investor AB Class B,Sweden,4800,8.5
+BMVH0Q,Arabian Internet and Communications Services Company,Saudi Arabia,3300,35.9
+BMW4CV,Eicher Motors Limited,India,1400,19.5
+BMW7JG,Egypt Kuwait Holding Co. SAE,Egypt,4800,36.8
+BMW8R0,"JD Health International, Inc.",China,3350,2
+BMWYQP,Seazen Group Ltd.,China,4800,8.3
+BMX09H,"Hygeia Healthcare Holdings Co., Ltd.",China,2300,11.2
+BMX7Q6,IPCA Laboratories Limited,India,2300,9.2
+BMX86B,Haleon PLC,United Kingdom,3250,10.8
+BMXC0X,Volvo Car AB Class B,Sweden,1400,9.4
+BMXC4S,"Advanced Energy Solution Holding Co., Ltd.",Taiwan,1200,26.7
+BMXCL7,Fertiglobe Plc,United Arab Emirates,2200,40.3
+BMXHJ8,AUREN ENERGIA S.A.,Brazil,4700,6.4
+BMXNYN,Pepco Group BV,United Kingdom,3500,17.2
+BMXVKB,Bachem Holding AG Class B,Switzerland,2300,8.8
+BMXWXT,China Resources Mixc Lifestyle Services Ltd.,China,4800,14.4
+BMY,Bristol-Myers Squibb Company,United States,2300,40.3
+BMZ1C8,"ZTO Express (Cayman), Inc. Class A",China,4600,12.4
+BMZ1CH,Laurus Labs Ltd.,India,2300,21.4
+BMZ1NS,Northam Platinum Holdings Limited,South Africa,1100,33.1
+BMZ3RS,Tianqi Lithium Corp. Class H,China,2200,58.7
+BMZ9R0,Sendas Distribuidora SA,Brazil,3500,29.9
+BMZC7F,"Hangzhou Tigermed Consulting Co., Ltd. Class H",China,3200,12.7
+BMZPZG,Nahdi Medical Company,Saudi Arabia,3250,46.5
+BMZQ74,Saudi Tadawul Group Holding Company,Saudi Arabia,4800,14.4
+BN12D3,ADNOC Drilling Company PJSC,United Arab Emirates,3100,16.5
+BN2BD1,"Yum China Holdings, Inc.",China,3400,11.4
+BN2SB3,Borouge Plc,United Arab Emirates,2200,30.3
+BN320P,"China Vanke Co., Ltd Class H",China,4800,9.4
+BN49G2,AutoStore Holdings Ltd.,Norway,3300,15.4
+BN4JBJ,MR. D.I.Y. Group (M) Bhd.,Malaysia,3250,32
+BN4MKV,"New Oriental Education & Technology Group, Inc.",China,3400,4.4
+BN4MYF,Vestas Wind Systems A/S,Denmark,1200,5.9
+BN4N9C,InPost S.A.,Luxembourg,3300,115.9
+BN56JP,"Prologis Property Mexico, S.A. de C.V.",Mexico,4800,5.5
+BN6PP3,Pop Mart International Group Limited,China,3400,9.5
+BN6QSM,OUTsurance Group Limited,South Africa,4800,22.4
+BN71RB,TIM SA (Brazil),Brazil,4900,8.3
+BN73M0,PTT Oil and Retail Business Public Co Limited,Thailand,3250,10.6
+BN7BZM,NIBE Industrier AB Class B,Sweden,1400,16.7
+BN7F4X,Dexco SA,Brazil,1200,12
+BN7JD6,Grupo Mateus SA,Brazil,3500,13.4
+BN7SWP,GSK plc,United Kingdom,2300,48.3
+BNBNSG,Euronext NV,Netherlands,4800,13.8
+BNC0DB,Piraeus Financial Holdings S.A.,Greece,4800,10.6
+BNC541,Dixon Technologies (India) Ltd.,India,1300,20.9
+BNCBD4,IMCD N.V.,Netherlands,2200,22
+BNDPYV,Eurofins Scientific SE,Luxembourg,3200,13.9
+BNDQ8P,Rede D'Or Sao Luiz SA,Brazil,3350,7.6
+BNFWR4,Worldline SA,France,3200,6.7
+BNG711,DNB Bank ASA,Norway,4800,13
+BNG8PQ,NN Group N.V.,Netherlands,4800,9.2
+BNGCJ2,"HYBE Co., Ltd.",South Korea,3200,7.5
+BNGJH1,"DL E&C Co., Ltd.",South Korea,3100,7.5
+BNGMX2,Deepak Nitrite Limited,India,2200,21.9
+BNGN9Z,FinecoBank SpA,Italy,4800,29.7
+BNGNB7,"MERLIN Properties SOCIMI, S.A.",Spain,4800,4.2
+BNHKYX,arGEN-X SE,Netherlands,2300,-32.6
+BNHRG7,Fuchs Petrolub SE,Germany,2200,13.6
+BNHRG8,Fuchs Petrolub SE Pref,Germany,2200,13.6
+BNHXFJ,CapitaLand Investment Limited,Singapore,4800,6.1
+BNK9Q7,"JOINN Laboratories (China) Co., Ltd. Class H",China,2300,10.8
+BNKF60,Kinnevik AB Class B,Sweden,4800,5.8
+BNM1NF,China Conch Environment Protection Holdings Ltd.,China,3200,13.7
+BNM73Q,Accelleron Industries AG,Switzerland,1200,33.1
+BNMBPD,"JD Logistics, Inc.",China,4600,-1.6
+BNNTLN,Pennon Group Plc,United Kingdom,4700,2.1
+BNQ4GF,Luye Pharma Group Ltd.,China,2300,5.5
+BNR5MZ,Melrose Industries PLC,United Kingdom,1200,3.6
+BNR5NG,Sona BLW Precision Forgings Ltd.,India,1200,18.2
+BNR5PB,"Yuexiu Property Co., Ltd.",Hong Kong,4800,8.6
+BNRQW7,Lottery Corporation Limited,Australia,3400,232.5
+BNSP8W,LG Energy Solution Ltd.,South Korea,1200,7.7
+BNTDT8,HUTCHMED (China) Limited,Hong Kong,2300,-55.7
+BNTJ35,Allfunds Group plc,United Kingdom,4800,9.9
+BNTYXL,One 97 Communications Ltd.,India,3300,-16.5
+BNVS14,Endeavour Group Ltd,Australia,3500,15
+BNVYT9,Jubilant Foodworks Limited,India,3400,19.7
+BNXKTM,KakaoBank Corp.,South Korea,4800,6.1
+BNZFHC,Hexagon AB Class B,Sweden,1300,11.3
+BNZGVV,Universal Music Group N.V.,Netherlands,3200,54.7
+BNZKT9,Yangzijiang Financial Holding Ltd.,China,4800,5.1
+BP0QDP,BELIMO Holding AG,Switzerland,1200,23.3
+BP2NF5,"F&F Co., Ltd.",South Korea,2400,40.8
+BP2NJ4,Beijer Ref AB Class B,Sweden,3250,16.1
+BP3R1Q,"Chinese Universe Publishing & Media Group Co., Ltd. Class A",China,3400,10.8
+BP3R20,PetroChina Company Limited Class A,China,2100,10.8
+BP3R21,Industrial and Commercial Bank of China Limited Class A,China,4800,11.1
+BP3R22,Agricultural Bank of China Limited Class A,China,4800,10.6
+BP3R23,Bank of China Limited Class A,China,4800,10.5
+BP3R24,China Petroleum & Chemical Corporation Class A,China,2100,9
+BP3R26,China Shenhua Energy Co. Ltd. Class A,China,2100,18.5
+BP3R27,"China Merchants Bank Co., Ltd. Class A",China,4800,15.7
+BP3R28,"Ping An Insurance (Group) Company of China, Ltd. Class A",China,4800,12
+BP3R29,"Industrial Bank Co., Ltd. Class A",China,4800,13.5
+BP3R2B,"Shanghai Pudong Development Bank Co., Ltd. Class A",China,4800,7.8
+BP3R2C,"China Minsheng Banking Corp., Ltd. Class A",China,4800,5.7
+BP3R2D,SAIC Motor Corporation Limited Class A,China,1400,6.5
+BP3R2F,"Kweichow Moutai Co., Ltd. Class A",China,2400,27.4
+BP3R2G,"Bank of Communications Co., Ltd. Class A",China,4800,10
+BP3R2H,China CITIC Bank Corporation Ltd Class A,China,4800,10
+BP3R2J,CITIC Securities Co. Ltd. Class A,China,4800,9.4
+BP3R2K,"China Pacific Insurance (Group) Co., Ltd. Class A",China,4800,10.3
+BP3R2L,"Shanghai International Port (Group) Co., Ltd. Class A",China,4600,15.8
+BP3R2M,"China Yangtze Power Co., Ltd. Class A",China,4700,13.5
+BP3R2N,"Daqin Railway Co., Ltd. Class A",China,4600,9.7
+BP3R2P,"China Everbright Bank Co., Ltd. Class A",China,4800,9.8
+BP3R2Q,China State Construction Engineering Corp. Ltd. Class A,China,3100,14.5
+BP3R2S,"Haitong Securities Co., Ltd. Class A",China,4800,5.4
+BP3R2T,"Hua Xia Bank Co., Limited Class A",China,4800,8.7
+BP3R2V,"Inner Mongolia Yili Industrial Group Co., Ltd. Class A",China,2200,18.2
+BP3R2W,"Bank of Beijing Co., Ltd. Class A",China,4800,9.3
+BP3R2X,China United Network Communications Limited Class A,China,4900,4
+BP3R2Y,"Baoshan Iron & Steel Co., Ltd. Class A",China,1100,6.4
+BP3R2Z,Anhui Conch Cement Company Limited Class A,China,1100,8.6
+BP3R30,"China Merchants Securities Co., Ltd. Class A",China,4800,7.5
+BP3R31,"Huaneng Power International, Inc. Class A",China,4700,-3.4
+BP3R32,"Great Wall Motor Co., Ltd. Class A",China,1400,13.8
+BP3R33,"Poly Developments & Holdings Group Co., Ltd. Class A",China,4800,11.4
+BP3R34,China Oilfield Services Limited Class A,China,3100,6.9
+BP3R35,CRRC Corporation Limited Class A,China,1200,6.4
+BP3R36,"Jiangsu Hengrui Pharmaceuticals Co., Ltd. Class A",China,2300,11.1
+BP3R37,"China Northern Rare Earth (Group) High-Tech Co., Ltd. Class A",China,2200,32.7
+BP3R3B,"Huatai Securities Co., Ltd. Class A",China,4800,7.1
+BP3R3D,China Railway Group Limited Class A,China,3100,10.4
+BP3R3F,"New China Life Insurance Co., Ltd. Class A",China,4800,7.2
+BP3R3G,"Haier Smart Home Co., Ltd. Class A",China,1400,16.7
+BP3R3H,"Sany Heavy Industry Co., Ltd. Class A",China,1200,7.6
+BP3R3J,"GD Power Development Co., Ltd Class A",China,4700,12.5
+BP3R3L,China Construction Bank Corporation Class A,China,4800,11.4
+BP3R3M,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd. Class A",China,2300,8.7
+BP3R3N,"Guanghui Energy Co., Ltd. Class A",China,2100,38.4
+BP3R3P,China Coal Energy Co. Ltd. Class A,China,2100,17.7
+BP3R3Q,Gemdale Corporation Class A,China,1400,13.1
+BP3R3S,Wanhua Chemical Group Co. Ltd. Class A,China,2200,21.2
+BP3R3T,Shanghai Electric Group Company Limited Class A,China,1200,0.2
+BP3R3W,"Datang International Power Generation Co., Ltd. Class A",China,4700,0.7
+BP3R40,"Zijin Mining Group Co., Ltd. Class A",China,1100,24.7
+BP3R44,"NARI Technology Co., Ltd. Class A",China,1200,14.5
+BP3R45,"Offshore Oil Engineering Co., Ltd. Class A",China,3100,5.5
+BP3R46,China Tourism Group Duty Free Corporation Limited Class A,China,3500,15.1
+BP3R47,"Guangzhou Automobile Group Co., Ltd. Class A",China,1400,10.3
+BP3R49,"Tsingtao Brewery Co., Ltd. Class A",China,2400,13.7
+BP3R4C,"AVIC Industry-Finance Holdings Co., Ltd. Class A",China,4800,7.4
+BP3R4D,Aluminum Corporation of China Limited Class A,China,3250,8.8
+BP3R4F,"Universal Scientific Industrial (Shanghai) Co., Ltd. Class A",China,1300,20.2
+BP3R4G,Air China Limited Class A,China,4600,-122.4
+BP3R4H,"TBEA Co., Ltd. Class A",China,1200,20.5
+BP3R4J,"China National Chemical Engineering Co., Ltd Class A",China,3100,10.7
+BP3R4K,Metallurgical Corporation of China Ltd. Class A,China,3100,8.4
+BP3R4M,"Power Construction Corporation of China, Ltd. Class A",China,3100,8
+BP3R4N,China CSSC Holdings Limited Class A,China,1200,3.2
+BP3R4P,"Shanghai International Airport Co., Ltd. Class A",China,4600,-6.4
+BP3R4Q,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited Class A,China,2300,11.9
+BP3R4R,Jiangxi Copper Company Limited Class A,China,1100,7.6
+BP3R4T,HUAYU Automotive Systems Company Limited Class A,China,1200,12.7
+BP3R4Y,"Sichuan Chuantou Energy Co., Ltd. Class A",China,4700,10.6
+BP3R4Z,Shanghai Pharmaceuticals Holding Co. Ltd. Class A,China,2300,9.2
+BP3R50,"China South Publishing & Media Group Co., Ltd Class A",China,3400,10.3
+BP3R51,AECC Aviation Power Co Ltd Class A,China,1300,3.9
+BP3R52,"Bank of Nanjing Co., Ltd. Class A",China,4800,14.9
+BP3R53,"Shanghai Lujiazui Finance & Trade Zone Development Co., Ltd. Class A",China,4800,12.6
+BP3R54,"Jointown Pharmaceutical Group Co., Ltd. Class A",China,3250,8.8
+BP3R55,"COSCO SHIPPING Holdings Co., Ltd. Class A",China,4600,49.5
+BP3R57,CMOC Group Limited Class A,China,3250,14.4
+BP3R59,Sinopec Shanghai Petrochemical Co. Ltd. Class A,China,2100,-7
+BP3R5B,"China Industrial Securities Co., Ltd. Class A",China,4800,5.7
+BP3R5C,"Beijing TongRenTang Co., Ltd. Class A",China,2300,12.2
+BP3R5D,"Shandong Gold Mining Co., Ltd. Class A",China,1100,4
+BP3R5G,Jiangsu Expressway Co. Ltd. Class A,China,4600,11.3
+BP3R5J,"Bright Dairy & Food Co., Ltd. Class A",China,2400,6.2
+BP3R5K,"Zhejiang Chint Electrics Co., Ltd Class A",China,1200,13
+BP3R5N,BBMG Corporation Class A,China,1100,3.9
+BP3R5S,Yankuang Energy Group Company Limited Class A,China,2100,36.2
+BP3R5X,China Eastern Airlines Corporation Limited Class A,China,4600,-161.8
+BP3R60,Dongfang Electric Corporation Limited Class A,China,1200,8.5
+BP3R63,Huadian Power International Corp. Ltd. Class A,China,4700,6.2
+BP3R68,"Shanxi Lu'An Environmental Energy Development Co., Ltd. Class A",China,2100,30.1
+BP3R6B,Hundsun Technologies Inc. Class A,China,3300,17
+BP3R6C,Yonyou Network Technology Co. Ltd. Class A,China,3300,3.8
+BP3R6F,Xiamen Tungsten Co. Ltd. Class A,China,1100,15.5
+BP3R6G,China Southern Airlines Company Limited Class A,China,4600,-48.5
+BP3R6J,"Shanghai Construction Group Co., Ltd. Class A",China,3100,6.1
+BP3R6K,"Fuyao Glass Industry Group Co., Ltd. Class A",China,1400,17.3
+BP3R6L,Xiamen C&D Inc. Class A,China,4600,12.2
+BP3R6R,"Youngor Group Co., Ltd. Class A",China,2400,13.2
+BP3R6T,Avicopter Plc Class A,China,1300,3.4
+BP3R6Y,Guangshen Railway Company Limited Class A,China,4600,-6.4
+BP3R6Z,Soochow Securities Co Ltd Class A,China,4800,4.6
+BP3R71,"Humanwell Healthcare (Group) Co.,Ltd. Class A",China,2300,15.3
+BP3R74,Shandong Hi-speed Co. Ltd. Class A,China,4600,9.5
+BP3R78,Zhejiang China Commodities City Group Co. Ltd. Class A,China,3500,10.6
+BP3R79,"Shan Xi Hua Yang Group New Energy Co., Ltd. Class A",China,2100,24.4
+BP3R7C,Shenzhen Gas Corporation Ltd. Class A,China,4700,9.9
+BP3R7J,"Shanghai Tunnel Engineering Co., Ltd. Class A",China,3100,11.4
+BP3R7K,"Beijing Capital Eco-Environment Protection Group Co.,Ltd. Class A",China,4700,8.6
+BP3R7V,"FangDa Carbon New Material Co., Ltd. Class A",China,1100,4.5
+BP3R7Z,"Zhangzhou Pientzehuang Pharmaceutical Co., Ltd. Class A",China,2300,22.4
+BP3R81,Guangdong HEC Technology Holding Co. Ltd. Class A,China,1100,12.2
+BP3R82,Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class A,China,2400,36.4
+BP3R88,"Fiberhome Telecommunication Technologies Co., Ltd. Class A",China,1300,3.1
+BP3R8G,"China Merchants Energy Shipping Co., Ltd. Class A",China,4600,16.2
+BP3R8L,"Tiandi Science & Technology Co.,LTD Class A",China,1200,10.9
+BP3R8Q,"Guizhou Panjiang Refined Coal Co., Ltd. Class A",China,2100,22.5
+BP3R8V,"Shanghai Yuyuan Tourist Mart Group Co., Ltd. Class A",China,3500,8.9
+BP3R93,"Beijing Capital Development Co., Ltd. Class A",China,4800,1.4
+BP3R94,China National Software & Service Company Limited Class A,China,3300,6.7
+BP3R95,China World Trade Center Company Ltd. Class A,China,4800,12.6
+BP3R96,"China Resources Double-Crane Pharmaceutical Co., Ltd. Class A",China,2300,10.6
+BP3R98,"Zhejiang Juhua Co., Ltd. Class A",China,2200,14.9
+BP3R9C,"Pingdingshan Tianan Coal Mining Co., Ltd. Class A",China,2100,29.2
+BP3R9D,"Shandong Nanshan Aluminium Co., Ltd. Class A",China,1100,8.8
+BP3R9F,Tangshan Port Group Co. Ltd. Class A,China,4600,10
+BP3R9K,Maanshan Iron & Steel Co. Ltd. Class A,China,1100,3.5
+BP3R9L,"Shanghai Electric Power Co., Ltd. Class A",China,4700,3.1
+BP3R9T,"Jiangsu Zhongtian Technology Co., Ltd. Class A",China,1200,11.3
+BP3R9W,"Camel Group Co., Ltd. Class A",China,1200,6.1
+BP3R9X,"Zhejiang Medicine Co., Ltd. Class A",China,2300,6.4
+BP3R9Y,"COSCO SHIPPING Energy Transportation Co., Ltd. Class A",China,4600,5.2
+BP3RB1,"Jonjee Hi-Tech Industrial and Commercial Holding Co., Ltd. Class A",China,1200,16.3
+BP3RB7,Chongqing Department Store Co. Ltd. Class A,China,3500,18.3
+BP3RB9,"Tangshan Sanyou Chemical Industries Co., Ltd. Class A",China,2200,9
+BP3RBG,"Sichuan Road & Bridge Co., Ltd. Class A",China,3100,28
+BP3RBJ,Yunnan Yuntianhua Co. Ltd. Class A,China,4600,40.1
+BP3RBR,"Zhejiang Huahai Pharmaceutical Co., Ltd. Class A",China,2300,14.2
+BP3RBV,"Joincare Pharmaceutical Group Industry Co., Ltd. Class A",China,2300,11.6
+BP3RBX,Sinoma International Engineering Co. Ltd. Class A,China,3100,14.6
+BP3RC3,"Shengyi Technology Co., Ltd. Class A",China,1200,11.5
+BP3RC6,Wolong Electric Group Co. Limited Class A,China,1200,12
+BP3RCG,"Shenzhen Kingdom Sci-tech Co., Ltd. Class A",China,3300,11.7
+BP3RCK,Tongwei Co. Ltd. Class A,China,2200,47
+BP3RCL,"Shanying International Holdings Co., Ltd. Class A",China,2200,0.6
+BP3RCN,"Shanghai Baosight Software Co., Ltd. Class A",China,3300,19.8
+BP3RCP,"Lao Feng Xiang Co., Ltd. Class A",China,1400,17.9
+BP3RCQ,"JCET Group Co., Ltd. Class A",China,1300,13.4
+BP3RCS,"Zhengzhou Coal Mining Machinery Group Co., Ltd. Class A",China,1200,15
+BP3RCV,"Hangzhou Silan Microelectronics Co., Ltd. Class A",China,1300,11.5
+BP3RCZ,Chongqing Brewery Co.Ltd Class A,China,2400,54.7
+BP3RD0,"Shanghai Jin Jiang International Hotels Co., Ltd. Class A",China,3400,0.8
+BP3RD3,"Huaxin Cement Co., Ltd. Class A",China,1100,11.6
+BP3RD7,"Jiangsu Linyang Energy Co., Ltd. Class A",China,1300,5.7
+BP3RD8,Xiamen International Trade Group Corp. Ltd. Class A,China,4600,10.5
+BP3RDC,"Shandong Hualu-Hengsheng Chemical Co., Ltd. Class A",China,2200,24.1
+BP3RDD,Xiamen Faratronic Co. Ltd. Class A,China,1300,24.8
+BP3RDW,"China Jushi Co., Ltd. Class A",China,2200,24.3
+BP3RF4,Sichuan Hebang Biotechnology Co. Ltd. Class A,China,2200,23.8
+BP3RF6,"Ningbo Shanshan Co., Ltd. Class A",China,2200,13.1
+BP3RFJ,"Jiangsu Hengli Hydraulic Co., Ltd. Class A",China,1200,22.8
+BP3RFL,"Zhuzhou Kibing Group Co., Ltd. Class A",China,1400,11.1
+BP3RFS,"Hengtong Optic-Electric Co., Ltd. Class A",China,1200,9.2
+BP3RFY,"Sailun Group Co., Ltd. Class A",China,1400,12.8
+BP3RG3,"Huafa Industrial Co., Ltd. Zhuhai Class A",China,4800,13.4
+BP3RGC,Anhui Expressway Company Limited Class A,China,4600,12.6
+BP3RGF,"Tongkun Group Co., Ltd. Class A",China,2200,6.5
+BP3RGG,Shenzhen Expressway Corporation Limited Class A,China,4600,11.9
+BP3RGP,Jiangsu Yangnong Chemical Co. Ltd. Class A,China,2200,21.9
+BP3RH1,"Angel Yeast Co., Ltd. Class A",China,2400,14.9
+BP3RHC,"Hubei Xingfa Chemicals Group Co., Ltd. Class A",China,2200,31.4
+BP3RJG,"Ningbo Sanxing Medical Electric Co., Ltd. Class A",China,1300,9.6
+BP3RJS,Haohua Chemical Science & Technology Corp. Ltd. Class A,China,2200,13.8
+BP3RKH,BTG Hotels (Group) Co Ltd Shs -A-,China,3400,-3.6
+BP3RMH,"Luenmei Quantum Co., Ltd. Class A",China,4700,10.7
+BP4DCB,FSN E-Commerce Ventures Ltd.,India,3500,2.4
+BP4DVR,PB Fintech Limited,India,3300,-10.1
+BP4JH1,Johnson Electric Holdings Limited,Hong Kong,1200,6.4
+BP6DSH,PT Dayamitra Telekomunikasi Tbk,Indonesia,4900,5.1
+BP6FB3,"XPeng, Inc. Class A",China,1400,-25.5
+BP6MXD,Shell Plc,United Kingdom,2100,15.1
+BP6VLQ,Daimler Truck Holding AG,Germany,1400,15.5
+BP7L89,Corporacion Acciona Energias Renovables SA,Spain,4700,12
+BP8161,Electrolux AB Class B,Sweden,1400,9.1
+BP8ZCS,kakaopay Corp.,South Korea,3200,0.8
+BP92CJ,Tate & Lyle PLC,United Kingdom,2400,16.7
+BP9DL9,"Industria de Diseno Textil, S.A.",Spain,2400,24.7
+BP9LHF,Schroders PLC,United Kingdom,4800,11.7
+BPBLV8,Vibra Energia SA,Brazil,3500,12.7
+BPBMY6,Region Group,Australia,4800,6.5
+BPBPJ0,Cie Generale des Etablissements Michelin SA,France,1400,12
+BPCMH2,Americana Restaurants International PLC,United Arab Emirates,3400,87.6
+BPFJHC,Axis Bank Limited,India,4800,16
+BPG929,PT Avia Avian Tbk,Indonesia,2200,14.9
+BPG9V3,Schaeffler India Ltd,India,1200,21.4
+BPH070,SCB X Public Company Limited,Thailand,4800,9
+BPLF0Y,Var Energi ASA,Norway,2100,73.7
+BPLXRG,TOMRA Systems ASA,Norway,1200,16.4
+BPMRNZ,Fastighets AB Balder Class B,Sweden,4800,5.8
+BPQWCZ,Tata Steel Limited,India,1100,8.5
+BPQY8M,Aviva plc,United Kingdom,4800,8.2
+BPYM74,Alibaba Pictures Group Limited,Hong Kong,3400,1.9
+BQ13Z0,Semirara Mining & Power Corp.,Philippines,2100,63.8
+BQ7ZV0,Straumann Holding AG,Switzerland,2300,23
+BQGZWP,Havells India Limited,India,1200,16.5
+BQJZQJ,"HL Mando Co., Ltd.",South Korea,1200,10.2
+BQV0SV,Zalando SE,Germany,3500,2.8
+BR,"Broadridge Financial Solutions, Inc.",United States,3300,39.4
+BR2NB2,Astral Limited,India,1200,17.1
+BRB385,Hua Hong Semiconductor Ltd.,China,1300,11.2
+BRJL17,UBS Group AG,Switzerland,4800,11.9
+BRK.A,Berkshire Hathaway Inc. Class A,United States,4800,6.9
+BRK.B,Berkshire Hathaway Inc. Class B,United States,4800,6.9
+BRO,"Brown & Brown, Inc.",United States,4800,13.2
+BRS2KY,"SAMSUNG SDS CO., LTD.",South Korea,3300,7.5
+BRTL41,"LONGi Green Energy Technology Co., Ltd. Class A",China,1300,24.9
+BRTNNQ,Medibank Private Ltd.,Australia,4800,23.3
+BRXVS6,Alibaba Health Information Technology Ltd.,Hong Kong,3300,2.3
+BS7JP3,"GlobalWafers Co., Ltd.",Taiwan,1200,27.1
+BS7K37,"Huaibei Mining Holdings Co., Ltd. Class A",China,2100,21.9
+BS7K3D,"Changzhou Xingyu Automotive Lighting Systems Co., Ltd Class A",China,1200,13.2
+BS7K3N,"HUBEI JUMPCAN PHARMACEUTICAL CO., LTD Class A",China,2300,14.8
+BS7K5P,"Shaanxi Coal Industry Co., Ltd. Class A",China,2100,33.3
+BSBMM0,"CGN Power Co., Ltd. Class H",China,4700,9.6
+BSBND7,Yangtze Optical Fibre and Cable Joint Stock Ltd Co Class H,China,1300,10.7
+BSHYK5,HELLA GmbH & Co. KGaA,Germany,1200,10.9
+BSHYYN,Saudi National Bank,Saudi Arabia,4800,12.5
+BSM67X,Carabao Group Public Company Ltd,Thailand,2400,21.7
+BSQCB2,State Bank of India,India,4800,16.1
+BSS7GP,AGL Energy Limited,Australia,4700,4.5
+BSTJWN,ALTEOGEN Inc.,South Korea,2300,-4.8
+BSX,Boston Scientific Corporation,United States,3250,14.3
+BSXN8K,SAMSUNG C&T CORP,South Korea,3100,6.2
+BSZ2BY,ICICI Bank Limited,India,4800,16.2
+BSZLN1,"Nien Made Enterprise Co., Ltd.",Taiwan,1400,29
+BT9Q18,Keppel DC REIT,Singapore,4800,7.8
+BTDV03,Punjab National Bank,India,4800,3.8
+BTDY2M,Kiwi Property Group Ltd.,New Zealand,4800,5.1
+BTF8BT,BAIC Motor Corporation Limited Class H,China,1400,7.2
+BTFRHD,"Glarun Technology Co., Ltd. Class A",China,1300,12.2
+BTFRHX,"Foshan Haitian Flavouring & Food Co., Ltd. Class A",China,2400,23.9
+BTFRHZ,"Jiangsu King's Luck Brewery Joint-stock Co., Ltd. Class A",China,2400,22.1
+BURL,"Burlington Stores, Inc.",United States,3500,34.9
+BV8TBJ,Berger Paints India Limited,India,2200,20.8
+BVF87C,Bank of Baroda,India,4800,14.6
+BVGH0K,Axfood AB,Sweden,3500,32.2
+BVRZ8L,Aena SME SA,Spain,4600,9.9
+BVYVFW,Auto Trader Group PLC,United Kingdom,3300,43
+BVZHXQ,Hiscox Ltd,Bermuda,4800,-2.5
+BW0BGZ,Carsales.Com Limited,Australia,3300,10.8
+BW1YVH,Wal-Mart de Mexico SAB de CV,Mexico,3500,27.6
+BW4NKK,"GF Securities Co., Ltd. Class H",China,4800,6.9
+BW9P81,CK Hutchison Holdings Ltd,Hong Kong,3500,5.5
+BWA,BorgWarner Inc.,United States,1200,14
+BWFD05,Meridian Energy Limited,New Zealand,4700,6.5
+BWFGD6,Tech Mahindra Limited,India,3300,18.6
+BWFGQN,Spirax-Sarco Engineering PLC,United Kingdom,1200,27.8
+BWGCFG,"Fuyao Glass Industry Group Co., Ltd. Class H",China,1400,17.3
+BWGW72,Kansai Nerolac Paints Limited,India,2200,11.2
+BWSW5D,South32 Ltd.,Australia,1100,12.5
+BWT5TJ,Sinopec Oilfield Service Corporation Class A,China,3100,5.1
+BWVFKQ,Schibsted ASA Class B,Norway,3300,3.2
+BWVFT0,"Huatai Securities Co., Ltd. Class H",China,4800,7.1
+BWX43R,Global Power Synergy Public Company Ltd,Thailand,4700,5
+BWXC0Z,Flutter Entertainment Plc,Ireland,3400,3.6
+BX,Blackstone Inc.,United States,4800,43.8
+BX8ZX2,Royal Unibrew A/S,Denmark,2400,29.5
+BX90C0,Cellnex Telecom S.A.,Spain,4900,-2.3
+BXDZ97,Tryg A/S,Denmark,4800,12.4
+BXDZ9Q,Svenska Handelsbanken AB Class A,Sweden,4800,11.6
+BXDZ9V,Svenska Handelsbanken AB Class B,Sweden,4800,11.5
+BXP,"Boston Properties, Inc.",United States,4800,6.7
+BY7QXS,Vicinity Centres,Australia,4800,5.9
+BY9D0Y,Direct Line Insurance Group Plc,United Kingdom,4800,3.6
+BY9D3L,"3SBio, Inc.",China,2300,12.9
+BYM406,"Becle, S.A.B. de C.V.",Mexico,2400,11.5
+BYM8TG,Zydus Lifesciences Limited,India,2300,11.9
+BYM8TY,"True Corp. Public Co., Ltd.",Thailand,4900,-7.3
+BYMFG1,Bata India Ltd,India,2400,22.4
+BYMLZD,Enel Chile SA,Chile,4700,21.5
+BYMPX1,Dis-Chem Pharmacies Limited,South Africa,3500,27.2
+BYMXF6,Qualitas Controladora S.A.B. de C.V. Class I,Mexico,4800,17.8
+BYMXPS,UniCredit S.p.A.,Italy,4800,8.1
+BYNC0S,Red Star Macalline Group Corporation Ltd Class H,China,4800,2.9
+BYNJCV,"SAMSUNG BIOLOGICS Co., Ltd.",South Korea,2300,9.1
+BYP0K5,"Grifols, S.A. Pref Class B",Spain,2300,4.8
+BYP71J,China Literature Ltd.,China,3400,6.1
+BYPBS6,ArcelorMittal SA,Luxembourg,1100,5.4
+BYPC1T,ASSA ABLOY AB Class B,Sweden,1200,15.2
+BYPCLL,Adani Transmission Ltd,India,4700,10.8
+BYQ7HZ,Just Eat Takeaway.com N.V.,Netherlands,3500,-7.5
+BYQ848,Flughafen Zurich AG,Switzerland,4600,6.5
+BYQ8KW,Cleanaway Waste Management Ltd.,Australia,3100,5.3
+BYQ977,"Flat Glass Group Co., Ltd. Class H",China,2200,11.7
+BYQ979,"Dali Foods Group Co., Ltd.",China,2400,15.4
+BYQDM7,"Fujian Funeng Co., Ltd. Class A",China,4700,14.2
+BYQDM8,Ningbo Joyson Electronic Corp. Class A,China,1400,4
+BYQDM9,"Hongfa Technology Co., Ltd. Class A",China,1200,16.5
+BYQDMF,"Ningbo Tuopu Group Co., Ltd. Class A",China,1200,14.4
+BYQDMK,Kingclean Electric Co Ltd Class A,China,1400,27.2
+BYQDMP,"Juneyao Airlines Co., Ltd. Class A",China,4600,-37
+BYQDMZ,"Guotai Junan Securities Co., Ltd. Class A",China,4800,7.5
+BYQDNJ,China National Nuclear Power Co. Ltd. Class A,China,4700,12.4
+BYQDNL,"Anhui Kouzi Distillery Co., Ltd. Class A",China,2400,18.9
+BYQKH3,Grasim Industries Ltd,India,1100,4.1
+BYQP13,ABN AMRO Bank N.V. Depositary receipts,Netherlands,4800,6.9
+BYQQTH,Med Life SA,Romania,3350,10.3
+BYSX0F,Banco del Bajio SA,Mexico,4800,23.8
+BYT16L,Orsted,Denmark,4700,7.9
+BYT1DJ,Intermediate Capital Group plc,United Kingdom,4800,7.3
+BYT25P,Itau Corpbanca,Chile,4800,13.8
+BYT934,Scout24 SE,Germany,3300,9
+BYTBHS,Thai Union Group Public Company Limited,Thailand,2400,10.1
+BYTBWY,Covestro AG,Germany,2200,2.7
+BYV1QK,Bluestar Adisseo Co. Class A,China,2200,9.7
+BYV1VH,"Anhui Yingjia Distillery Co., Ltd. Class A",China,2400,24.5
+BYV1VL,"SKSHU Paint Co., Ltd. Class A",China,2200,19.9
+BYV1VP,"Shanghai Flyco Electrical Appliance Co., Ltd. Class A",China,1400,28.1
+BYV76L,Bangkok Expressway and Metro Public Company Limited,Thailand,4600,6.6
+BYVC6Y,UNO Minda Limited,India,1200,15.5
+BYVDW4,China Railway Signal & Communication Corp. Ltd. Class H,China,1300,7.7
+BYVGM6,Abu Dhabi National Oil Company for Distribution PJSC,United Arab Emirates,2100,84.9
+BYVKT1,Aditya Birla Capital Ltd.,India,4800,12.3
+BYVNZC,ADAMA Ltd. Class A,China,2200,4.3
+BYVS6J,CK Infrastructure Holdings Limited,Hong Kong,4700,7.4
+BYVSXD,FIT Hon Teng Limited,Taiwan,1300,6.3
+BYVW0G,Plaza SA,Chile,4800,4.5
+BYW0PQ,Land Securities Group PLC,United Kingdom,4800,5.4
+BYW1G3,Avenue Supermarts Ltd.,India,3500,15.1
+BYW5MY,"Bank of Jiangsu Co., Ltd. Class A",China,4800,14.4
+BYW5MZ,"Bank of Hangzhou Co., Ltd. Class A",China,4800,13.2
+BYW5N1,"Shandong Linglong Tyre Co., Ltd. Class A",China,1400,1.8
+BYW5N5,"Opple Lighting Co., Ltd. Class A",China,1200,13
+BYW5QJ,"YTO Express Group Co.,Ltd. Class A",China,4600,14.8
+BYW5QQ,"Bank of Guiyang Co., Ltd. Class A",China,4800,12
+BYW5QV,"Shenzhen Kinwong Electronic Co., Ltd. Class A",China,1300,12.8
+BYW5R0,"Jason Furniture (Hangzhou) Co., Ltd. Class A",China,1400,20
+BYWFSB,United Spirits Limited,India,2400,16.3
+BYWH8S,HelloFresh SE,Germany,3500,18
+BYWP84,Banca Mediolanum SpA,Italy,4800,21.9
+BYWPH6,"China Galaxy Securities Co., Ltd. Class A",China,4800,7.9
+BYWR0T,Coles Group Ltd.,Australia,3500,31.4
+BYWZNK,IDFC First Bank Ltd.,India,4800,9.1
+BYX56S,PearlAbyss Corp.,South Korea,3300,7.6
+BYX9GP,Doosan Bobcat Inc.,South Korea,1200,10.7
+BYXH7P,ICICI Lombard General Insurance Co. Ltd.,India,4800,16.1
+BYXL8H,ICICI Prudential Life Insurance Co. Ltd.,India,4800,9.6
+BYXS69,QIAGEN NV,Netherlands,2300,12.4
+BYXW41,Mr Price Group Limited,South Africa,3500,25.3
+BYXZ2W,Rumo SA,Brazil,4600,7.2
+BYY014,Petro Rio SA,Brazil,2100,37.6
+BYY2W0,Dr. Lal PathLabs Limited,India,3350,16.8
+BYY2WB,Alkem Laboratories Ltd.,India,2300,13.5
+BYY3DX,"Grifols, S.A. Class A",Spain,2300,4.8
+BYY7VY,Signify NV,Netherlands,1200,15.2
+BYYFHZ,Frasers Logistics & Commercial Trust,Singapore,4800,5.2
+BYYFJH,Topchoice Medical Corp. Class A,China,3350,18.9
+BYYFJJ,"ENN Natural Gas Co., Ltd. Class A",China,4700,24
+BYYFJR,"HANGZHOU FIRST APPLIED MATERIAL CO.,LTD. Class A",China,1200,16.1
+BYYFJT,"Toly Bread Co., Ltd. Class A",China,3500,13.3
+BYYFJV,Yifeng Pharmacy Chain Co Ltd Class A,China,3500,13.2
+BYYHL2,Anheuser-Busch InBev SA/NV,Belgium,2400,8.2
+BYYN34,China Reinsurance (Group) Corp. Class H,China,4800,4.4
+BYYN70,Poste Italiane SpA,Italy,4800,13.3
+BYZ2QP,Sartorius Stedim Biotech SA,France,2300,27.6
+BYZ43T,Eurobank Ergasias Services & Holdings SA,Greece,4800,15
+BYZ6DH,"Celltrion Healthcare Co., Ltd.",South Korea,2300,11.3
+BYZJV1,BOC Aviation Limited,Singapore,4800,0.3
+BYZQ07,CK Asset Holdings Limited,Hong Kong,4800,5.6
+BYZQ09,"Zhongan Online P&C Insurance Co., Ltd. Class H",China,4800,-8.2
+BYZQW3,"G-Bits Network Technology (Xiamen) Co., Ltd. Class A",China,3300,26.9
+BYZR01,Amundi SA,France,4800,10.5
+BYZW44,"Zhejiang Dingli Machinery Co., Ltd. Class A",China,1200,16.9
+BYZW4G,"Zhejiang Weiming Environment Protection Co., Ltd. Class A",China,3100,17.8
+BYZW4H,LBX Pharmacy Chain Joint Stock Company Class A,China,3500,14
+BYZWMR,VAT Group AG,Switzerland,1200,39.2
+BZ,Kanzhun Ltd. Sponsored ADR,China,3300,4.1
+BZ01RF,Demant A/S,Denmark,2300,22.7
+BZ03TZ,Atlas Arteria,Australia,4600,5.7
+BZ04KX,Yadea Group Holdings Ltd.,China,1400,29.8
+BZ0D00,ORIENT SECURITIES CO LTD Class A,China,4800,3.8
+BZ0D1V,CECEP Wind-Power Corp Class A,China,4700,10.3
+BZ0D1Y,Everbright Securities Company Limited Class A,China,4800,6
+BZ0D28,"Shanghai M&G Stationery, Inc.",China,2400,19.1
+BZ0P4R,Infrastrutture Wireless Italiane S.p.A.,Italy,4900,6.8
+BZ0XK6,General Insurance Corporation of India,India,4800,11.3
+BZ169C,China International Capital Corp. Ltd. Class H,China,4800,9.5
+BZ1DZ9,Reply S.p.A.,Italy,3200,18.6
+BZ1HM4,Adyen NV,Netherlands,3300,23.1
+BZ1JH1,China Energy Engineering Corp. Ltd. Class H,China,3100,7.3
+BZ1MXR,Alpha Services & Holdings SA,Greece,4800,6
+BZ3F6M,"Seazen Holdings Co.,Ltd. Class A",China,4800,9.2
+BZ4BQC,Johnson Matthey Plc,United Kingdom,2200,13.2
+BZ5739,ING Groep NV,Netherlands,4800,10.3
+BZ5ZHK,Pirelli & C. S.p.A.,Italy,1400,9.6
+BZ60N3,SBI Life Insurance Co. Ltd.,India,4800,13.4
+BZ6T5C,Soitec SA,France,1300,16.8
+BZ8GX8,Wisetech Global Ltd.,Australia,3300,15.9
+BZ9NS1,"Ganfeng Lithium Group Co., Ltd. Class H",China,2200,49.5
+BZBFKT,Bid Corporation Limited,South Africa,3400,18
+BZBYJJ,JSW Steel Limited,India,1100,5.7
+BZBZVC,Banco BTG Pactual SA Units Cons of 1 Sh + 2 Pfd Shs A,Brazil,4800,19.8
+BZCNB4,Delivery Hero SE,Germany,3500,-36.6
+C,Citigroup Inc.,United States,4800,6.1
+CAG,"Conagra Brands, Inc.",United States,2400,14.2
+CARR,Carrier Global Corp.,United States,1200,26.7
+CAT,Caterpillar Inc.,United States,1200,37.3
+CB,Chubb Limited,Switzerland,4800,13.1
+CBOE,Cboe Global Markets Inc,United States,4800,20
+CBRE,"CBRE Group, Inc. Class A",United States,4800,23.6
+CBSH,"Commerce Bancshares, Inc.",United States,4800,17.8
+CCEP,Coca-Cola Europacific Partners plc,United Kingdom,2400,20.2
+CCI,Crown Castle Inc.,United States,4800,24.1
+CCL,Carnival Corporation,United States,3400,-1.6
+CDAY,"Ceridian HCM Holding, Inc.",United States,3300,8.5
+CDNS,"Cadence Design Systems, Inc.",United States,3300,39.7
+CDW,CDW Corp.,United States,3300,55
+CE,Celanese Corporation,United States,2200,53
+CEG,Constellation Energy Corporation,United States,4700,10.4
+CF,"CF Industries Holdings, Inc.",United States,2200,35.2
+CFG,"Citizens Financial Group, Inc.",United States,4800,10.4
+CG,Carlyle Group Inc,United States,4800,23.2
+CHD,"Church & Dwight Co., Inc.",United States,2400,20.5
+CHKP,Check Point Software Technologies Ltd.,Israel,3300,32.7
+CHRW,"C.H. Robinson Worldwide, Inc.",United States,4600,29.5
+CHTR,"Charter Communications, Inc. Class A",United States,3400,41.5
+CI,Cigna Corporation,United States,3350,16.1
+CINF,Cincinnati Financial Corporation,United States,4800,7.6
+CL,Colgate-Palmolive Company,United States,2400,268.5
+CLVT,Clarivate PLC,United Kingdom,3200,10.6
+CLX,Clorox Company,United States,2400,160.7
+CMA,Comerica Incorporated,United States,4800,22.2
+CMCSA,Comcast Corporation Class A,United States,3400,17.9
+CME,CME Group Inc. Class A,United States,4800,11.1
+CMG,"Chipotle Mexican Grill, Inc.",United States,3400,43.9
+CMI,Cummins Inc.,United States,1200,26.2
+CMS,CMS Energy Corporation,United States,4700,11.8
+CNA,CNA Financial Corporation,United States,4800,13.7
+CNC,Centene Corporation,United States,3350,10.6
+CNP,"CenterPoint Energy, Inc.",United States,4700,9.6
+COF,Capital One Financial Corp,United States,4800,9.8
+COO,"Cooper Companies, Inc.",United States,2300,8
+COP,ConocoPhillips,United States,2100,26.3
+COST,Costco Wholesale Corporation,United States,3500,26.1
+CPB,Campbell Soup Company,United States,2400,24
+CPNG,"Coupang, Inc. Class A",United States,3500,-5.8
+CPRT,"Copart, Inc.",United States,3200,19.1
+CRL,"Charles River Laboratories International, Inc.",United States,3200,19.5
+CRM,"Salesforce, Inc.",United States,3300,8.2
+CRWD,"CrowdStrike Holdings, Inc. Class A",United States,3300,24.9
+CSCO,"Cisco Systems, Inc.",United States,3300,34.4
+CSGP,"CoStar Group, Inc.",United States,3300,8.2
+CSX,CSX Corporation,United States,4600,31.8
+CTAS,Cintas Corporation,United States,3400,36.2
+CTLT,Catalent Inc,United States,2300,10.9
+CTRA,Coterra Energy Inc.,United States,2100,30.3
+CTSH,Cognizant Technology Solutions Corporation Class A,United States,3300,17
+CTVA,Corteva Inc,United States,2200,7.8
+CVS,CVS Health Corporation,United States,3500,15.8
+CVX,Chevron Corporation,United States,2100,17.6
+CZR,Caesars Entertainment Inc,United States,3400,4.5
+D,Dominion Energy Inc,United States,4700,11.5
+DADA,Dada Nexus Ltd. Sponsored ADR,China,4600,-25.6
+DAL,"Delta Air Lines, Inc.",United States,4600,30.6
+DASH,"DoorDash, Inc. Class A",United States,3300,-12.7
+DD,"DuPont de Nemours, Inc.",United States,2200,6.8
+DDOG,Datadog Inc Class A,United States,3300,20.1
+DE,Deere & Company,United States,1200,42.2
+DFS,Discover Financial Services,United States,4800,24.2
+DG,Dollar General Corporation,United States,3500,42.1
+DGX,Quest Diagnostics Incorporated,United States,3350,15.7
+DHI,"D.R. Horton, Inc.",United States,1400,14.4
+DHR,Danaher Corporation,United States,2300,13.3
+DIS,Walt Disney Company,United States,3400,7.4
+DLR,"Digital Realty Trust, Inc.",United States,4800,1.7
+DLTR,"Dollar Tree, Inc.",United States,3500,18.8
+DOCU,"DocuSign, Inc.",United States,3300,88.7
+DOV,Dover Corporation,United States,1200,26.1
+DOW,"Dow, Inc.",United States,2200,11.9
+DOX,Amdocs Limited,United States,3300,19.3
+DQ,Daqo New Energy Corp Sponsored ADR,China,2200,33.9
+DRI,"Darden Restaurants, Inc.",United States,3400,44.1
+DTE,DTE Energy Company,United States,4700,12.1
+DUK,Duke Energy Corporation,United States,4700,8.7
+DVA,DaVita Inc.,United States,3350,74.2
+DVN,Devon Energy Corporation,United States,2100,38.2
+DXCM,"DexCom, Inc.",United States,2300,15.2
+EA,Electronic Arts Inc.,United States,3300,22
+EBAY,eBay Inc.,United States,3500,47.1
+ECL,Ecolab Inc.,United States,2200,18.2
+ED,"Consolidated Edison, Inc.",United States,4700,8.8
+EFX,Equifax Inc.,United States,3200,24.2
+EIX,Edison International,United States,4700,12.4
+EL,Estee Lauder Companies Inc. Class A,United States,2400,28.7
+ELAN,"Elanco Animal Health, Inc.",United States,2300,6.9
+ELS,"Equity LifeStyle Properties, Inc.",United States,4800,21.1
+ELV,"Elevance Health, Inc.",United States,3350,18
+EMN,Eastman Chemical Company,United States,2200,13.8
+EMR,Emerson Electric Co.,United States,1300,15.8
+ENPH,"Enphase Energy, Inc.",United States,1300,50.9
+EOG,"EOG Resources, Inc.",United States,2100,33.3
+EPAM,"EPAM Systems, Inc.",United States,3300,19.1
+EQH,"Equitable Holdings, Inc.",United States,4800,20.7
+EQIX,"Equinix, Inc.",United States,4800,6.8
+EQR,Equity Residential,United States,4800,4.5
+ES,Eversource Energy,United States,4700,9.3
+ESS,"Essex Property Trust, Inc.",United States,4800,6.9
+ETN,Eaton Corp. Plc,Ireland,1200,18.1
+ETR,Entergy Corporation,United States,4700,10.8
+ETSY,"Etsy, Inc.",United States,3500,-1648.1
+EVRG,"Evergy, Inc.",United States,4700,8.8
+EW,Edwards Lifesciences Corporation,United States,2300,24.7
+EXAS,Exact Sciences Corporation,United States,2300,-14.4
+EXC,Exelon Corporation,United States,4700,7.8
+EXPD,"Expeditors International of Washington, Inc.",United States,4600,24.6
+EXPE,"Expedia Group, Inc.",United States,3400,43.2
+EXR,Extra Space Storage Inc.,United States,4800,26.5
+F,Ford Motor Company,United States,1400,13
+FANG,"Diamondback Energy, Inc.",United States,2100,24.8
+FAST,Fastenal Company,United States,3250,32.1
+FBIN,"Fortune Brands Innovations, Inc.",United States,1200,19.8
+FCX,"Freeport-McMoRan, Inc.",United States,1100,14.7
+FDS,FactSet Research Systems Inc.,United States,3300,34
+FDX,FedEx Corporation,United States,4600,13.1
+FE,FirstEnergy Corp.,United States,4700,13
+FFIV,"F5, Inc.",United States,3300,24.3
+FG,F&G Annuities & Life Inc,United States,4800,6.7
+FIS,"Fidelity National Information Services, Inc.",United States,3200,12.5
+FISV,"Fiserv, Inc.",United States,4800,13.9
+FITB,Fifth Third Bancorp,United States,4800,15.3
+FLEX,Flex Ltd.,United States,1300,26.9
+FLT,"FLEETCOR Technologies, Inc.",United States,3200,36.8
+FMC,FMC Corporation,United States,2200,26.4
+FNF,"Fidelity National Financial, Inc. - FNF Group",United States,4800,19.9
+FOX,Fox Corporation Class B,United States,3400,16
+FOXA,Fox Corporation Class A,United States,3400,16
+FRC,First Republic Bank,United States,4800,7.5
+FRT,Federal Realty Investment Trust,United States,4800,4.9
+FTNT,"Fortinet, Inc.",United States,1300,261.4
+FTV,Fortive Corp.,United States,1300,11.5
+GD,General Dynamics Corporation,United States,1300,12.7
+GE,General Electric Company,United States,1200,5.7
+GEN,Gen Digital Inc.,United States,3300,82.2
+GFS,GlobalFoundries Inc.,United States,1300,10.7
+GILD,"Gilead Sciences, Inc.",United States,2300,35.4
+GIS,"General Mills, Inc.",United States,2400,23.5
+GL,Globe Life Inc.,United States,4800,14.6
+GLW,Corning Inc,United States,1300,14.2
+GM,General Motors Company,United States,1400,11.2
+GNRC,Generac Holdings Inc.,United States,1200,15.6
+GNTX,Gentex Corporation,United States,1200,16.6
+GOOG,Alphabet Inc. Class C,United States,3300,22.8
+GOOGL,Alphabet Inc. Class A,United States,3300,22.8
+GPC,Genuine Parts Company,United States,3250,30.2
+GPN,Global Payments Inc.,United States,3200,11.6
+GRMN,Garmin Ltd.,Switzerland,1300,16.3
+GS,"Goldman Sachs Group, Inc.",United States,4800,10.6
+GWW,"W.W. Grainger, Inc.",United States,3250,48.8
+HAL,Halliburton Company,United States,3100,27.8
+HAS,"Hasbro, Inc.",United States,1400,19.5
+HBAN,Huntington Bancshares Incorporated,United States,4800,13
+HD,"Home Depot, Inc.",United States,3500,2933.7
+HEI,HEICO Corporation,United States,1300,10.8
+HEI.A,HEICO Corporation Class A,United States,1300,10.8
+HES,Hess Corporation,United States,2100,23.1
+HIG,"Hartford Financial Services Group, Inc.",United States,4800,16.1
+HII,"Huntington Ingalls Industries, Inc.",United States,1300,13.4
+HOLX,"Hologic, Inc.",United States,2300,17.1
+HON,Honeywell International Inc.,United States,1300,33.8
+HPE,Hewlett Packard Enterprise Co.,United States,1300,12.1
+HRL,Hormel Foods Corporation,United States,2400,13.3
+HSIC,"Henry Schein, Inc.",United States,3250,14.9
+HST,"Host Hotels & Resorts, Inc.",United States,4800,8.5
+HSY,Hershey Company,United States,2400,46.7
+HTHT,H World Group Limited Sponsored ADR,China,3400,-13.9
+HUBS,"HubSpot, Inc.",United States,3300,18.7
+HUM,Humana Inc.,United States,3350,18.5
+HWM,Howmet Aerospace Inc.,United States,1300,16.1
+HZNP,Horizon Therapeutics Public Limited Company,Ireland,2300,20.8
+IAC,IAC Inc.,United States,3300,-3.3
+IBM,International Business Machines Corporation,United States,3300,24.7
+ICE,"Intercontinental Exchange, Inc.",United States,4800,13.2
+ICLR,ICON Plc,Ireland,3200,11.3
+IDXX,"IDEXX Laboratories, Inc.",United States,2300,89.7
+IFF,International Flavors & Fragrances Inc.,United States,2400,7.1
+ILMN,"Illumina, Inc.",United States,2300,3.1
+INCY,Incyte Corporation,United States,2300,12.7
+INTC,Intel Corporation,United States,1300,2.2
+INTU,Intuit Inc.,United States,3300,20
+INVH,"Invitation Homes, Inc.",United States,4800,4.2
+IP,International Paper Company,United States,2200,11.6
+IPG,"Interpublic Group of Companies, Inc.",United States,3200,27.7
+IQ,"iQIYI, Inc. Sponsored ADR Class A",China,3300,15.1
+IQV,IQVIA Holdings Inc,United States,3350,26.9
+IR,Ingersoll Rand Inc.,United States,1200,10.5
+IRM,"Iron Mountain, Inc.",United States,4800,106.4
+ISRG,"Intuitive Surgical, Inc.",United States,2300,12.9
+IT,"Gartner, Inc.",United States,3300,131.9
+ITW,Illinois Tool Works Inc.,United States,1200,97.6
+J,Jacobs Solutions Inc.,United States,3100,14.4
+JAZZ,Jazz Pharmaceuticals Public Limited Company,Ireland,2300,35.1
+JBHT,"J.B. Hunt Transport Services, Inc.",United States,4600,22.5
+JCI,Johnson Controls International plc,Ireland,1200,13.9
+JKHY,"Jack Henry & Associates, Inc.",United States,3300,21.9
+JNJ,Johnson & Johnson,United States,2300,30.4
+JNPR,"Juniper Networks, Inc.",United States,3300,15.5
+JPM,JPMorgan Chase & Co.,United States,4800,13.3
+K,Kellogg Company,United States,2400,29.6
+KC,Kingsoft Cloud Holdings Ltd. Sponsored ADR,China,3300,-22.8
+KDP,Keurig Dr Pepper Inc.,United States,2400,9.5
+KEY,KeyCorp,United States,4800,16
+KEYS,Keysight Technologies Inc,United States,1300,28.9
+KHC,Kraft Heinz Company,United States,2400,6.7
+KIM,Kimco Realty Corporation,United States,4800,4.1
+KKR,KKR & Co Inc,United States,4800,12.7
+KLAC,KLA Corporation,United States,1300,131.6
+KMB,Kimberly-Clark Corporation,United States,2400,188.1
+KMI,Kinder Morgan Inc Class P,United States,3100,8.1
+KMX,"CarMax, Inc.",United States,3500,9.8
+KO,Coca-Cola Company,United States,2400,44.1
+KR,Kroger Co.,United States,3500,28.9
+LBRDA,Liberty Broadband Corp. Class A,United States,4900,12.2
+LBRDK,Liberty Broadband Corp. Class C,United States,4900,12.5
+LBTYA,Liberty Global Plc Class A,United Kingdom,3400,23
+LBTYK,Liberty Global Plc Class C,United Kingdom,3400,22.6
+LCID,"Lucid Group, Inc.",United States,1400,-43.8
+LDOS,"Leidos Holdings, Inc.",United States,1300,20.3
+LEA,Lear Corporation,United States,1200,14.7
+LEN,Lennar Corporation Class A,United States,1400,11
+LEN.B,Lennar Corporation Class B,United States,1400,10.9
+LH,Laboratory Corporation of America Holdings,United States,3350,14.2
+LHX,L3Harris Technologies Inc,United States,1300,12.2
+LI,"Li Auto, Inc. Sponsored ADR Class A",China,1400,-2.9
+LIN,Linde plc,United Kingdom,2200,16.6
+LKQ,LKQ Corporation,United States,1400,20.5
+LLY,Eli Lilly and Company,United States,2300,58.6
+LMT,Lockheed Martin Corporation,United States,1300,77.6
+LNC,Lincoln National Corp,United States,4800,13.1
+LNT,Alliant Energy Corp,United States,4700,13
+LRCX,Lam Research Corporation,United States,1200,57.9
+LSXMA,Liberty Media Corp. Series A Liberty SiriusXM,United States,3400,15.6
+LSXMK,Liberty Media Corp. Series C Liberty SiriusXM,United States,3400,15.1
+LU,Lufax Holding Limited Sponsored ADR Class A,China,3300,9.2
+LULU,Lululemon Athletica Inc,Canada,3500,38
+LUMN,"Lumen Technologies, Inc.",United States,4900,3.4
+LUV,Southwest Airlines Co.,United States,4600,15.3
+LVS,Las Vegas Sands Corp.,United States,3400,19.5
+LW,"Lamb Weston Holdings, Inc.",United States,2400,75.4
+LYB,LyondellBasell Industries NV,United Kingdom,2200,21.8
+MA,Mastercard Incorporated Class A,United States,3200,146.7
+MAA,"Mid-America Apartment Communities, Inc.",United States,4800,10.3
+MCHP,Microchip Technology Incorporated,United States,1300,51.2
+MCO,Moody's Corporation,United States,3200,49.5
+MDB,"MongoDB, Inc. Class A",United States,3300,3.3
+MDLZ,"Mondelez International, Inc. Class A",United States,2400,15.2
+MDT,Medtronic Plc,Ireland,2300,13.1
+MELI,"MercadoLibre, Inc.",Uruguay,3500,23.3
+MET,"MetLife, Inc.",United States,4800,14.2
+META,Meta Platforms Inc. Class A,United States,3300,17.3
+MGM,MGM Resorts International,United States,3400,4.3
+MHK,"Mohawk Industries, Inc.",United States,1100,6.7
+MKC,"McCormick & Company, Incorporated",United States,2400,14.1
+MKL,Markel Corporation,United States,4800,7.7
+MKTX,MarketAxess Holdings Inc.,United States,4800,23.2
+MLM,"Martin Marietta Materials, Inc.",United States,1100,11.7
+MMC,"Marsh & McLennan Companies, Inc.",United States,4800,32.3
+MMM,3M Company,United States,1200,30.6
+MNSO,MINISO Group Holding Ltd. Sponsored ADR,China,3500,24.6
+MNST,Monster Beverage Corporation,United States,2400,17.4
+MOH,"Molina Healthcare, Inc.",United States,3350,24.2
+MOS,Mosaic Company,United States,2200,32.7
+MPC,Marathon Petroleum Corporation,United States,2100,28.6
+MPWR,"Monolithic Power Systems, Inc.",United States,1300,29.5
+MRK,"Merck & Co., Inc.",United States,2300,27.1
+MRNA,"Moderna, Inc.",United States,2300,43.8
+MRO,Marathon Oil Corporation,United States,2100,19.4
+MRVL,"Marvell Technology, Inc.",United States,1300,11.7
+MS,Morgan Stanley,United States,4800,12.7
+MSFT,Microsoft Corporation,United States,3300,33.6
+MSI,"Motorola Solutions, Inc.",United States,1300,216.6
+MTB,M&T Bank Corporation,United States,4800,12
+MTCH,"Match Group, Inc.",United States,3300,109.1
+MTN,"Vail Resorts, Inc.",United States,3400,20
+MU,"Micron Technology, Inc.",United States,1300,-4.8
+NDAQ,"Nasdaq, Inc.",United States,4800,18.6
+NEE,"NextEra Energy, Inc.",United States,4700,13
+NEM,Newmont Corporation,United States,1100,6.9
+NET,Cloudflare Inc Class A,United States,3300,8.2
+NFLX,"Netflix, Inc.",United States,3300,20.6
+NI,NiSource Inc,United States,4700,8.7
+NIO,NIO Inc. Sponsored ADR Class A,China,1400,-43.7
+NKE,"NIKE, Inc. Class B",United States,2400,33.6
+NLY,"Annaly Capital Management, Inc.",United States,4800,14.4
+NOC,Northrop Grumman Corp.,United States,1300,20.8
+NOW,"ServiceNow, Inc.",United States,3300,26.2
+NRG,"NRG Energy, Inc.",United States,4700,32.4
+NSC,Norfolk Southern Corporation,United States,4600,23
+NTAP,"NetApp, Inc.",United States,1300,94.6
+NTRS,Northern Trust Corporation,United States,4800,13
+NUE,Nucor Corporation,United States,1100,14.8
+NVCR,NovoCure Ltd.,United Kingdom,2300,-22.2
+NVDA,NVIDIA Corporation,United States,1300,37.2
+NVR,"NVR, Inc.",United States,1400,34.4
+NWL,Newell Brands Inc,United States,1200,12.2
+NWS,News Corporation Class B,United States,3400,3.1
+NWSA,News Corporation Class A,United States,3400,3.1
+NXPI,NXP Semiconductors NV,Netherlands,1300,39.3
+O,Realty Income Corporation,United States,4800,3.1
+ODFL,"Old Dominion Freight Line, Inc.",United States,4600,30.7
+OKE,"ONEOK, Inc.",United States,3100,26.8
+OKTA,"Okta, Inc. Class A",United States,3300,-0.8
+OLPX,"Olaplex Holdings, Inc.",United States,2400,37.6
+OMC,Omnicom Group Inc,United States,3200,40.7
+ON,ON Semiconductor Corporation,United States,1300,23.5
+OXY,Occidental Petroleum Corporation,United States,2100,40.5
+PANW,"Palo Alto Networks, Inc.",United States,3300,196.4
+PARA,Paramount Global Class B,United States,3400,2.3
+PATH,"UiPath, Inc. Class A",United States,3300,1.8
+PAYC,"Paycom Software, Inc.",United States,3300,26.6
+PAYX,"Paychex, Inc.",United States,3300,42
+PCAR,PACCAR Inc,United States,1200,23.3
+PCG,PG&E Corporation,United States,4700,9.8
+PDD,PDD Holdings Inc Sponsored ADR Class A,China,3500,31.5
+PEAK,"Healthpeak Properties, Inc.",United States,4800,3.7
+PEG,Public Service Enterprise Group Inc,United States,4700,11.4
+PEP,"PepsiCo, Inc.",United States,2400,52
+PFE,Pfizer Inc.,United States,2300,22.2
+PFG,"Principal Financial Group, Inc.",United States,4800,11.8
+PG,Procter & Gamble Company,United States,2400,27.6
+PGR,Progressive Corporation,United States,4800,20.6
+PH,Parker-Hannifin Corporation,United States,1200,22.3
+PHM,"PulteGroup, Inc.",United States,1400,16.3
+PINS,"Pinterest, Inc. Class A",United States,3300,13.3
+PKG,Packaging Corporation of America,United States,2200,21.4
+PKI,"PerkinElmer, Inc.",United States,2300,7.7
+PLD,"Prologis, Inc.",United States,4800,5.6
+PLTR,Palantir Technologies Inc. Class A,United States,3300,14.2
+PLUG,Plug Power Inc.,United States,1300,-16.1
+PNC,"PNC Financial Services Group, Inc.",United States,4800,13.6
+PNR,Pentair plc,United Kingdom,1200,18.9
+PNW,Pinnacle West Capital Corporation,United States,4700,8
+PODD,Insulet Corporation,United States,2300,4.9
+POOL,Pool Corporation,United States,3250,49.7
+PPG,"PPG Industries, Inc.",United States,2200,21.8
+PPL,PPL Corporation,United States,4700,8.1
+PRU,"Prudential Financial, Inc.",United States,4800,11.6
+PSA,Public Storage,United States,4800,18.8
+PSX,Phillips 66,United States,2100,20.1
+PTC,PTC Inc.,United States,3300,19.3
+PWR,"Quanta Services, Inc.",United States,3100,17.2
+PXD,Pioneer Natural Resources Company,United States,2100,29.8
+PYPL,"PayPal Holdings, Inc.",United States,3200,24.1
+QCOM,QUALCOMM Incorporated,United States,1300,50.1
+QFIN,"360 DigiTech, Inc. Shs A American Depositary Share Repr 2 Shs A",China,4800,21.8
+QRVO,"Qorvo, Inc.",United States,1300,14.8
+RCL,Royal Caribbean Group,United States,3400,28.7
+RE,"Everest Re Group, Ltd.",Bermuda,4800,18
+REG,Regency Centers Corporation,United States,4800,5.8
+REGN,"Regeneron Pharmaceuticals, Inc.",United States,2300,16.1
+RF,Regions Financial Corporation,United States,4800,14.9
+RHI,Robert Half International Inc.,United States,3200,28.9
+RIVN,"Rivian Automotive, Inc. Class A",United States,1400,-42.1
+RJF,"Raymond James Financial, Inc.",United States,4800,20.1
+RMD,ResMed Inc.,United States,2300,22.8
+RNR,RenaissanceRe Holdings Ltd.,Bermuda,4800,19.3
+ROK,"Rockwell Automation, Inc.",United States,1300,37.4
+ROKU,"Roku, Inc. Class A",United States,1400,-30.9
+ROP,"Roper Technologies, Inc.",United States,3300,10.2
+ROST,"Ross Stores, Inc.",United States,3500,34.9
+RPRX,Royalty Pharma Plc Class A,United States,2300,18.9
+RSG,"Republic Services, Inc.",United States,3100,15.3
+RTX,Raytheon Technologies Corporation,United States,1300,10
+RXO,"RXO, Inc.",United States,3300,12.6
+SBNY,Signature Bank,United States,4800,11
+SCCO,Southern Copper Corporation,United States,1100,31.1
+SCHW,Charles Schwab Corp,United States,4800,24.4
+SEDG,"SolarEdge Technologies, Inc.",Israel,1200,19.8
+SEIC,SEI Investments Company,United States,4800,23.3
+SGEN,"Seagen, Inc.",United States,2300,-45.5
+SHW,Sherwin-Williams Company,United States,2200,63.4
+SIVB,SVB Financial Group,United States,4800,8.4
+SJM,J.M. Smucker Company,United States,2400,10.8
+SLB,Schlumberger NV,United States,3100,20.9
+SNA,Snap-on Incorporated,United States,1400,18.4
+SNOW,"Snowflake, Inc. Class A",United States,3300,1.3
+SNPS,"Synopsys, Inc.",United States,3300,25.9
+SO,Southern Company,United States,4700,12.6
+SPG,"Simon Property Group, Inc.",United States,4800,88.7
+SPGI,"S&P Global, Inc.",United States,3200,10.4
+SPOT,Spotify Technology SA,Luxembourg,3300,-16.5
+SQ,"Block, Inc. Class A",United States,3300,3.5
+SRE,Sempra Energy,United States,4700,10.8
+SSNC,"SS&C Technologies Holdings, Inc.",United States,3300,16.6
+ST,Sensata Technologies Holding PLC,United States,1300,15.8
+STLD,"Steel Dynamics, Inc.",United States,1100,20.9
+STT,State Street Corporation,United States,4800,12.2
+STZ,"Constellation Brands, Inc. Class A",United States,2400,20.2
+SUI,"Sun Communities, Inc.",United States,4800,3.5
+SWK,"Stanley Black & Decker, Inc.",United States,1400,2.6
+SWKS,"Skyworks Solutions, Inc.",United States,1300,25.5
+SYF,Synchrony Financial,United States,4800,16.1
+SYK,Stryker Corporation,United States,2300,20.8
+SYY,Sysco Corporation,United States,4600,140.3
+T,AT&T Inc.,United States,4900,16.3
+TAL,TAL Education Group Sponsored ADR Class A,China,3200,-2.5
+TAP,Molson Coors Beverage Company Class B,United States,2400,6.2
+TCOM,Trip.com Group Ltd. Sponsored ADR,China,3400,0.6
+TDY,Teledyne Technologies Incorporated,United States,1300,10.2
+TEAM,Atlassian Corp Class A,United States,3300,48.9
+TECH,Bio-Techne Corporation,United States,2300,16
+TEL,TE Connectivity Ltd.,Switzerland,1300,18
+TER,"Teradyne, Inc.",United States,1300,19.6
+TFC,Truist Financial Corporation,United States,4800,11.2
+TFX,Teleflex Incorporated,United States,2300,15.2
+TGT,Target Corporation,United States,3500,24.8
+TJX,TJX Companies Inc,United States,3500,64.1
+TME,Tencent Music Entertainment Group Sponsored ADR Class A,China,3300,7.1
+TMO,Thermo Fisher Scientific Inc.,United States,2300,19.3
+TMUS,"T-Mobile US, Inc.",United States,4900,12.9
+TRMB,Trimble Inc.,United States,3300,15.7
+TROW,T. Rowe Price Group,United States,4800,16.8
+TRU,TransUnion,United States,3200,14.4
+TRV,"Travelers Companies, Inc.",United States,4800,13.7
+TSCO,Tractor Supply Company,United States,3500,50.9
+TSLA,Tesla Inc,United States,1400,24
+TSN,"Tyson Foods, Inc. Class A",United States,2400,7.9
+TT,Trane Technologies plc,Ireland,1200,29.2
+TTD,"Trade Desk, Inc. Class A",United States,3300,22.8
+TTWO,"Take-Two Interactive Software, Inc.",United States,3300,7.5
+TUYA,"Tuya, Inc. Sponsored ADR Class A",China,3300,-10.9
+TWLO,"Twilio, Inc. Class A",United States,3300,2.2
+TXN,Texas Instruments Incorporated,United States,1300,42.9
+TXT,Textron Inc.,United States,1300,14.2
+TYL,"Tyler Technologies, Inc.",United States,3300,10.8
+U,"Unity Software, Inc.",United States,3300,-5.6
+UAL,"United Airlines Holdings, Inc.",United States,4600,36.3
+UBER,"Uber Technologies, Inc.",United States,4600,-1.8
+UDR,"UDR, Inc.",United States,4800,4.8
+UHS,"Universal Health Services, Inc. Class B",United States,3350,12.1
+ULTA,Ulta Beauty Inc.,United States,3500,62.1
+UNH,UnitedHealth Group Incorporated,United States,3350,25.5
+UNP,Union Pacific Corporation,United States,4600,59.1
+UPS,"United Parcel Service, Inc. Class B",United States,4600,43.1
+URI,"United Rentals, Inc.",United States,4800,30.2
+USB,U.S. Bancorp,United States,4800,15.7
+V,Visa Inc. Class A,United States,3200,41.7
+VEEV,Veeva Systems Inc Class A,United States,3300,18.3
+VFC,V.F. Corporation,United States,2400,24.1
+VICI,VICI Properties Inc,United States,4800,5
+VIPS,Vipshop Holdings Ltd Sponsored ADR,China,3500,16.5
+VLO,Valero Energy Corporation,United States,2100,30
+VMC,Vulcan Materials Company,United States,1100,10.6
+VMW,"VMware, Inc. Class A",United States,3300,179
+VNO,Vornado Realty Trust,United States,4800,-0.1
+VOYA,"Voya Financial, Inc.",United States,4800,14.6
+VRSK,Verisk Analytics Inc,United States,3300,44.5
+VRTX,Vertex Pharmaceuticals Incorporated,United States,2300,22.5
+VST,Vistra Corp.,United States,4700,26.3
+VTR,"Ventas, Inc.",United States,4800,-0.3
+VTRS,"Viatris, Inc.",United States,2300,20.2
+VZ,Verizon Communications Inc.,United States,4900,20.6
+WAB,Westinghouse Air Brake Technologies Corporation,United States,1200,9.5
+WAT,Waters Corporation,United States,2300,178.7
+WB,Weibo Corp. Sponsored ADR Class A,China,3300,12
+WBA,"Walgreens Boots Alliance, Inc.",United States,3500,16.3
+WBD,"Warner Bros. Discovery, Inc. Series A",United States,3400,-9.6
+WDAY,"Workday, Inc. Class A",United States,3300,16.1
+WDC,Western Digital Corporation,United States,1300,-8
+WEC,WEC Energy Group Inc,United States,4700,12
+WELL,Welltower Inc,United States,4800,1.7
+WFC,Wells Fargo & Company,United States,4800,10.6
+WHR,Whirlpool Corporation,United States,1400,31.1
+WLK,Westlake Corporation,United States,2200,12.4
+WM,"Waste Management, Inc.",United States,3100,31.1
+WMB,"Williams Companies, Inc.",United States,2100,18.9
+WMT,Walmart Inc.,United States,3500,20.9
+WPC,W. P. Carey Inc.,United States,4800,6.2
+WRB,W. R. Berkley Corporation,United States,4800,16.7
+WRK,WestRock Company,United States,2200,6.5
+WST,"West Pharmaceutical Services, Inc.",United States,2300,17.5
+WTW,Willis Towers Watson Public Limited Company,United Kingdom,4800,16.1
+WU,Western Union Company,United States,4800,142.7
+WY,Weyerhaeuser Company,United States,4800,6.5
+XEL,Xcel Energy Inc.,United States,4700,10.7
+XOM,Exxon Mobil Corporation,United States,2100,21.1
+XPO,"XPO, Inc.",United States,4600,20.9
+XRAY,"DENTSPLY SIRONA, Inc.",United States,2300,11.7
+YMM,Full Truck Alliance Co. Ltd. Sponsored ADR,China,4600,3.1
+YSG,Yatsen Holding Ltd. ADR Class A,China,3500,-18.4
+YY,"JOYY, Inc. Sponsored ADR Class A",Singapore,3300,2.7
+Z,"Zillow Group, Inc. Class C",United States,3300,5.2
+ZBH,"Zimmer Biomet Holdings, Inc.",United States,2300,11.4
+ZBRA,Zebra Technologies Corporation Class A,United States,1300,27.1
+ZG,"Zillow Group, Inc. Class A",United States,3300,5.2
+ZH,"Zhihu, Inc. Sponsored ADR",China,3300,-13.9
+ZI,ZoomInfo Technologies Inc,United States,3300,15.6
+ZION,"Zions Bancorporation, N.A.",United States,4800,18.4
+ZLAB,Zai Lab Ltd. Sponsored ADR,China,2300,-46.6
+ZM,"Zoom Video Communications, Inc. Class A",United States,3300,19.7
+ZS,"Zscaler, Inc.",United States,3300,30.5
+ZTS,"Zoetis, Inc. Class A",United States,2300,41.7
